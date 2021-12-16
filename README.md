@@ -1,6 +1,8 @@
 ## Log4Shell IOCs from CERT Orange Cyberdefense Threat Intelligence Datalake
 
-CERT Orange Cyberdefense share here IOCs related to Log4Shell threat from our Datalake Threat Intelligence. This service is available on subscription for our customers: [info](https://orangecyberdefense.com/global/all-services/detect-respond/managed-threat-intelligence-detect/?platform=hootsuite&utm_campaign=HSCampaign) & [datasheet](https://orangecyberdefense.com/global/wp-content/uploads/sites/12/2021/06/MTI_DS_EN.pdf).
+Orange Cyberdefense CERT share here IOCs related to Log4Shell threat extracted from our Datalake Threat Intelligence platform. Those IOC are collected automatically and provided to you without any prior verification.
+
+Additional information and filtering capabilities are directly available on our platform : [info](https://orangecyberdefense.com/global/all-services/detect-respond/managed-threat-intelligence-detect/?platform=hootsuite&utm_campaign=HSCampaign) & [datasheet](https://orangecyberdefense.com/global/wp-content/uploads/sites/12/2021/06/MTI_DS_EN.pdf).
 
 ### Collections available
 
