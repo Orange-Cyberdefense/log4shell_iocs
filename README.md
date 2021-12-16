@@ -4,6 +4,8 @@ Orange Cyberdefense CERT share here IOCs related to Log4Shell threat extracted f
 
 Additional information and filtering capabilities are directly available on our platform : [info](https://orangecyberdefense.com/global/all-services/detect-respond/managed-threat-intelligence-detect/?platform=hootsuite&utm_campaign=HSCampaign) & [datasheet](https://orangecyberdefense.com/global/wp-content/uploads/sites/12/2021/06/MTI_DS_EN.pdf).
 
+Orange Cyberdefense blog post about Log4Shell: [link](https://orangecyberdefense.com/global/blog/threat/log4j-vulnerability/)
+
 ### Collections available
 
 - [OCD-Datalake-Log4Shell_IOCs-ALL.csv](./OCD-Datalake-Log4Shell_IOCs-ALL.csv): all IOCs related to Log4Shell
