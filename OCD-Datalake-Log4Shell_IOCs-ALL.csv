@@ -4939,6 +4939,11 @@ url,http://62.210.130.250:80/web/admin/x86
 url,http://62.210.130.250:80/web/admin/x86_64
 url,http://62.210.130.250:80/web/admin/x86_g
 url,http://68.183.165.105/.l/log
+url,http://68.183.165.105/.l/pty1
+url,http://68.183.165.105/.l/pty2
+url,http://68.183.165.105/.l/pty3
+url,http://68.183.165.105/.l/pty4
+url,http://68.183.165.105/.l/pty5
 url,http://6c8d7dd40593.bingsearchlib.com:39356/a
 url,http://78.31.71.248:1389
 url,http://78.31.71.248:1389/lewrgz
