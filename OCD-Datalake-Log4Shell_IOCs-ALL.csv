@@ -1,6 +1,6 @@
 atom_type,atom_value
 domain,300gsyn.it
-domain,Nazi.uy
+domain,41.me
 domain,ab-ui.com
 domain,abrahackbugs.xyz
 domain,apacheorg.top
@@ -13,6 +13,7 @@ domain,canarytokens.com
 domain,cuminside.club
 domain,dataastatistics.com
 domain,dnslog.cn
+domain,doh.li
 domain,eg0.ru
 domain,flofire.de
 domain,interact.sh
@@ -20,18 +21,22 @@ domain,interactsh.com
 domain,kryptoslogic-cve-2021-44228.com
 domain,leakix.net
 domain,log4j-test.xyz
+domain,log4shell-iocs.md
 domain,m3.wtf
+domain,nazi.uy
 domain,nijat.space
 domain,psc4fuel.com
 domain,pwn.af
 domain,rce.ee
 domain,requestbin.net
+domain,ryedge.io
 domain,scanworld.net
 domain,vikingo.org
 domain,x41.me
 file,01808c569903f41a52e7e7b575caa890
 file,0579a8907f34236b754b07331685d79e
 file,07b7746b922cf7d7fa821123a226ed36
+file,0a34b668102bc070e8cb1d1fc1b0b462
 file,0bb39ba78fc976edb9c26de1cecd60eb
 file,0c876245dfdeb17c0ad472b0356cd5658b384f6a
 file,0e1a1382d4fd420f8a5ae1d88b3085e7
@@ -43,6 +48,7 @@ file,1780d9aaf4c048ad99fa93b60777e3f9
 file,18cc66e29a7bc435a316d9c292c45cc6
 file,19370ef36f43904a57a667839727c09c50d5e94df43b9cfb3183ba766c4eae3d
 file,194db367fbb403a78d63818c3168a355
+file,1b671c42ed304dc34ba41ac9f7666a251336455894350af40f402c30afd497df
 file,1cf9b0571decff5303ee9fe3c98bb1f1
 file,1db40b7e18cf228169d2f5d73bf27ef7
 file,1e051111c4cf327775dc3bab4df4bf85
@@ -63,12 +69,14 @@ file,39fc2cee0a2bea3ee9a065f6955ffd43
 file,3c7a4da4190ceac25f28719794e2b9e6d62105c1
 file,3dfbe75871e218d08328a01c56e1bb42
 file,40e3b969906c1a3315e821a8461216bb
+file,460b096aaf535b0b8f0224da0f04c7f7997c62bf715839a8012c1e1154a38984
 file,4c97321bcd291d2ca82c68b02cde465371083dace28502b7eb3a88558d7e190c
 file,51e052eb6032d11b3093fecb901870ea
 file,550f9f929bcb99aeaa3821779d8dea62
 file,5ac6ded41f9a61cd9d026e91af47b695
 file,5b30284b34dcc1912326812c7d2ea723
 file,5c46098887e488d91f42c6d9b93b17b2736c9f4cb5a4a1e476c87c0d310a3f28
+file,5c8710638fad8eeac382b0323461892a3e1a8865da3625403769a4378622077e
 file,6370939d4ff51b934b7a2674ee7307ed06111ab3b896a8847d16107558f58e5b
 file,63d43e5b292b806e857470e53412310ad7103432ba3390ecd4f74e432530a8a9
 file,64808f03e967d15a7907c41fa0d34e89
@@ -111,6 +119,7 @@ file,b3a6fe5bc3883fd26c682bb6271a700b8a6fe006ad8df6c09cc87530fcd3a778
 file,b55ddbaee7abf1c73570d6543dd108df0580b08f730de299579570c23b3078c0
 file,bf6935865f63c32c0530a61da9b85d53
 file,c01383125df1ecbc5bb85249a57e764c
+file,c05f8b395c6356bf99aad9c84c13a867
 file,c154d739cab62e958944bb4ac5ebad6e965a0442a3f1c1d99d56137e3efa8e40
 file,c38c21120d8c17688f9aeb2af5bdafb6b75e1d2673b025b720e50232f888808a
 file,c38f0f809a1d8c50aafc2f13185df1441345f83f6eb4ef9c48270b9bd90c6799
@@ -128,6 +137,7 @@ file,d766bd832973a991c5894a3521c9815e
 file,d9f82dbf8733f15f97fb352467c9ab21
 file,dbc9125192bd1994cbb764f577ba5dda
 file,ded558217c327d8f5c3f8b36118380ab
+file,dedeb1640850a6ef21cc0efb5f1f96309f62dc10308c6b6c35a9cdadaaeffa13
 file,e121d1050bf62a94adfde406325e70a7878b3ed8
 file,e20806791aeae93ec120e728f892a8850f624ce2052205ddb3f104bbbfae7f80
 file,e4c8b03ff8cdf1fa63b7d15db6e3860b
@@ -160,6 +170,8 @@ fqdn,01fde8c5eef6.bingsearchlib.com
 fqdn,023371450809.bingsearchlib.com
 fqdn,0241465b.probe001.log4j.leakix.net
 fqdn,024e5d4e29f6.bingsearchlib.com
+fqdn,029e7c6c.probe001.log4j.leakix.net
+fqdn,0384eb5a.probe001.log4j.leakix.net
 fqdn,0455cf49e9f0.bingsearchlib.com
 fqdn,047f1f300c55.bingsearchlib.com
 fqdn,04ab391429fa.bingsearchlib.com
@@ -256,6 +268,7 @@ fqdn,2106e8634be7.bingsearchlib.com
 fqdn,2174d47e8d04.bingsearchlib.com
 fqdn,21cfb0f4.probe001.log4j.leakix.net
 fqdn,22.21fqfx.dnslog.cn
+fqdn,223bdb31890b475c.y.psc4fuel.com
 fqdn,224bb1fc26e9.bingsearchlib.com
 fqdn,22524e9c8fbb.bingsearchlib.com
 fqdn,22e1457310ea.bingsearchlib.com
@@ -357,6 +370,7 @@ fqdn,43065f484327.bingsearchlib.com
 fqdn,447d3a339473.bingsearchlib.com
 fqdn,44cca783ad16.bingsearchlib.com
 fqdn,44dd10a4e8e0.bingsearchlib.com
+fqdn,4568-3409-8076-3389.service.exfil.site
 fqdn,45a046dc35a2.bingsearchlib.com
 fqdn,45cecd2f38ca.bingsearchlib.com
 fqdn,4697ca73.probe001.log4j.leakix.net
@@ -737,6 +751,7 @@ fqdn,c56d4b328f98.bingsearchlib.com
 fqdn,c5921cee5a6b.bingsearchlib.com
 fqdn,c5eb13fe41b6.bingsearchlib.com
 fqdn,c5eca394e493.bingsearchlib.com
+fqdn,c6pnncggjk7jk873c9e0cg3zzcoyyyyyn.interactsh.com
 fqdn,c6ps4ipurnhssm2608l0cg37chyyykyhk.interact.sh
 fqdn,c6ps4ipurnhssm2608l0cg37pdyyykbug.interact.sh
 fqdn,c6ps4rekeidcvgqlsmsgcg37qdoyyknz4.interact.sh
@@ -772,6 +787,7 @@ fqdn,cfd644602c8c.bingsearchlib.com
 fqdn,cfda08bc9cf9.bingsearchlib.com
 fqdn,cff1fbafb9a9.bingsearchlib.com
 fqdn,cuminside.club
+fqdn,d.a1x.live
 fqdn,d01e6ec48be7.bingsearchlib.com
 fqdn,d03e2367.probe001.log4j.leakix.net
 fqdn,d12436900580.bingsearchlib.com
@@ -826,6 +842,7 @@ fqdn,dns.flatuslifir.is
 fqdn,dns.hostux.net
 fqdn,dns.rubyfish.cn
 fqdn,dns.twnic.tw
+fqdn,dns.wapiti3.ovh
 fqdn,doh-fi.blahdns.com
 fqdn,doh.centraleu.pi-dns.com
 fqdn,doh.defaultroutes.de
@@ -947,9 +964,11 @@ fqdn,http443useragent.kryptoslogic-cve-2021-44228.com
 fqdn,http80path.kryptoslogic-cve-2021-44228.com
 fqdn,http80useragent.kryptoslogic-cve-2021-44228.com
 fqdn,interactsh.com
+fqdn,jjug8i.xaliyun.com
 fqdn,kryptoslogic-cve-2021-44228.com
 fqdn,li466-34.members.linode.com
 fqdn,li826-29.members.linode.com
+fqdn,lnc7vvhztmjdfm221sdp76xnze5atz.burpcollaborator.net
 fqdn,log.exposedbotnets.ru
 fqdn,log4dns.x00.it
 fqdn,log4j-test.xyz
@@ -1018,9 +1037,11 @@ fqdn,poc.brzozowski.io
 fqdn,psc4fuel.com
 fqdn,pwn.af
 fqdn,rce.ee
+fqdn,rr.uhf.org.ua
 fqdn,ryedge.io
 fqdn,securityscanner.cyber-risk.upguard.com
 fqdn,u3l7ck.dnslog.cn
+fqdn,vyvdsvh.x.i.yunzhanghu.co
 fqdn,world443.log4j.binaryedge.io
 fqdn,world80.log4j.binaryedge.io
 fqdn,xyzuv12x8szr9ls5um3yx9zxn.canarytokens.com
@@ -1675,6 +1696,7 @@ ip,159.203.58.73
 ip,159.203.8.145
 ip,159.223.38.35
 ip,159.223.42.182
+ip,159.223.43.161
 ip,159.223.5.30
 ip,159.223.56.6
 ip,159.223.61.102
