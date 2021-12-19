@@ -1168,6 +1168,8 @@ fqdn,http443path.kryptoslogic-cve-2021-44228.com
 fqdn,http443useragent.kryptoslogic-cve-2021-44228.com
 fqdn,http80path.kryptoslogic-cve-2021-44228.com
 fqdn,http80useragent.kryptoslogic-cve-2021-44228.com
+fqdn,i.l33t-ppl.info
+fqdn,i.shadow-mods.net
 fqdn,jjug8i.xaliyun.com
 fqdn,kryptoslogic-cve-2021-44228.com
 fqdn,li466-34.members.linode.com
@@ -1339,6 +1341,7 @@ url,http://135.125.217.87/jndi.sh
 url,http://135.125.217.87/jndialive.sh
 url,http://135.125.217.87/static.c
 url,http://135.125.217.87/stlalive.sh
+url,http://137.184.174.180:8082/Exploit.class
 url,http://138.197.206.223/.x/xmra32
 url,http://138.197.206.223/.x/xmra64
 url,http://141.98.83.139:18080/nG60k1
@@ -1347,6 +1350,7 @@ url,http://141.98.83.139:18080/ng60k1
 url,http://141.98.83.139:18080/ng60k1/rwjxfwxcbe
 url,http://141.98.83.139:9883/exp.class
 url,http://146.112.61.110/exploit.class
+url,http://150.60.139.51/wp-content/themes/twentyseventeen/s.cmd
 url,http://152.67.63.150/py
 url,http://154.247.218.44:8000/wsnbb.sh
 url,http://154.82.110.5:1234/win.exe
@@ -1385,6 +1389,7 @@ url,http://164.52.212.196:88/s.ps1
 url,http://164.52.212.196:88/st.sh
 url,http://164.52.212.196:88/st.vbs
 url,http://164.52.212.196:88/sys.ps1
+url,http://165.22.2.186/wp-content/themes/twentyseventeen/Exploit.class
 url,http://165.227.239.108/stl.sh
 url,http://170.178.196.41:1111/pglQLHfm
 url,http://170.178.196.41:35244/qIoPIauO
@@ -1392,6 +1397,7 @@ url,http://170.178.196.41:8080/UKTPAnRvns
 url,http://172.105.241.146
 url,http://172.105.241.146:80
 url,http://172.105.241.146:80/wp-content/themes/twentysixteen/s.cmd
+url,http://179.43.175.101:8180/ExecTemplateJDK8.class
 url,http://18.228.7.109
 url,http://18.228.7.109/.log
 url,http://18.228.7.109/.log/log
@@ -1416,6 +1422,9 @@ url,http://193.196.53.232
 url,http://193.196.53.232/Jamf
 url,http://193.3.19.159/logme.class
 url,http://195.19.192.28/kinsing
+url,http://198.98.60.67/bins/arm
+url,http://198.98.60.67/bins/x86
+url,http://198.98.60.67/lh.sh
 url,http://205.185.113.59:1234/.inis
 url,http://205.185.113.59:1234/.rsyslogds
 url,http://205.185.113.59:1234/xms
@@ -1445,6 +1454,10 @@ url,http://34.221.40.237/.x/pty2
 url,http://34.221.40.237/.x/pty3
 url,http://34.221.40.237/.x/pty4
 url,http://34.221.40.237/.x/pty5
+url,http://34.221.40.237/.x/pty6
+url,http://34.221.40.237/.x/pty7
+url,http://34.221.40.237/.x/pty8
+url,http://34.221.40.237/.x/pty9
 url,http://3be6466b6a20.bingsearchlib.com:39356/a
 url,http://3e87f42214144c0e9550.y.psc4fuel.com/zg6wo.class
 url,http://45.130.229.168/exploit.class
@@ -1479,6 +1492,7 @@ url,http://68.183.165.105/.l/pty2
 url,http://68.183.165.105/.l/pty3
 url,http://68.183.165.105/.l/pty4
 url,http://68.183.165.105/.l/pty5
+url,http://68.183.165.105/wp-content/themes/twentyseventeen/xmrig64.exe
 url,http://6c8d7dd40593.bingsearchlib.com:39356/a
 url,http://78.31.71.248:1389
 url,http://78.31.71.248:1389/lewrgz
