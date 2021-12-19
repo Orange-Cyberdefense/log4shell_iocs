@@ -1201,6 +1201,8 @@ fqdn,g3lcfo.dnslog.cn
 fqdn,http443useragent.kryptoslogic-cve-2021-44228.com
 fqdn,http80path.kryptoslogic-cve-2021-44228.com
 fqdn,http80useragent.kryptoslogic-cve-2021-44228.com
+fqdn,i.l33t-ppl.info
+fqdn,i.shadow-mods.net
 fqdn,interactsh.com
 fqdn,jjug8i.xaliyun.com
 fqdn,kryptoslogic-cve-2021-44228.com
@@ -1916,6 +1918,7 @@ ip,147.182.242.241
 ip,148.252.129.123
 ip,149.129.95.75
 ip,149.28.141.243
+ip,149.28.240.17
 ip,15.165.232.131
 ip,150.158.189.96
 ip,150.158.91.179
@@ -2637,6 +2640,7 @@ ip,178.79.155.29
 ip,178.79.157.186
 ip,178.79.157.61
 ip,179.178.111.2
+ip,179.43.175.101
 ip,179.43.187.138
 ip,18.116.198.114
 ip,18.116.198.125
@@ -3484,6 +3488,7 @@ ip,34.247.50.189
 ip,34.65.121.142
 ip,34.75.39.119
 ip,34.80.118.173
+ip,35.166.85.114
 ip,35.170.71.122
 ip,35.180.227.84
 ip,35.193.211.95
@@ -5285,6 +5290,10 @@ url,http://34.221.40.237/.x/pty2
 url,http://34.221.40.237/.x/pty3
 url,http://34.221.40.237/.x/pty4
 url,http://34.221.40.237/.x/pty5
+url,http://34.221.40.237/.x/pty6
+url,http://34.221.40.237/.x/pty7
+url,http://34.221.40.237/.x/pty8
+url,http://34.221.40.237/.x/pty9
 url,http://3be6466b6a20.bingsearchlib.com:39356/a
 url,http://3e87f42214144c0e9550.y.psc4fuel.com/zg6wo.class
 url,http://45.130.229.168/exploit.class
