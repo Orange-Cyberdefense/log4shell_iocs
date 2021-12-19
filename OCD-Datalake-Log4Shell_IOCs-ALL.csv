@@ -3290,6 +3290,7 @@ ip,209.141.55.26
 ip,209.141.58.146
 ip,209.141.58.149
 ip,209.141.59.180
+ip,209.141.61.220
 ip,209.145.61.76
 ip,209.58.146.134
 ip,209.58.146.160
@@ -5240,6 +5241,7 @@ url,http://170.178.196.41:8080/UKTPAnRvns
 url,http://172.105.241.146
 url,http://172.105.241.146:80
 url,http://172.105.241.146:80/wp-content/themes/twentysixteen/s.cmd
+url,http://179.43.175.101:8180/ExecTemplateJDK8.class
 url,http://18.228.7.109
 url,http://18.228.7.109/.log
 url,http://18.228.7.109/.log/log
@@ -5264,7 +5266,9 @@ url,http://193.196.53.232
 url,http://193.196.53.232/Jamf
 url,http://193.3.19.159/logme.class
 url,http://195.19.192.28/kinsing
+url,http://198.98.60.67/bins/arm
 url,http://198.98.60.67/bins/x86
+url,http://198.98.60.67/lh.sh
 url,http://205.185.113.59:1234/.inis
 url,http://205.185.113.59:1234/.rsyslogds
 url,http://205.185.113.59:1234/xms
