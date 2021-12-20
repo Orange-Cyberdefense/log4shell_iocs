@@ -22,6 +22,7 @@ domain,kryptoslogic-cve-2021-44228.com
 domain,leakix.net
 domain,log4j-test.xyz
 domain,log4shell-iocs.md
+domain,longwang-sword.com
 domain,m3.wtf
 domain,mj12bot.com
 domain,nazi.uy
@@ -254,6 +255,7 @@ file,9c6fc361f49627f13957604e1478593555d28984
 file,9d598e5d2d936f0b4e6bce15f661033c83d4be6123277f2f10072ca8708dbe89
 file,9d647f2d1a9dd9a86ba18c42ff5da444
 file,9dd9f74484642fabce8ace0849072cbd96cdff90784cbecf9e1f8d1875acc24b
+file,9faf1dbcb4942cf3e3578414402180ed
 file,a16189ede9b4b2240654e38ccc5c4d386c37b4375f1c7ad752a5c8ba0f770232
 file,a191dbc673dc3d5eb1c4736a8278ca57
 file,a354ff4416bc11331b3a66fc7d0ef583d3420aa06e33620e4529ebbc07c1a1f6
@@ -1299,6 +1301,7 @@ fqdn,yourdns.zone.here
 ip,1.116.59.211
 ip,1.14.17.89
 ip,1.15.175.155
+ip,1.15.84.219
 ip,1.179.247.182
 ip,1.209.249.188
 ip,1.209.47.241
@@ -5302,6 +5305,7 @@ url,http://185.191.32.198/lh.sh
 url,http://185.191.32.198/unk.sh
 url,http://185.250.148.157:8005/acc
 url,http://185.250.148.157:8005/index
+url,http://188.166.57.35:8000/Binary.class
 url,http://193.196.53.232
 url,http://193.196.53.232/Jamf
 url,http://193.3.19.159/logme.class
@@ -5415,14 +5419,19 @@ url,http://app04.gpsts.co.za/report/asset/rwlogbook.class?7m6wlbv3hofiq6iziq9ti4
 url,http://b79fe53524f04aeb.y.psc4fuel.com/wmi6p.class
 url,http://c54f05d3df5740bb.y.psc4fuel.com/9y8ah.class
 url,http://c6pj00ppfhiq0g1pq80gcg3i5hyyggscg.interactsh.com/exploit.class
+url,http://csminas.ddns.net/W6G/FBAuWkkklgbtq.bin
+url,http://cucsur.udgvirtual.udg.mx/oa/2020/SisTur/71P2/LKgrPRYhxVYkkklgbtq.bin
+url,http://cucsur.udgvirtual.udg.mx/oa/2020/SisTur/G99ZTE/m.py
 url,http://d.requestbin.net/exploit.class
 url,http://dqwowqjudhqwdhasdadadw.com/noe/itpidd.class
 url,http://e86eafcf9294.bingsearchlib.com:39356/a
+url,http://ioa.sool3.com.ar/greybox/YJQ/nEPSFGibBtIZkkklgbtq.bin
 url,http://kmwor1d.asuscomm.com/explit.class
 url,http://litpartyrentals.com/wp-content/cache/wpfc-minified/67273691029ce8ed8d3b62f94192b675/maxusers.class
 url,http://pickyourfavadnetwork.com/pwnme.class
 url,http://second-stage.attacker.com/exploit.class
 url,http://second-stage.example.com/exploit.class
+url,http://skyviewonlineltd.com/KX21XM/ilfwuakkklgbtq.bin
 url,http://test.verble.rocks/dorflersaladreviews.bin.encrypted
 url,http://test.verble.rocks/dorflersaladreviews.jar
 url,http://www.woodmagazine.com/default.sph/wcontent_user.class?fnc=categorylink__astory1_html___7___47
@@ -5435,6 +5444,7 @@ url,https://164.52.212.196:88/je
 url,https://45.130.229.168:1389/Exploit
 url,https://attacker.com/exploit.class
 url,https://baldervain.com/19-1k3pp1-fc-ear-jkoc-d1j9.class
+url,https://bpnjabar.tams-app.com/Q6FP/EvVGQtOtkSGFPkkklgbtq.bin
 url,https://bvprzqhoz7j2ltin.onion.ly/src/ldm
 url,https://bvprzqhoz7j2ltin.onion.ly/src/main
 url,https://bvprzqhoz7j2ltin.onion.ws/src/ldm
@@ -5448,6 +5458,9 @@ url,https://cdn.discordapp.com/attachments/912401139310411857/913540738904637440
 url,https://cdn.discordapp.com/attachments/912401139310411857/914552762925195304/hud.class
 url,https://cdn.discordapp.com/attachments/912401139310411857/916049575435993138/lucidphase.class
 url,https://cdn.fbsbx.com/v/t59.2708-21/261523260_570309860735261_6837498676061670623_n.class/gradesusingarrayswithsorting.class
+url,https://daftar.site/ANASOO/ZqpHydykkkklgbtq.bin
+url,https://daftar.site/DIIZ/aXXjQAZugmfgEvkkklgbtq.bin
+url,https://daftar.site/HEQ1AL/XsjhBjOkmtkkklgbtq.bin
 url,https://gandalinir.com/a-frllx-h1b-gdf-cl3s-i1my.class
 url,https://gandalinir.com/a-frllx-h1b-gdf-cl3s-i1my.class?subid_7=1u3ct181jk09t
 url,https://gimmoxen.com/19-1jrsa8-ic-dar-jkys-h1j9.class
@@ -5470,6 +5483,7 @@ url,https://github.com/offensive-security/exploitdb-bin-sploits/raw/master/bin-s
 url,https://github.com/tangxiaofeng7/apache-log4j-poc/blob/main/target/classes/log4j.class
 url,https://icme.hpc.msstate.edu/mediawiki/images/9/9a/nnd_.class
 url,https://ij.imjoy.io/ij153/plugins/filters/fast_filters
+url,https://medino.co.in/khgqz/22PAG1/MxOMekkklgbtq.bin
 url,https://mionakora.com/f-my6w7-b1o-idz-dksp-e1nm.class
 url,https://mionakora.com/k-rx4nk-c1o-gdz-ekih-j1nm.class
 url,https://pasrtsebarium.com/14-1dznzz-hc-dar-ikys-g1j9.class
@@ -5483,6 +5497,7 @@ url,https://pasrtsebarium.com/u-12t8pw-cc-far-gkw2-i1j9.class
 url,https://pasrtsebarium.com/u/14-1dznzz-hc-dar-ikys-g1j9.class
 url,https://pasrtsebarium.com/u/5-a0pr5-hc-gar-bklh-c1j9.class?subid_1=16355373&subid_2=6ad0dd36-3ed9-425c-862a-d60aaf740a43&subid_7=98o96qm7wu4mqmnqkcgphb
 url,https://pasrtsebarium.com/u/a-e3ge9-bc-dar-ckwv-h1j9.class
+url,https://preusz.com/Y6E/lAEJRQoZtqYkkklgbtq.bin
 url,https://raw.githubusercontent.com/offensive-security/exploitdb-bin-sploits/master/bin-sploits/40848.class
 url,https://shosril.com/z-19fsc4-e1d-gdp-hk8q-b1mw.class
 url,https://shosril.com/z-19fsc4-e1d-gdp-hk8q-b1mw.class?subid_7=mtil5mi1puqgy5wnkx2ygp
