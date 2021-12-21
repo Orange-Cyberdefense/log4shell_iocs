@@ -1441,6 +1441,7 @@ url,http://205.185.113.59:1234/.inis
 url,http://205.185.113.59:1234/.rsyslogds
 url,http://205.185.113.59:1234/xms
 url,http://205.185.113.59:1234/xmss
+url,http://209.141.46.114/reader
 url,http://210.141.105.67/wp-content/themes/twentythirteen/m8
 url,http://210.141.105.67:80
 url,http://210.141.105.67:80/wp-content/themes/twentythirteen/m8
@@ -1489,6 +1490,9 @@ url,http://45.155.205.233:5874/87.138.139.76:443
 url,http://45.83.193.150:1389
 url,http://4579997215e7750180a8.d.requestbin.net/exploit.class
 url,http://47.243.78.246/12
+url,http://51.250.28.5/.l/log
+url,http://51.250.28.5/.l/pty3
+url,http://51.250.28.5/.l/pty4
 url,http://54.210.230.186:80/wp-content/themes/twentyfourteen/xmrig.exe
 url,http://62.210.130.250/lh.sh
 url,http://62.210.130.250/web/admin
