@@ -213,6 +213,7 @@ file,7b4b1f12103d5e4f83298ea6272d5d0e0174fee9
 file,7b72cf30ac42c20f0a14b0b87425c00a
 file,7b8ce524ae078a76a69548aebb95cb7e
 file,7bbe13204ac45a31344a71a0e260ffe0
+file,7c0cacd55626c49d5280b494b1b58089
 file,7cef5fbfdb2369c4168d875a508952fce6a76b59
 file,7d3f686801ae3f90f36aae17f7a66478
 file,7feb4d36a33f43d7a1bb254e425ccd458d3ea921
@@ -317,6 +318,7 @@ file,c154d739cab62e958944bb4ac5ebad6e965a0442a3f1c1d99d56137e3efa8e40
 file,c18d3128042528e4a1ea9e34a9300bad
 file,c1d7e4716561cf0f055cdb17b29f4e5f08fdc9a6
 file,c3120f5ba0f16ce6d7145b4658c184f0063c2f65979c3ff390fafbec72bab582
+file,c319e30e4158f138d2f787720b88354a2f9a7faff686f1f6e9a8fd73b2371a66
 file,c3211cff43c409cccdbb0e6243a80a6fb41c6017
 file,c338233378d48b0dadda42c0a4fa2a31
 file,c38c21120d8c17688f9aeb2af5bdafb6b75e1d2673b025b720e50232f888808a
@@ -344,6 +346,7 @@ file,cfbabb363ccd730638a8581b68c1034ccd474207
 file,cfe0df9d02b3e50ae100135ed944200edffa5c52
 file,d0a372f3748674ccc70f81601c3f226ef92cc8e92c78bef328e7e45217c1a87f
 file,d127acedaedb230eb3a7fde24a30774367aaee9f
+file,d130296b50a12cbb4a21a720fa4f24e666bf749f233dac2ab2fac41d23fb061b
 file,d20478a01344026a0ecd60b0b29e9bc1
 file,d226bb11446561f78ffe8abca02fd3f088dc7483
 file,d4cf8e4ab26f7fd15ef7df9f7937493d
@@ -2695,6 +2698,7 @@ ip,181.215.140.23
 ip,182.118.237.234
 ip,182.118.237.42
 ip,182.131.31.122
+ip,182.16.44.234
 ip,182.253.160.196
 ip,182.99.234.10
 ip,182.99.234.148
@@ -5437,6 +5441,9 @@ url,http://e86eafcf9294.bingsearchlib.com:39356/a
 url,http://ioa.sool3.com.ar/greybox/YJQ/nEPSFGibBtIZkkklgbtq.bin
 url,http://kmwor1d.asuscomm.com/explit.class
 url,http://litpartyrentals.com/wp-content/cache/wpfc-minified/67273691029ce8ed8d3b62f94192b675/maxusers.class
+url,http://longwang-sword.com:8000/Exploit.class
+url,http://longwang-sword.com:8000/Exploit.java
+url,http://longwang-sword.com:9001/bin/sh
 url,http://lurchmath.org/wordpress-temp/wp-content/plugins/mine.bat
 url,http://lurchmath.org/wordpress-temp/wp-content/plugins/nssm.zip
 url,http://lurchmath.org/wordpress-temp/wp-content/plugins/xmrig-6.zip
@@ -5574,6 +5581,7 @@ url,https://raw.githubusercontent.com/offensive-security/exploitdb-bin-sploits/m
 url,https://shosril.com/z-19fsc4-e1d-gdp-hk8q-b1mw.class
 url,https://shosril.com/z-19fsc4-e1d-gdp-hk8q-b1mw.class?subid_7=mtil5mi1puqgy5wnkx2ygp
 url,https://sites.google.com/view/maintest01
+url,https://tria.ge/211220-rpvyzabfap
 url,https://vemgreild.com/5-azqw4-c1h-idz-bkwv-g1nl.class
 url,https://vemgreild.com/a-eyszl-h1h-fdz-ck8r-d1nl.class?subid_1=4681023&subid_2=10_1968469&subid_7=487737896030442354
 url,https://vemgreild.com/a-gl8vi-e1h-hdz-cksp-g1nl.class
