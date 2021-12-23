@@ -69,6 +69,7 @@ file,0c054d4e4dd5455c9ff8f01efe5abb10
 file,0c876245dfdeb17c0ad472b0356cd5658b384f6a
 file,0e1a1382d4fd420f8a5ae1d88b3085e7
 file,0e359c6e9c0635d4c79dabbfc22edaa3fa2f2e6e5d41049c84b1a63ebf799261
+file,0e3ff7a455dec6ba7acc4d6a0c7a2f23
 file,0e574fd30e806fe4298b3cbccb8d1089454f42f52892f87554325cb352646049
 file,0f6eaec34516e9645410d704dd6accaa381dd23ac2aba3801e208f59d296923a
 file,0f7c2dd019afcc092fd421ee52431aff
@@ -100,6 +101,7 @@ file,1d00e0318a520fbde56a74b03e156a4077f85e31dbce7577718c6bc389a58b29
 file,1db40b7e18cf228169d2f5d73bf27ef7
 file,1e051111c4cf327775dc3bab4df4bf85
 file,1e18156affc3a50e01ae215e404a9316
+file,1eb57c707cda232f769620019f5b389fe3523d38bb1e59eaded916e0073df8e4
 file,1f932de60e885b0ecba116656250d254
 file,1fe52c0b0139660b2335dd7b7c12ea05
 file,20df80b56b1b6ffc8ca49f8ad3ab7b81
@@ -220,6 +222,7 @@ file,71e644015f646f7532c7dd2c3c847364
 file,720a3a92e72054dc8d58e229c22bb892
 file,7356212c0268bfdf78e089b0b9f3a32d
 file,75bc0d4022b20fae1f5610109691184e
+file,764bff77120ed108c4248c3cd68a2e55
 file,79271d57c531c79536bc0be0d71e3a372bed9c10689257a7727475ab41e3e161
 file,792963b0e361910c73d0ff528355d7eb09ffb8e6
 file,798e4ce0287392cfe9c4f6d0905d004d8e435882
@@ -26315,6 +26318,7 @@ url,http://141.98.83.139:18080/nG60k1/RWjxFwxCBE
 url,http://141.98.83.139:18080/ng60k1
 url,http://141.98.83.139:18080/ng60k1/rwjxfwxcbe
 url,http://141.98.83.139:9883/exp.class
+url,http://144.172.71.180:8080
 url,http://144.202.34.169:1389/Binary
 url,http://144.202.34.169:8001/Binary.class
 url,http://146.112.61.110/exploit.class
@@ -26414,6 +26418,7 @@ url,http://209.141.46.114/reader
 url,http://210.141.105.67/wp-content/themes/twentythirteen/m8
 url,http://210.141.105.67:80
 url,http://210.141.105.67:80/wp-content/themes/twentythirteen/m8
+url,http://23.94.7.237:2333
 url,http://2599ddb9ef1b4a50.y.psc4fuel.com/oz7tc.class
 url,http://3.145.115.94/Main.class
 url,http://3.145.115.94/zambo/groenhuyzen.exe
@@ -26426,6 +26431,7 @@ url,http://31.220.58.29/exploit0.class
 url,http://31.220.58.29/foo.class
 url,http://31.220.58.29:80
 url,http://32fce0c1f193.bingsearchlib.com:39356/a
+url,http://34.152.14.220
 url,http://34.221.40.237/.x
 url,http://34.221.40.237/.x/1sh
 url,http://34.221.40.237/.x/3sh
@@ -26457,10 +26463,14 @@ url,http://45.155.205.233:12344/Basic/Command/Base64/KGN1cmwgLXMgNDUuMTU1LjIwNS4
 url,http://45.155.205.233:12344/Basic/Command/Base64/KGN1cmwgLXMgNDUuMTU1LjIwNS4yMzM6NTg3NC9bdmljdGltIElQXTpbdmljdGltIHBvcnRdfHx3Z2V0IC1xIC1PLSA0NS4xNTUuMjA1LjIzMzo1ODc0L1t2aWN0aW0gSVBdOlt2aWN0aW0gcG9ydF0pfGJhc2gK
 url,http://45.155.205.233:5874
 url,http://45.155.205.233:5874/87.138.139.76:443
+url,http://45.76.191.147
 url,http://45.83.193.150:1389
+url,http://45.95.53.183
 url,http://4579997215e7750180a8.d.requestbin.net/exploit.class
 url,http://47.243.78.246/12
+url,http://5.101.118.127:1389/Exploit
 url,http://51.159.52.196:443
+url,http://51.178.86.242
 url,http://51.250.28.5/.l/log
 url,http://51.250.28.5/.l/pty3
 url,http://51.250.28.5/.l/pty4
@@ -26487,6 +26497,7 @@ url,http://78.31.71.248:1389/lewrgz
 url,http://78.31.71.248:8180/ExecTemplateJDK8.class
 url,http://796066049b484f65.y.psc4fuel.com/wpjgh.class
 url,http://7faf976567f5.bingsearchlib.com:39356/a
+url,http://8.214.77.64:8089
 url,http://80.71.158.12/Exploit69ogQNSQYz.class
 url,http://80.71.158.12/curl-amd64
 url,http://80.71.158.12/exploit69ogqnsqyz.class
@@ -26498,6 +26509,7 @@ url,http://80.71.158.12:5557/Basic/Command/Base64/KGN1cmwgLXMgODAuNzEuMTU4LjEyL2
 url,http://80.71.158.12:80
 url,http://80.71.158.44/kinsing
 url,http://80.71.158.44/lh.sh
+url,http://81.68.128.31:8081
 url,http://82.118.18.201/cron.sh
 url,http://82.118.18.201/curl-amd64
 url,http://82.118.18.201/kinsing
@@ -26838,3 +26850,4 @@ url,https://vemgreild.com/u-12bb0h-h1h-edz-gi9g-f1nl.class
 url,https://vemgreild.com/z-1aqd7l-d1h-idz-hlaf-j1nl.class
 url,https://www.advintel.io/post/ransomware-advisory-log4shell-exploitation-for-initial-access-lateral-movement
 url,https://wwwcie.ups.com/u.a/l.class?8rnctevzjrbtwwbamndjd8frhhmrrtmhdlp0sp
+url,ldap://182.16.44.234:1389/Exp%7D&amp
