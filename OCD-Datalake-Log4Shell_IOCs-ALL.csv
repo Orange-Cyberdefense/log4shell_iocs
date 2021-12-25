@@ -156,6 +156,7 @@ file,44893d0924d8e3015bfed9c1bd166fa01b5ca693
 file,460b096aaf535b0b8f0224da0f04c7f7997c62bf715839a8012c1e1154a38984
 file,464dc763c817efdd80f93da98eaa45a3feb667d63902735301490461ee41c279
 file,477b49df42b2cd2805fcffa8de2dd14d732628e1e1c2132cb22b8687ee9312d3
+file,4871e162df46eac32da7cab645032829
 file,4b4de839ca7ae59b30c8623128a5c3dc5fd50a32
 file,4c2ddff1ca4003ca5e3ad897363b55c21041155d
 file,4c97321bcd291d2ca82c68b02cde465371083dace28502b7eb3a88558d7e190c
@@ -1050,6 +1051,7 @@ fqdn,cac58d0dec7f.bingsearchlib.com
 fqdn,cae2a7d6dd75.bingsearchlib.com
 fqdn,cae8316bd429.bingsearchlib.com
 fqdn,canarytokens.com
+fqdn,cao.300gsyn.it
 fqdn,cb322b88c2ea.bingsearchlib.com
 fqdn,cb734220a05d.bingsearchlib.com
 fqdn,cbac4cbd9ab7.bingsearchlib.com
@@ -1326,6 +1328,7 @@ fqdn,u3l7ck.dnslog.cn
 fqdn,vyvdsvh.x.i.yunzhanghu.co
 fqdn,world443.log4j.binaryedge.io
 fqdn,world80.log4j.binaryedge.io
+fqdn,www.7cfa.win
 fqdn,www.fixstudio.co.kr
 fqdn,xyzuv12x8szr9ls5um3yx9zxn.canarytokens.com
 fqdn,y0ho9z.dnslog.cn
@@ -13082,6 +13085,7 @@ ip,192.236.162.239
 ip,192.236.179.121
 ip,192.236.193.138
 ip,192.236.193.63
+ip,192.236.198.127
 ip,192.241.132.9
 ip,192.241.136.138
 ip,192.241.142.95
