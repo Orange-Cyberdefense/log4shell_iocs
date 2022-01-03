@@ -113,6 +113,7 @@ file,1b9f62cc340fe7f39d6268b6265d6f9dc3686cee
 file,1bcdc3f9a76d2aeb1711cb987b7bf045f70aee09910bc35dcd3a6faf9a3948a4
 file,1cf9b0571decff5303ee9fe3c98bb1f1
 file,1d00e0318a520fbde56a74b03e156a4077f85e31dbce7577718c6bc389a58b29
+file,1d4e4c312e9ad81832e2ad8f9578df81
 file,1db40b7e18cf228169d2f5d73bf27ef7
 file,1e051111c4cf327775dc3bab4df4bf85
 file,1e18156affc3a50e01ae215e404a9316
@@ -27167,6 +27168,7 @@ url,http://198.98.60.67/bins/arm
 url,http://198.98.60.67/bins/x86
 url,http://198.98.60.67/lh.sh
 url,http://2.58.149.206/reader
+url,http://2.58.149.206/star
 url,http://205.185.113.59:1234/.inis
 url,http://205.185.113.59:1234/.rsyslogds
 url,http://205.185.113.59:1234/xms
