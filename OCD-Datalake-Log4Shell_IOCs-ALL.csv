@@ -396,6 +396,7 @@ file,a7cb258b9c36f49c148834a3a35b53fe73c28777
 file,a87cc375413b79a89a04626d1def3bdb35cd3e2e
 file,a970ed882313caa59335fc0bc48c7d81
 file,aa40c49e309959fa04b7e5ac111bb770
+file,ab7560e5c8af4f453fa4d79f9704e45e
 file,ab80c03c460bd3d6a631fd0cedddef49
 file,abfffbc733c72fb32b07b9cc227069c1
 file,ac15b2b73f44c9f67a3fc907ec34d897e068ca29
@@ -27654,6 +27655,9 @@ url,http://185.254.196.122:4445
 url,http://188.166.57.35:1389
 url,http://188.166.57.35:1389/Binary
 url,http://188.166.57.35:8000/Binary.class
+url,http://192.210.200.66:1234/.inis
+url,http://192.210.200.66:1234/.rsyslogds
+url,http://192.210.200.66:1234/xmss
 url,http://193.196.53.232
 url,http://193.196.53.232/Jamf
 url,http://193.3.19.159/logme.class
