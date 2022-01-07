@@ -27545,6 +27545,7 @@ url,http://114.132.231.19/2.hta
 url,http://114.132.231.19/OK1.hta
 url,http://114.132.231.19/hfs.exe
 url,http://114.132.231.19:80
+url,http://121.140.99.236:1389/Exploit
 url,http://121.41.109.54:2204
 url,http://129.226.180.53/xmrig_setup/raw/master/setup_c3pool_miner.sh
 url,http://129.226.180.53/xmrig_setup/raw/master/xmrig.tar.gz
