@@ -360,6 +360,7 @@ file,963b4f516b86c9d8b30befe714cedb22
 file,97337a4e48f3722db0c82caac6e6e04c9377f64e96edbc7179a00107b2d396cf
 file,979fc0cf8460302e4ffbfe38c1b66a99450b0bb7
 file,989bbd2b84eba4b88a4b2a889393fac5b297e1df
+file,998b2c120362ba1138073ac4868f5e44
 file,9a92c8ed2efd7a32d0c6be3ddc472940fc3f4da7
 file,9b22dc965582572dd8f07f452228b18b
 file,9b4c34b0c627ba2b7e8f6dadad5c158a
@@ -8195,6 +8196,7 @@ ip,159.223.105.180
 ip,159.223.105.200
 ip,159.223.11.158
 ip,159.223.117.217
+ip,159.223.124.211
 ip,159.223.14.139
 ip,159.223.15.157
 ip,159.223.161.229
@@ -27619,6 +27621,17 @@ url,http://155.94.154.170/aaa
 url,http://155.94.154.170/bbb
 url,http://155.94.154.170/log4j
 url,http://157.230.189.52/wp-content/themes/twentynineteen/ldm
+url,http://159.223.124.211/8UsA.sh
+url,http://159.223.124.211/bins/seversk.arm
+url,http://159.223.124.211/bins/seversk.arm5
+url,http://159.223.124.211/bins/seversk.arm6
+url,http://159.223.124.211/bins/seversk.m68k
+url,http://159.223.124.211/bins/seversk.mips
+url,http://159.223.124.211/bins/seversk.mpsl
+url,http://159.223.124.211/bins/seversk.ppc
+url,http://159.223.124.211/bins/seversk.sh4
+url,http://159.223.124.211/bins/seversk.spc
+url,http://159.223.124.211/bins/seversk.x86
 url,http://159.223.5.30/server.py
 url,http://159.223.5.30/target/log4shell-1.0-SNAPSHOT.war
 url,http://159.223.5.30/target/marshalsec-0.0.3-SNAPSHOT-all.jar
