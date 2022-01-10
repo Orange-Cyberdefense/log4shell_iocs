@@ -323,6 +323,7 @@ file,81fbe69a36650504b88756074a36c183
 file,843413de774035248d597941839e3b82
 file,843ce87037ac49892685f53b5139daacbbca55e5
 file,844864c45816b10356b730f450bd7037
+file,844e491577d646354d68e63239aba6f1
 file,84c2ccc2f2a4d4fe71249bad63252f32
 file,85338f694c844c8b66d8a1b981bcf38627f95579209b2662182a009d849e1a4c
 file,854e6a8fb83710409596725cf87ea0b6b900a8f68a29525f0bd7ba3ba41a1fbf
@@ -515,6 +516,7 @@ file,dc7d2d19e3893b810be6a5a280a5eed79342367a
 file,dc815be299f81c180aa8d2924f1b015f2c46686e866bc410e72de75f7cd41aae
 file,dcde6033b205433d6e9855c93740f798951fa3a3f252035a768d9f356fde806d
 file,dcffb04aa4ccf54137c0ac921e181afd
+file,dd0a2b55ee42ee1e15316e8d44edc501
 file,dd0e3e0b404083ec69618aabb50b8ac0
 file,de8d01cc15fd0c74fea8bbb668e289f5
 file,ded558217c327d8f5c3f8b36118380ab
@@ -5741,6 +5743,7 @@ ip,131.191.107.34
 ip,131.255.106.152
 ip,131.72.127.126
 ip,132.145.123.227
+ip,132.145.60.108
 ip,132.145.82.174
 ip,132.154.11.212
 ip,132.154.20.240
@@ -22799,6 +22802,7 @@ ip,51.89.134.84
 ip,51.89.151.197
 ip,51.89.194.152
 ip,51.89.204.5
+ip,51.89.210.140
 ip,51.89.223.6
 ip,51.89.223.7
 ip,51.89.237.81
@@ -27719,6 +27723,17 @@ url,http://198.98.60.67/bins/x86
 url,http://198.98.60.67/lh.sh
 url,http://2.58.149.206/reader
 url,http://2.58.149.206/star
+url,http://2.58.149.95/8UsA.sh
+url,http://2.58.149.95/bins/jerusalem.arm
+url,http://2.58.149.95/bins/jerusalem.arm5
+url,http://2.58.149.95/bins/jerusalem.arm6
+url,http://2.58.149.95/bins/jerusalem.m68k
+url,http://2.58.149.95/bins/jerusalem.mips
+url,http://2.58.149.95/bins/jerusalem.mpsl
+url,http://2.58.149.95/bins/jerusalem.ppc
+url,http://2.58.149.95/bins/jerusalem.sh4
+url,http://2.58.149.95/bins/jerusalem.spc
+url,http://2.58.149.95/bins/jerusalem.x86
 url,http://205.185.113.59:1234/.inis
 url,http://205.185.113.59:1234/.rsyslogds
 url,http://205.185.113.59:1234/xms
