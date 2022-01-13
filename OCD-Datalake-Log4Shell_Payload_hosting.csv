@@ -1390,6 +1390,7 @@ ip,64.37.231.169
 ip,64.37.231.202
 ip,64.37.231.204
 ip,64.37.231.206
+ip,64.39.106.87
 ip,66.23.227.195
 ip,67.205.191.102
 ip,78.31.71.248
@@ -1445,6 +1446,7 @@ url,http://155.94.154.170/aaa
 url,http://155.94.154.170/bbb
 url,http://155.94.154.170/log4j
 url,http://157.230.189.52/wp-content/themes/twentynineteen/ldm
+url,http://158.101.118.236/setup
 url,http://159.223.124.211/8UsA.sh
 url,http://159.223.124.211/bins/seversk.arm
 url,http://159.223.124.211/bins/seversk.arm5
@@ -1759,7 +1761,6 @@ url,http://www.woodmagazine.com/default.sph/wcontent_user.class?fnc=popupimgfa__
 url,http://www.woodmagazine.com/default.sph/wcontent_user.class?fnc=printstory__astory1_html___7___47___129___389
 url,http://www.woodmagazine.com/default.sph/wcontent_user.class?fnc=subcatlink__astory1_html___7___47___129
 url,https://015ed9119662.bingsearchlib.com:39356/a
-url,https://158.101.118.236/setup
 url,https://164.52.212.196:88/je
 url,https://45.130.229.168:1389/Exploit
 url,https://attacker.com/exploit.class
