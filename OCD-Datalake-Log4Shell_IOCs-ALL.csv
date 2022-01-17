@@ -9137,6 +9137,7 @@ ip,165.22.27.31
 ip,165.22.28.103
 ip,165.22.28.242
 ip,165.22.33.109
+ip,165.22.33.143
 ip,165.22.59.30
 ip,165.22.61.235
 ip,165.22.63.46
@@ -13806,6 +13807,7 @@ ip,191.136.108.137
 ip,191.136.192.167
 ip,191.191.38.8
 ip,191.193.139.48
+ip,191.232.194.71
 ip,191.232.208.184
 ip,191.232.38.25
 ip,191.235.78.80
@@ -15567,6 +15569,7 @@ ip,2.56.214.233
 ip,2.56.221.83
 ip,2.56.240.119
 ip,2.56.56.116
+ip,2.56.56.117
 ip,2.56.56.122
 ip,2.56.56.215
 ip,2.56.57.115
@@ -27693,6 +27696,12 @@ url,http://144.202.34.169:1389/Binary
 url,http://144.202.34.169:8001/Binary.class
 url,http://146.112.61.110/exploit.class
 url,http://147.182.197.118/lshboot
+url,http://149.56.42.244/hl
+url,http://149.56.42.244/ht
+url,http://149.56.42.244/initd
+url,http://149.56.42.244/sshd
+url,http://149.56.42.244/ulimit.sh
+url,http://149.56.42.244/x86
 url,http://150.60.139.51/wp-content/themes/twentyseventeen/s.cmd
 url,http://150.60.139.51:80/wp-content/themes/twentyseventeen/s.cmd
 url,http://152.67.63.150/py
@@ -27812,6 +27821,17 @@ url,http://2.56.56.117/bins/exlir.ppc
 url,http://2.56.56.117/bins/exlir.sh4
 url,http://2.56.56.117/bins/exlir.spc
 url,http://2.56.56.117/bins/exlir.x86
+url,http://2.56.56.117/zato/Josho.arm
+url,http://2.56.56.117/zato/Josho.arm5
+url,http://2.56.56.117/zato/Josho.arm6
+url,http://2.56.56.117/zato/Josho.arm7
+url,http://2.56.56.117/zato/Josho.m68k
+url,http://2.56.56.117/zato/Josho.mips
+url,http://2.56.56.117/zato/Josho.mpsl
+url,http://2.56.56.117/zato/Josho.ppc
+url,http://2.56.56.117/zato/Josho.sh4
+url,http://2.56.56.117/zato/Josho.spc
+url,http://2.56.56.117/zato/Josho.x86
 url,http://2.58.149.206/reader
 url,http://2.58.149.206/star
 url,http://2.58.149.95/8UsA.sh
