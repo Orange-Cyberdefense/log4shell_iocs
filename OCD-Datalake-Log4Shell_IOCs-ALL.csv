@@ -62,6 +62,7 @@ file,025f5fd230c30937378fb225020ec75a
 file,02dce67429fad2edd674a80d239127190f2bf02e
 file,035940bd120a72e2da1b6b7bb8b4efab46232761
 file,03929346001b0e09b4a8608132993ef6cf8f52a3
+file,0482c09ebc72f17f2fc88cc94ca11aad
 file,04a84f9dfdaea338ce6b7e9b4faec1c812b23ec3
 file,0579a8907f34236b754b07331685d79e
 file,057a48fe378586b6913d29b4b10162b4b5045277f1be66b7a01fb7e30bd05ef3
@@ -310,6 +311,7 @@ file,798e4ce0287392cfe9c4f6d0905d004d8e435882
 file,7b09767e5a6317cbea14ff3b59d65938f69fc53e2f21fae3bcc239a672ef50e9
 file,7b4b1f12103d5e4f83298ea6272d5d0e0174fee9
 file,7b4f1c79f1edcb6b36a92debd5a81b96
+file,7b626ad5266914bfdaa9ea586d1422f6
 file,7b72cf30ac42c20f0a14b0b87425c00a
 file,7b8ce524ae078a76a69548aebb95cb7e
 file,7bbe13204ac45a31344a71a0e260ffe0
@@ -483,6 +485,7 @@ file,c8ba8bcfd8f068a19b89f112e80a9e56
 file,c8d0355e439c74ae436d3c409fe4b1f7b1c6c2d6fb97d2375bbaa49de94f642b
 file,c98e4eb1d67963ad6d854e3afe950387
 file,c9ff9dc137e97cbed9f12118c85cc99dce746ac6c66a45e21312091f5fca1fff
+file,cab144ad7e9336df3847ddd62d49737587abdf31f20a852f477b64aeb67fee75
 file,cad088ba9c43e1a13bba0a3d44bec1ef42bd22fdf12dad2bd73a22666bfbd009
 file,cb0e012924d6c2980250fe0c3c892bde9f9aeb75b86baf5bbee7d28904186546
 file,ccef46c7edf9131ccffc47bd69eb743b
@@ -22788,6 +22791,7 @@ ip,51.222.19.125
 ip,51.222.199.255
 ip,51.222.21.120
 ip,51.222.234.64
+ip,51.222.46.204
 ip,51.222.56.151
 ip,51.222.9.155
 ip,51.222.96.164
@@ -25243,6 +25247,7 @@ ip,80.71.157.12
 ip,80.71.157.67
 ip,80.71.158.12
 ip,80.71.158.44
+ip,80.71.158.96
 ip,80.76.42.45
 ip,80.78.22.30
 ip,80.78.24.203
@@ -27981,6 +27986,8 @@ url,http://80.71.158.12:5557/Basic/Command/Base64/KGN1cmwgLXMgODAuNzEuMTU4LjEyL2
 url,http://80.71.158.12:80
 url,http://80.71.158.44/kinsing
 url,http://80.71.158.44/lh.sh
+url,http://80.71.158.96/d.py
+url,http://80.71.158.96/xms?sp
 url,http://81.68.128.31:8081
 url,http://82.118.18.201/cron.sh
 url,http://82.118.18.201/curl-amd64
@@ -28341,3 +28348,4 @@ url,https://vemgreild.com/z-1aqd7l-d1h-idz-hlaf-j1nl.class
 url,https://www.advintel.io/post/ransomware-advisory-log4shell-exploitation-for-initial-access-lateral-movement
 url,https://wwwcie.ups.com/u.a/l.class?8rnctevzjrbtwwbamndjd8frhhmrrtmhdlp0sp
 url,ldap://182.16.44.234:1389/Exp%7D&amp
+url,ldap://192.3.194.202:8080/o=tomcat
