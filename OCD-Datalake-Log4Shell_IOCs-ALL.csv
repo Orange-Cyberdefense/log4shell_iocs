@@ -140,6 +140,7 @@ file,26f330dadcdd717ef575aa5bfcdbe76a
 file,2752deb9f9f9602ca0c7bd41c3171d1560b929b6a4221ab07b0bf872d042f7e7
 file,27a35a6b5b41701832d8a4975f888210ebb56b7986da74140448c80a11c215eb
 file,2803991d51c98421be35d2db4ed3c2ac
+file,28309840c17a1d398f9150ae258b5cdd
 file,28433734bd9e3121e0a0b78238d5131837b9dbe26f1a930bc872bad44e68e44e
 file,293cb386c69e40b297f1148cc55b97612263e0bcd0610f4fe7348746f43d0e1d
 file,2945df7e51c538be9007cf331b38afb24c5a323061aa765a83130a5adfafa07f
@@ -5735,6 +5736,7 @@ ip,13.76.229.116
 ip,13.76.94.179
 ip,13.77.222.211
 ip,13.77.63.81
+ip,13.78.223.142
 ip,13.78.67.152
 ip,13.78.67.156
 ip,13.78.67.42
@@ -27828,6 +27830,14 @@ url,http://188.166.57.35:8000/Binary.class
 url,http://192.210.200.66:1234/.inis
 url,http://192.210.200.66:1234/.rsyslogds
 url,http://192.210.200.66:1234/xmss
+url,http://192.3.1.12/AB4g5/Josho.arm5
+url,http://192.3.1.12/AB4g5/Josho.arm6
+url,http://192.3.1.12/AB4g5/Josho.arm7
+url,http://192.3.1.12/AB4g5/Josho.m68k
+url,http://192.3.1.12/AB4g5/Josho.mips
+url,http://192.3.1.12/AB4g5/Josho.mpsl
+url,http://192.3.1.12/AB4g5/Josho.ppc
+url,http://192.3.1.12/AB4g5/Josho.sh4
 url,http://193.196.53.232
 url,http://193.196.53.232/Jamf
 url,http://193.3.19.159/logme.class
