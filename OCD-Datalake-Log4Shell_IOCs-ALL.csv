@@ -155,6 +155,7 @@ file,2b557bf1023c3a3a0f7f200fafcd7641b89cbb83
 file,2b5f04d15e459132a5935260746788db39b469ea46859c4a5bb8625f8a80bd41
 file,2b63e0e5063fdaccf669a1e26384f3fd
 file,2be463a710be42bb6b4831b980f0d270b98ff233
+file,2c005d6077de1cdf955c6196dff3707f
 file,2d3b859f2ad3f0e296fd29c1abc5eb80b4dabe7c0b9d9a3b44821c9ed8e015b1
 file,2e5188227421b68fca64d07c9a298115ccdd6b1f
 file,2e8d52acfc8c2bbbaa7baf9f3678826c354f5405
@@ -162,6 +163,7 @@ file,2f5769c38b6e5f4c59b7d831ed612395
 file,2fbc3b9421bc770831a724d9e467c7dbc220dc41c0ca21d33a45893be4ff82d4
 file,30c54cfcf088fdcc349dcc7f58b73794afb83b675dfde152617d2a121ec49ad8
 file,31823dcde108f2ea4a5801d1acc77869d7696533
+file,32b545353f4e968dc140c14bc436ce2a91aacd82
 file,32cb569f3bda0431e53972a0835613a0470714e8
 file,32e83337b0a85623d1485cdddbd3cbfda5046aee89f66cb11b7a6dd7e109247c
 file,33272d903f777ef7f5334c0f45fe1aba74c932fd60bacb117df7fa39a1335f64
@@ -353,6 +355,7 @@ file,8e07f5fca7d2a1bdd82e1c916b2dbb83922f9879
 file,8e9febc8182af31bab8038b9179c5808
 file,8f87799c2bd24c120812ed3d5271b743cfc999b5
 file,8fd4416f84d30f0480b2676c0fe3e31ce1e10d5f3d88d10bc6cc3e5d878ba0b2
+file,8fd635ff70b99b4be59b149af86d1519d2047213b518501328b2add221b01372
 file,90f9e1fdec81ccf508fc58f3d23156b5
 file,9275f5d57709e2204900d3dae2727f5932f85d3813ad31c9d351def03dd3d03d
 file,933568969efe6b3f8c0621200f0eea5a
@@ -407,6 +410,7 @@ file,a693a81614d87869fcd995f3e98596b5
 file,a727fe8e718b18d541f67077c99b2ca129f77065
 file,a7cb258b9c36f49c148834a3a35b53fe73c28777
 file,a87cc375413b79a89a04626d1def3bdb35cd3e2e
+file,a8e4c7a7a786572398c0f504b3c5df58ea02ca1865e0dd57e5c7ab6ac21177f6
 file,a970ed882313caa59335fc0bc48c7d81
 file,aa40c49e309959fa04b7e5ac111bb770
 file,ab7560e5c8af4f453fa4d79f9704e45e
@@ -533,6 +537,7 @@ file,dd0a2b55ee42ee1e15316e8d44edc501
 file,dd0e3e0b404083ec69618aabb50b8ac0
 file,de8d01cc15fd0c74fea8bbb668e289f5
 file,ded558217c327d8f5c3f8b36118380ab
+file,ded5ce04637c2114a0740b83623c0746adc645c3f5cb1a66e14bc6b59a648894
 file,dedeb1640850a6ef21cc0efb5f1f96309f62dc10308c6b6c35a9cdadaaeffa13
 file,df00277045338ceaa6f70a7b8eee178710b3ba51eac28c1142ec802157492de6
 file,df0f21d8358ea6690a2e3080ba5c5b2c21725480ffa0d8c813973d15201adc68
@@ -551,6 +556,7 @@ file,e6872486aa6eed9309d787637c287cae
 file,e6a6ca7b1aeed5f4cc1e43fd6384230e
 file,e74ec7381bf7020ec707bd722afe6d38
 file,e7dc681a6da4f2f203dccd1068a1ea090f67a057
+file,e7e7b19c255ea052bb3c59b5597cdc92e76abe4dab72dacb92b16b7029e0d72f
 file,e8adfebaff4958e707b9d841661c16b7
 file,e8b2a8d0c3444c53f143d0b4ba87c23dd1b58b03fd0a6b1bcd6e8358e57807f1
 file,e96da5f0d23c31152f96639e5e75b9c3c103402d5d1187e0db9135adb5a0dfe5
@@ -588,6 +594,7 @@ file,f6e51ea341570c6e9e4c97aee082822b
 file,f6ed9c56c8d58c4670059ddf417df23c9a78ff30
 file,f8766ecc7775a6b14e6e46ef1e162cb609179c7a44e39a393c8fcd2ef0cd8ff0
 file,f8ed43117dfb995f4b9d88f566394ba4
+file,f9322ead69300501356b13d751165daa
 file,fbfa5f33ab4b29a6fdd52473ee7b834d
 file,fccecf09f6dd95661a6303ac471adf13a1fc3419
 file,fd56ff5555fca9c38f1d4877f7951e10743ce7cd
@@ -1134,6 +1141,7 @@ fqdn,adac95b08630.bingsearchlib.com
 fqdn,adff2c73.probe001.log4j.leakix.net
 fqdn,agent.apacheorg.top
 fqdn,agent.apacheorg.xyz
+fqdn,api.rogerscorp.org
 fqdn,awsdns-2.org
 fqdn,b095b212c8be.bingsearchlib.com
 fqdn,b0f54bc8915e.bingsearchlib.com
@@ -27721,6 +27729,10 @@ url,http://137.184.174.180:8082/Exploit.class
 url,http://138.197.206.223/.x/xmra32
 url,http://138.197.206.223/.x/xmra64
 url,http://138.197.206.223/wp-content/themes/twentysixteen/dk86
+url,http://139.180.217.203:443/LockDown.dll
+url,http://139.180.217.203:443/mac.ini
+url,http://139.180.217.203:443/mac.tmp
+url,http://139.180.217.203:443/tna.conf
 url,http://141.98.83.139:18080/nG60k1
 url,http://141.98.83.139:18080/nG60k1/RWjxFwxCBE
 url,http://141.98.83.139:18080/ng60k1
@@ -28055,6 +28067,7 @@ url,http://93.189.42.8/lh.sh
 url,http://agent.apacheorg.top:1234/xmss
 url,http://agent.apacheorg.xyz:1234/v
 url,http://ahr0chm6ly93yxrjac5hbwf6b24uy28udws6ndqz.4579997215e7750180a8.d.requestbin.net/exploit.class
+url,http://api.rogerscorp.org:80
 url,http://app04.gpsts.co.za/report/asset/rwlogbook.class?7m6wlbv3hofiq6iziq9ti4ml1a0kltu1%202020-03-01%2000:00:00%202020-03-31%2023:59:59%20120%20csv%20fd5z8j7c01htm12zapbuvp5uzb3uq3rh
 url,http://b79fe53524f04aeb.y.psc4fuel.com/wmi6p.class
 url,http://c54f05d3df5740bb.y.psc4fuel.com/9y8ah.class
