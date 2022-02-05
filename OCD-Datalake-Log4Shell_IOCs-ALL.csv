@@ -258,6 +258,7 @@ file,5eb5ab96f8fc087135ef969ed99c76b64d255d44
 file,5f6744fa026a4638bda5b3d7d5e015dd
 file,5fcff086eafd4bed4e42687427fd00910fe26b1e
 file,5ff1dab00c278ab8c7d46aadc60b4074
+file,5ff22b524db21ebfa3c80a5a35db76bf36b6a25c2cb8cad01e039b7afaf91cf8
 file,6091ad14695e674043d1cc7ea8cc42d41ba00d7e5f78e1fabf8a8712036fed9c
 file,60e6a272868a36fab267c567088867fc0180bcc5
 file,610eea70cfaf3e652799b5b9208cbb5b99330a30
@@ -27715,6 +27716,7 @@ url,http://103.104.73.155:8002/acc
 url,http://103.104.73.155:8002/index
 url,http://103.104.73.155:8080/acc
 url,http://103.104.73.155:8080/index
+url,http://103.45.65.191:6576/spoofhosting
 url,http://104.129.12.141/abc
 url,http://104.129.12.141:8180/ExecTemplateJDK8.class
 url,http://110.42.239.3/2.hta
