@@ -47,6 +47,7 @@ domain,redteam.tf
 domain,requestbin.net
 domain,ryedge.io
 domain,scanworld.net
+domain,service-management.tk
 domain,shack2.org
 domain,sonicrain.com
 domain,tabak.hr
@@ -270,6 +271,7 @@ file,6091ad14695e674043d1cc7ea8cc42d41ba00d7e5f78e1fabf8a8712036fed9c
 file,60e6a272868a36fab267c567088867fc0180bcc5
 file,610eea70cfaf3e652799b5b9208cbb5b99330a30
 file,61b1f02ba86e433c19d9b4db2fa5dc9c47ea66ff
+file,624278ed3019a42131a3a3f6e0e2aac8d8c8b438
 file,62a42183afedccb320f5d41daa7363b42d08f316ee60626dabaeb5532b394a64
 file,62ad26fbfb783183663ba5bfdbfb5ace
 file,62cbdd65a97c8e4a7889ba2754886942a1ff31c2d879cdc65f3604de0d3d2482
@@ -285,6 +287,7 @@ file,685125b7b8bbd7c2f58259937090ac2ae9bcb129
 file,68d793940c28ddff6670be703690dfdf9e77315970c42c4af40ca7261a8570fa
 file,6954a18ac3a6b8c3ac051a6c02f81e6f0332c460
 file,6987ef17730d6b66173a1750b7520d1e4d3a25934b013c87406039659bae06e5
+file,6a2c91abf2b805365c847709215375af
 file,6a8965a0f897539cc06fefe65d1a4c5fa450d002d1a9d5d69d2b48f697ee5c05
 file,6ac57a1e090e7abdb9b7212e058c43c6
 file,6adb87b0b17aad528582f2dbf69add45
@@ -337,6 +340,7 @@ file,7cef5fbfdb2369c4168d875a508952fce6a76b59
 file,7d3f686801ae3f90f36aae17f7a66478
 file,7d86841489afd1097576a649094ae1efb79b3147cd162ba019861dfad4e9573b
 file,7ed845de1dfe070d43511fab321784e6c4118398
+file,7f680efadef8c0b3a192b2814077b7b5d8543d20dd24b1d8939f3fec013059a3
 file,7feb4d36a33f43d7a1bb254e425ccd458d3ea921
 file,7ff801f9782137fd29711b37166144e6
 file,80b690d982b030fb2f04854407744ff44e0b72ea
@@ -529,6 +533,7 @@ file,d127acedaedb230eb3a7fde24a30774367aaee9f
 file,d130296b50a12cbb4a21a720fa4f24e666bf749f233dac2ab2fac41d23fb061b
 file,d20478a01344026a0ecd60b0b29e9bc1
 file,d226bb11446561f78ffe8abca02fd3f088dc7483
+file,d28e07d2722f771bd31c9ff90b9c64d4a188435a
 file,d3bcd7d304ca56b6f685073ae65fd399
 file,d4485176aea67cc85f5ccc45bb66166f8bfc715ae4a695f0d870a1f8d848cc3d
 file,d4cf8e4ab26f7fd15ef7df9f7937493d
@@ -573,6 +578,7 @@ file,e64064f76e59dea46a0768993697ef2f
 file,e6872486aa6eed9309d787637c287cae
 file,e6a6ca7b1aeed5f4cc1e43fd6384230e
 file,e74ec7381bf7020ec707bd722afe6d38
+file,e76e9237c49e7598f2b3f94a2b52b01002f8e862
 file,e7dc681a6da4f2f203dccd1068a1ea090f67a057
 file,e7e7b19c255ea052bb3c59b5597cdc92e76abe4dab72dacb92b16b7029e0d72f
 file,e8adfebaff4958e707b9d841661c16b7
@@ -1453,6 +1459,7 @@ fqdn,flofire.de
 fqdn,friendly-test.cf0bc11b0af516d14673b91478300c4c9e01a08b.dns.cyberwar.nl
 fqdn,g3lcfo.dnslog.cn
 fqdn,goodjob36.publicvm.com
+fqdn,google.onedriver-srv.ml
 fqdn,homecare888.com
 fqdn,http443path.kryptoslogic-cve-2021-44228.com
 fqdn,http443useragent.kryptoslogic-cve-2021-44228.com
@@ -1566,6 +1573,8 @@ fqdn,wpcookie.net
 fqdn,www.7cfa.win
 fqdn,www.fixstudio.co.kr
 fqdn,www.hinitial.com
+fqdn,www.microsoft-updateserver.cf
+fqdn,www.service-management.tk
 fqdn,x2f.me
 fqdn,x9.x0.servers.nat-traversal.softether-network.net
 fqdn,xe.x7.servers.nat-traversal.softether-network.net
@@ -6912,12 +6921,14 @@ ip,142.4.200.50
 ip,142.4.205.238
 ip,142.4.214.111
 ip,142.4.219.173
+ip,142.44.135.86
 ip,142.44.145.208
 ip,142.44.163.110
 ip,142.44.203.85
 ip,142.44.236.6
 ip,142.44.240.149
 ip,142.44.247.57
+ip,142.44.251.77
 ip,142.68.28.22
 ip,142.93.102.244
 ip,142.93.104.141
@@ -11842,6 +11853,7 @@ ip,182.48.138.42
 ip,182.48.193.200
 ip,182.48.66.106
 ip,182.53.50.116
+ip,182.54.217.2
 ip,182.56.123.41
 ip,182.56.134.44
 ip,182.56.76.185
@@ -13930,6 +13942,7 @@ ip,189.51.118.78
 ip,189.54.223.244
 ip,189.58.157.145
 ip,189.59.20.19
+ip,189.60.18.93
 ip,189.61.33.38
 ip,189.62.175.92
 ip,189.74.148.76
@@ -19170,6 +19183,7 @@ ip,38.135.104.134
 ip,38.135.104.189
 ip,38.135.122.80
 ip,38.143.9.76
+ip,38.25.146.110
 ip,38.27.122.110
 ip,38.27.122.19
 ip,38.68.53.190
@@ -23282,7 +23296,11 @@ ip,51.83.79.151
 ip,51.89.115.112
 ip,51.89.128.193
 ip,51.89.134.84
+ip,51.89.135.142
 ip,51.89.151.197
+ip,51.89.169.198
+ip,51.89.178.210
+ip,51.89.190.128
 ip,51.89.194.152
 ip,51.89.204.5
 ip,51.89.210.140
@@ -27972,6 +27990,7 @@ ip,95.217.248.44
 ip,95.217.25.51
 ip,95.217.37.227
 ip,95.217.78.46
+ip,95.22.152.63
 ip,95.22.88.72
 ip,95.221.48.169
 ip,95.223.230.117
@@ -28904,7 +28923,9 @@ url,https://vemgreild.com/p-vnrla-c1h-ddz-fklh-h1nl.class?subid_2=ddd02f38-b70e-
 url,https://vemgreild.com/p-vnrla-c1h-ddz-fklh-h1nl.class?subid_2=ddd02f38-b70e-4483-a82a-f67b21ea1fb0&subid_7=q4v5apfnnkge3hzv1x35uy
 url,https://vemgreild.com/u-12bb0h-h1h-edz-gi9g-f1nl.class
 url,https://vemgreild.com/z-1aqd7l-d1h-idz-hlaf-j1nl.class
+url,https://webhook.site
 url,https://www.advintel.io/post/ransomware-advisory-log4shell-exploitation-for-initial-access-lateral-movement
+url,https://www.microsoft-updateserver.cf/gadfTs55sghsSSS
 url,https://wwwcie.ups.com/u.a/l.class?8rnctevzjrbtwwbamndjd8frhhmrrtmhdlp0sp
 url,ldap://182.16.44.234:1389/Exp%7D&amp
 url,ldap://192.3.194.202:8080/o=tomcat
