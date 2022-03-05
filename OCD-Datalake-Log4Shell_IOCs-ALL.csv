@@ -28507,6 +28507,7 @@ url,http://103.104.73.155:8080/index
 url,http://103.45.65.191:6576/spoofhosting
 url,http://104.129.12.141/abc
 url,http://104.129.12.141:8180/ExecTemplateJDK8.class
+url,http://106.246.224.219/.l
 url,http://110.42.239.3/2.hta
 url,http://110.42.239.3:80
 url,http://114.132.231.19/0.hta
@@ -29232,6 +29233,7 @@ url,https://www.advintel.io/post/24-hours-from-log4shell-to-local-admin-deep-div
 url,https://www.advintel.io/post/ransomware-advisory-log4shell-exploitation-for-initial-access-lateral-movement
 url,https://www.microsoft-updateserver.cf/gadfTs55sghsSSS
 url,https://wwwcie.ups.com/u.a/l.class?8rnctevzjrbtwwbamndjd8frhhmrrtmhdlp0sp
+url,ldap://115.28.134.231:1389/Exploit
 url,ldap://182.16.44.234:1389/Exp%7D&amp
 url,ldap://192.3.194.202:8080/o=tomcat
 url,ldap://45.12.32.14:1389/a
