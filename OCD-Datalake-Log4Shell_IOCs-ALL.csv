@@ -1589,6 +1589,7 @@ fqdn,t2.hinitial.com
 fqdn,tb8vukwsqgwossmm6zrifxhy4pafy4.burp.regala.im
 fqdn,teste.spedynet.com.br
 fqdn,u3l7ck.dnslog.cn
+fqdn,useragent.kryptoslogic-cve-2021-44228.com
 fqdn,v2.hinitial.com
 fqdn,v3.hinitial.com
 fqdn,v3hu2o.dnslog.cn
@@ -4822,6 +4823,7 @@ ip,117.34.7.117
 ip,117.36.0.131
 ip,117.50.173.122
 ip,117.50.174.147
+ip,117.50.178.9
 ip,117.50.37.182
 ip,117.51.140.12
 ip,117.51.143.137
