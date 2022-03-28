@@ -1586,6 +1586,7 @@ fqdn,s.homecare888.com
 fqdn,sabrajndi.site
 fqdn,securityscanner.cyber-risk.upguard.com
 fqdn,swat.outpost24.com
+fqdn,synprobe001.leakix.net
 fqdn,t1.hinitial.com
 fqdn,t2.hinitial.com
 fqdn,tb8vukwsqgwossmm6zrifxhy4pafy4.burp.regala.im
@@ -8590,6 +8591,7 @@ ip,159.65.186.222
 ip,159.65.189.107
 ip,159.65.194.103
 ip,159.65.20.230
+ip,159.65.200.34
 ip,159.65.204.222
 ip,159.65.205.106
 ip,159.65.212.227
@@ -28803,6 +28805,7 @@ url,http://159.223.5.30/target/log4shell-1.0-SNAPSHOT.war
 url,http://159.223.5.30/target/marshalsec-0.0.3-SNAPSHOT-all.jar
 url,http://159.89.182.117/wp-content/themes/twentyseventeen/ldm
 url,http://159.89.182.117:80
+url,http://160.20.145.225/national/dotsh.x86
 url,http://164.52.212.196
 url,http://164.52.212.196/1.jpg
 url,http://164.52.212.196/LogBack.exe
