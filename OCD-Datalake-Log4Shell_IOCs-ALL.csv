@@ -9397,6 +9397,7 @@ ip,163.172.91.171
 ip,163.172.97.117
 ip,163.179.173.136
 ip,163.179.217.182
+ip,163.197.16.92
 ip,163.197.22.109
 ip,163.197.41.251
 ip,163.47.222.85
@@ -17473,6 +17474,7 @@ ip,21.15.46.55
 ip,21.216.10.5
 ip,21.216.10.7
 ip,210.1.226.241
+ip,210.108.70.119
 ip,210.121.99.126
 ip,210.140.10.74
 ip,210.141.105.67
@@ -29429,6 +29431,8 @@ url,http://18.228.7.109/.log
 url,http://18.228.7.109/.log/log
 url,http://18.228.7.109/.log/pty1
 url,http://18.228.7.109/.log/pty2
+url,http://18.228.7.109/.log/pty3
+url,http://18.228.7.109/.log/pty4
 url,http://18.228.7.109/.log/pty5
 url,http://18.228.7.109:80
 url,http://185.112.83.116:8080/drv
@@ -29853,8 +29857,6 @@ url,http://zabbix.fenixnetcom.com.br/QKX1J/fuck_niggers_37.hta
 url,http://zabbix.fenixnetcom.com.br/W0NO3/fuck_niggers_14.hta
 url,https://015ed9119662.bingsearchlib.com:39356/a
 url,https://164.52.212.196:88/je
-url,https://18.228.7.109/.log/pty3
-url,https://18.228.7.109/.log/pty4
 url,https://45.130.229.168:1389/Exploit
 url,https://attacker.com/exploit.class
 url,https://baldervain.com/19-1k3pp1-fc-ear-jkoc-d1j9.class

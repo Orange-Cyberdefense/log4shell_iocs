@@ -1747,6 +1747,8 @@ url,http://18.228.7.109/.log
 url,http://18.228.7.109/.log/log
 url,http://18.228.7.109/.log/pty1
 url,http://18.228.7.109/.log/pty2
+url,http://18.228.7.109/.log/pty3
+url,http://18.228.7.109/.log/pty4
 url,http://18.228.7.109/.log/pty5
 url,http://18.228.7.109:80
 url,http://185.112.83.116:8080/drv
@@ -2054,8 +2056,6 @@ url,http://www.woodmagazine.com/default.sph/wcontent_user.class?fnc=printstory__
 url,http://www.woodmagazine.com/default.sph/wcontent_user.class?fnc=subcatlink__astory1_html___7___47___129
 url,https://015ed9119662.bingsearchlib.com:39356/a
 url,https://164.52.212.196:88/je
-url,https://18.228.7.109/.log/pty3
-url,https://18.228.7.109/.log/pty4
 url,https://45.130.229.168:1389/Exploit
 url,https://attacker.com/exploit.class
 url,https://baldervain.com/19-1k3pp1-fc-ear-jkoc-d1j9.class
