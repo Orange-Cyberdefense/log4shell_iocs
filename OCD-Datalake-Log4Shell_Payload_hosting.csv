@@ -89,6 +89,7 @@ file,0bb39ba78fc976edb9c26de1cecd60eb
 file,0bb39ba78fc976edb9c26de1cecd60eb
 file,0c054d4e4dd5455c9ff8f01efe5abb10
 file,0c876245dfdeb17c0ad472b0356cd5658b384f6a
+file,0c876245dfdeb17c0ad472b0356cd5658b384f6a
 file,0e1a1382d4fd420f8a5ae1d88b3085e7
 file,0e1a1382d4fd420f8a5ae1d88b3085e7
 file,0e359c6e9c0635d4c79dabbfc22edaa3fa2f2e6e5d41049c84b1a63ebf799261
@@ -137,6 +138,7 @@ file,2615ebcd4c82d8822ce0b58725938cc6
 file,2615ebcd4c82d8822ce0b58725938cc6
 file,269c7955653bdf27aff6d1e1a94eda93
 file,26f330dadcdd717ef575aa5bfcdbe76a
+file,26f330dadcdd717ef575aa5bfcdbe76a
 file,293cb386c69e40b297f1148cc55b97612263e0bcd0610f4fe7348746f43d0e1d
 file,2945df7e51c538be9007cf331b38afb24c5a323061aa765a83130a5adfafa07f
 file,297297004feba40bf8a664b84eaaff07b0d054b3255611b76a418dc23b89138c
@@ -147,6 +149,7 @@ file,2a5d5a37da4899a8f9c216e2cd7d5b0a829b44dc
 file,2a7ab0584112313197c2efb5ccd45332
 file,2b5f04d15e459132a5935260746788db39b469ea46859c4a5bb8625f8a80bd41
 file,2d3b859f2ad3f0e296fd29c1abc5eb80b4dabe7c0b9d9a3b44821c9ed8e015b1
+file,2e5188227421b68fca64d07c9a298115ccdd6b1f
 file,2e5188227421b68fca64d07c9a298115ccdd6b1f
 file,2f5769c38b6e5f4c59b7d831ed612395
 file,2f5769c38b6e5f4c59b7d831ed612395
@@ -278,11 +281,13 @@ file,854e6a8fb83710409596725cf87ea0b6b900a8f68a29525f0bd7ba3ba41a1fbf
 file,8908c6271730b72a3fc403aee15412a95c691505
 file,8a009dee6bfb6f79c0881f5d150eead92c93354d47fd1cb204791320d2151634
 file,8b1d95123a8da5fc351422aa057b9ec7a954c608570757d644e56c72133ec1ed
+file,8b1d95123a8da5fc351422aa057b9ec7a954c608570757d644e56c72133ec1ed
 file,8be866ae94b6bee107e3755fd1e9bf0d
 file,8d9874d9b7d18e4e01c78fbbcdd61143f8884541
 file,8dd2f5868d391f25b9a03bb4071ce9a6b27a7ae2deb6c4871fc87020b13ba459
 file,8e07f5fca7d2a1bdd82e1c916b2dbb83922f9879
 file,8e9febc8182af31bab8038b9179c5808
+file,8fd4416f84d30f0480b2676c0fe3e31ce1e10d5f3d88d10bc6cc3e5d878ba0b2
 file,8fd4416f84d30f0480b2676c0fe3e31ce1e10d5f3d88d10bc6cc3e5d878ba0b2
 file,933568969efe6b3f8c0621200f0eea5a
 file,942f429eacb8015e18d8f59996cfbee6
@@ -328,6 +333,7 @@ file,aa40c49e309959fa04b7e5ac111bb770
 file,ab80c03c460bd3d6a631fd0cedddef49
 file,abfffbc733c72fb32b07b9cc227069c1
 file,ac15b2b73f44c9f67a3fc907ec34d897e068ca29
+file,ac15b2b73f44c9f67a3fc907ec34d897e068ca29
 file,ac46725d732f453d039dba13f410be7016750621551d4e57a2d5b769aebe3191
 file,ac8b066d261ca6312c3b2986fe6a95e51528d4d995bad70ee13883709004cbfc
 file,ac8f86909b45f36d7ab862081bce71676b1e90b5c22f195d359a023eb7bf2589
@@ -369,6 +375,7 @@ file,c05f8b395c6356bf99aad9c84c13a867
 file,c05f8b395c6356bf99aad9c84c13a867
 file,c05ff7d753092b92dc3b0a60218673e3197de5e7
 file,c0ad8b4b83b3d408d0384b43a4e558d94453147c99aa0b4bc662b4896638c41e
+file,c0b0ce14ddec51de6af9fd34a17755ad747ee564
 file,c0b0ce14ddec51de6af9fd34a17755ad747ee564
 file,c154d739cab62e958944bb4ac5ebad6e965a0442a3f1c1d99d56137e3efa8e40
 file,c154d739cab62e958944bb4ac5ebad6e965a0442a3f1c1d99d56137e3efa8e40
@@ -556,6 +563,7 @@ fqdn,1886059b.probe001.log4j.leakix.net
 fqdn,18a5633f1455.bingsearchlib.com
 fqdn,19.21fqfx.dnslog.cn
 fqdn,1989.ccg42f.dnslog.cn
+fqdn,1989.ccg42f.dnslog.cn
 fqdn,19fc6578cbe2.bingsearchlib.com
 fqdn,1ab1b9cbdbd6.bingsearchlib.com
 fqdn,1ad97b75.probe001.log4j.leakix.net
@@ -563,6 +571,7 @@ fqdn,1aeb1cfef766.bingsearchlib.com
 fqdn,1baaa1825889.bingsearchlib.com
 fqdn,1c076c450ae4.bingsearchlib.com
 fqdn,1c788b4a217b.bingsearchlib.com
+fqdn,1c9831159f4d.bingsearchlib.com
 fqdn,1c9831159f4d.bingsearchlib.com
 fqdn,1cb4ab1f331a.bingsearchlib.com
 fqdn,1cd8008627fa.bingsearchlib.com
@@ -1176,6 +1185,7 @@ fqdn,dfc35a10d2b6.bingsearchlib.com
 fqdn,dff5d0b8.probe001.log4j.leakix.net
 fqdn,dns.digitale-gesellschaft.ch
 fqdn,dns.dns-over-https.com
+fqdn,dns.dns-over-https.com
 fqdn,dns.flatuslifir.is
 fqdn,dns.hostux.net
 fqdn,dns.rubyfish.cn
@@ -1243,6 +1253,7 @@ fqdn,eefd52543f2b.bingsearchlib.com
 fqdn,ef00e4a.probe001.log4j.leakix.net
 fqdn,ef144e2d943b.bingsearchlib.com
 fqdn,ef8908f80ff4.bingsearchlib.com
+fqdn,efd672a31f1d.bingsearchlib.com
 fqdn,efd672a31f1d.bingsearchlib.com
 fqdn,efec676fa96c.bingsearchlib.com
 fqdn,eg0.ru
@@ -1663,6 +1674,7 @@ ip,194.40.243.24
 ip,195.112.113.205
 ip,195.54.160.149
 ip,195.87.73.208
+ip,195.87.73.208
 ip,196.221.196.165
 ip,198.12.116.254
 ip,198.98.53.25
@@ -1700,6 +1712,7 @@ ip,211.162.184.120
 ip,211.192.49.71
 ip,211.224.147.179
 ip,211.224.208.91
+ip,211.75.205.200
 ip,211.75.205.200
 ip,212.192.216.46
 ip,212.230.172.6
@@ -1850,6 +1863,7 @@ ip,64.39.106.92
 ip,64.39.106.94
 ip,64.39.106.95
 ip,64.39.106.99
+ip,64.98.86.50
 ip,64.98.86.50
 ip,66.228.28.18
 ip,66.23.227.195
@@ -2486,6 +2500,7 @@ url,https://daftar.site/ANASOO/ZqpHydykkkklgbtq.bin
 url,https://daftar.site/DIIZ/aXXjQAZugmfgEvkkklgbtq.bin
 url,https://daftar.site/HEQ1AL/XsjhBjOkmtkkklgbtq.bin
 url,https://edutra.co.in/HUS8/christmas.py
+url,https://gandalinir.com/a-frllx-h1b-gdf-cl3s-i1my.class
 url,https://gandalinir.com/a-frllx-h1b-gdf-cl3s-i1my.class
 url,https://gandalinir.com/a-frllx-h1b-gdf-cl3s-i1my.class?subid_7=1u3ct181jk09t
 url,https://gimmoxen.com/19-1jrsa8-ic-dar-jkys-h1j9.class
