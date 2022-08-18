@@ -1110,6 +1110,7 @@ fqdn,cyobs-com-log4jscan.com
 fqdn,d.a1x.live
 fqdn,d01e6ec48be7.bingsearchlib.com
 fqdn,d03e2367.probe001.log4j.leakix.net
+fqdn,d03e2367.probe001.log4j.leakix.net
 fqdn,d12436900580.bingsearchlib.com
 fqdn,d15d803489af.bingsearchlib.com
 fqdn,d1a520c1f2bb.bingsearchlib.com
@@ -1614,6 +1615,7 @@ ip,187.144.41.130
 ip,188.166.57.35
 ip,189.202.188.149
 ip,190.138.240.233
+ip,190.138.240.233
 ip,190.60.239.44
 ip,191.242.182.210
 ip,191.242.188.103
@@ -2017,6 +2019,7 @@ url,http://164.52.212.196:88/config.json
 url,http://164.52.212.196:88/config.json
 url,http://164.52.212.196:88/eth.jpg
 url,http://164.52.212.196:88/eth.jpg
+url,http://164.52.212.196:88/log
 url,http://164.52.212.196:88/log
 url,http://164.52.212.196:88/logback.exe
 url,http://164.52.212.196:88/logc
