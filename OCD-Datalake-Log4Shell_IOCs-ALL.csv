@@ -313,6 +313,7 @@ file,3fcc4c1f2f806acfc395144c98b8ba2a80fe1bf5e3ad3397588bbd2610a37100
 file,401341a7a604ae8d80d9240cb54dde5e26a5cfdb
 file,407d60626707baee29fb9f2597dd32cfd544ff46df7f76e51ff0b79b3ffce3f2
 file,40bf5471025aafbabafea776258e3acaf0787fec78f2d9f39bde3a5fd62821bc
+file,40bf5471025aafbabafea776258e3acaf0787fec78f2d9f39bde3a5fd62821bc
 file,40c4d7cdac0f09d238411df87fd0be0f
 file,40e3b969906c1a3315e821a8461216bb
 file,40e3b969906c1a3315e821a8461216bb
@@ -646,6 +647,7 @@ file,9dd9f74484642fabce8ace0849072cbd96cdff90784cbecf9e1f8d1875acc24b
 file,9eeec764e77bec58d366c2efc3817ed56371e4b308e94ad04a6d6307f2e12eda
 file,9faf1dbcb4942cf3e3578414402180ed
 file,a00a54e3fb8cb83fab38f8714f240ecc13ab9c492584aa571aec5fc71b48732d
+file,a00cf919d5be19b1982751eaf82c0cb323825fbd9fd5c1f4a11a603d4a6494e4
 file,a00cf919d5be19b1982751eaf82c0cb323825fbd9fd5c1f4a11a603d4a6494e4
 file,a16189ede9b4b2240654e38ccc5c4d386c37b4375f1c7ad752a5c8ba0f770232
 file,a191dbc673dc3d5eb1c4736a8278ca57
@@ -1034,10 +1036,12 @@ fqdn,0455cf49e9f0.bingsearchlib.com
 fqdn,047f1f300c55.bingsearchlib.com
 fqdn,04ab391429fa.bingsearchlib.com
 fqdn,04c54d3672bd.bingsearchlib.com
+fqdn,04c54d3672bd.bingsearchlib.com
 fqdn,0561eaed.probe001.log4j.leakix.net
 fqdn,05a1253070c9.bingsearchlib.com
 fqdn,05c684d21698.bingsearchlib.com
 fqdn,05ff6845.probe001.log4j.leakix.net
+fqdn,0610f474074f.bingsearchlib.com
 fqdn,0610f474074f.bingsearchlib.com
 fqdn,065ce2d58fdd.bingsearchlib.com
 fqdn,06d102b95479.bingsearchlib.com
@@ -1073,6 +1077,7 @@ fqdn,124268d89547.bingsearchlib.com
 fqdn,128d668f.probe001.log4j.leakix.net
 fqdn,12e31f4d026b.bingsearchlib.com
 fqdn,12e3621bf406.bingsearchlib.com
+fqdn,12ff8f937c9e.bingsearchlib.com
 fqdn,12ff8f937c9e.bingsearchlib.com
 fqdn,13.21fqfx.dnslog.cn
 fqdn,1333.ccg42f.dnslog.cn
@@ -1194,6 +1199,7 @@ fqdn,37fccd21badb.bingsearchlib.com
 fqdn,380103eb7aeb.bingsearchlib.com
 fqdn,38010d058864.bingsearchlib.com
 fqdn,39fd3743.probe001.log4j.leakix.net
+fqdn,39fd3743.probe001.log4j.leakix.net
 fqdn,3adfbdeec1fe.bingsearchlib.com
 fqdn,3b1e4a8d7eb2.bingsearchlib.com
 fqdn,3b3a1479842c.bingsearchlib.com
@@ -1214,6 +1220,7 @@ fqdn,4012e04b.probe001.log4j.leakix.net
 fqdn,40565954636b.bingsearchlib.com
 fqdn,4059aa7bbc10.bingsearchlib.com
 fqdn,4070ed75d85e.bingsearchlib.com
+fqdn,40ad2f4bb07e.bingsearchlib.com
 fqdn,40ad2f4bb07e.bingsearchlib.com
 fqdn,40b339b6168d.bingsearchlib.com
 fqdn,40cef4b0858e.bingsearchlib.com
@@ -1253,6 +1260,7 @@ fqdn,4ec05e773350.bingsearchlib.com
 fqdn,4ee46526baa2.bingsearchlib.com
 fqdn,4ef6f10dd8a2.bingsearchlib.com
 fqdn,4f82fd6de455.bingsearchlib.com
+fqdn,4f894784b6ef.bingsearchlib.com
 fqdn,4f894784b6ef.bingsearchlib.com
 fqdn,4fd955429073.bingsearchlib.com
 fqdn,4ff88acb.probe001.log4j.leakix.net
@@ -1306,6 +1314,7 @@ fqdn,60292d90d1b2.bingsearchlib.com
 fqdn,6035a310c241.bingsearchlib.com
 fqdn,608ac2d94757.bingsearchlib.com
 fqdn,60ec26e4b948.bingsearchlib.com
+fqdn,60ec26e4b948.bingsearchlib.com
 fqdn,612877d3a59b.bingsearchlib.com
 fqdn,61289367b2a1.bingsearchlib.com
 fqdn,6143bdb7e926.bingsearchlib.com
@@ -1327,7 +1336,9 @@ fqdn,64018b38d1bd.bingsearchlib.com
 fqdn,640ce558d2f7.bingsearchlib.com
 fqdn,646feaf14808.bingsearchlib.com
 fqdn,647c6fdbe0ce.bingsearchlib.com
+fqdn,647c6fdbe0ce.bingsearchlib.com
 fqdn,649cc4144d86.bingsearchlib.com
+fqdn,64a0e6a432fb.bingsearchlib.com
 fqdn,64a0e6a432fb.bingsearchlib.com
 fqdn,64fbee7e40f0.bingsearchlib.com
 fqdn,65.151.128.111.9gpf69.dnslog.cn
@@ -1447,6 +1458,7 @@ fqdn,8a672c92.probe001.log4j.leakix.net
 fqdn,8a796f7b4e31.bingsearchlib.com
 fqdn,8aa9ecc4.probe001.log4j.leakix.net
 fqdn,8b51f03a2236.bingsearchlib.com
+fqdn,8b51f03a2236.bingsearchlib.com
 fqdn,8b5e31cb04bf.bingsearchlib.com
 fqdn,8bf085ae1724.bingsearchlib.com
 fqdn,8c738a19abc9.bingsearchlib.com
@@ -1521,6 +1533,7 @@ fqdn,a3563790b265.bingsearchlib.com
 fqdn,a372a16e46fb.bingsearchlib.com
 fqdn,a4079b92cf3d.bingsearchlib.com
 fqdn,a40d65b21b7f.bingsearchlib.com
+fqdn,a40d65b21b7f.bingsearchlib.com
 fqdn,a42ae47f133b.bingsearchlib.com
 fqdn,a4fe382ce6c0.bingsearchlib.com
 fqdn,a58bc1fc518a.bingsearchlib.com
@@ -1528,6 +1541,7 @@ fqdn,a60bb4d20c87.bingsearchlib.com
 fqdn,a615cbc5751b.bingsearchlib.com
 fqdn,a6787b91ea1d.bingsearchlib.com
 fqdn,a6ce76c92e75.bingsearchlib.com
+fqdn,a74d01648bea.bingsearchlib.com
 fqdn,a74d01648bea.bingsearchlib.com
 fqdn,a790ae788e85.bingsearchlib.com
 fqdn,a7aa8415ab06.bingsearchlib.com
@@ -1579,6 +1593,7 @@ fqdn,b74dd0e311be.bingsearchlib.com
 fqdn,b74f1719.probe001.log4j.leakix.net
 fqdn,b7c33d74c2f2.bingsearchlib.com
 fqdn,b7ff69c2e4a3.bingsearchlib.com
+fqdn,b80ce7e4d6cb.bingsearchlib.com
 fqdn,b80ce7e4d6cb.bingsearchlib.com
 fqdn,b91ae2bcd6b0.bingsearchlib.com
 fqdn,b952205e8281.bingsearchlib.com
@@ -1781,6 +1796,7 @@ fqdn,eb1b0fc46d80.bingsearchlib.com
 fqdn,eb90e696775b.bingsearchlib.com
 fqdn,ec725b34.dns.1433.eu.org
 fqdn,eca6e1900645.bingsearchlib.com
+fqdn,eca6e1900645.bingsearchlib.com
 fqdn,ed1d4dfc.probe001.log4j.leakix.net
 fqdn,eda7c886f204.bingsearchlib.com
 fqdn,ee336ffd7dc9.bingsearchlib.com
@@ -1796,6 +1812,7 @@ fqdn,eg0.ru
 fqdn,f02536645a47.bingsearchlib.com
 fqdn,f059b8f500b8.bingsearchlib.com
 fqdn,f09fc1554c75.bingsearchlib.com
+fqdn,f09fc1554c75.bingsearchlib.com
 fqdn,f11b4f9fe04a.bingsearchlib.com
 fqdn,f19d3d3b600a.bingsearchlib.com
 fqdn,f1a7f7f25a5c.bingsearchlib.com
@@ -1807,11 +1824,13 @@ fqdn,f2a8abaf2ddb.bingsearchlib.com
 fqdn,f346e3e0baec.bingsearchlib.com
 fqdn,f4cf2a9b7dba.bingsearchlib.com
 fqdn,f4d5efdda59f.bingsearchlib.com
+fqdn,f4d5efdda59f.bingsearchlib.com
 fqdn,f53d3241.probe001.log4j.leakix.net
 fqdn,f60aa649.probe001.log4j.leakix.net
 fqdn,f6634b129f94.bingsearchlib.com
 fqdn,f684b7afd994.bingsearchlib.com
 fqdn,f6899d95.probe001.log4j.leakix.net
+fqdn,f6a237f9f9c0.bingsearchlib.com
 fqdn,f6a237f9f9c0.bingsearchlib.com
 fqdn,f73fb894272e.bingsearchlib.com
 fqdn,f7596746de16.bingsearchlib.com
@@ -1830,6 +1849,7 @@ fqdn,fa251498.probe001.log4j.leakix.net
 fqdn,faea7437a673.bingsearchlib.com
 fqdn,fb49bb32caca.bingsearchlib.com
 fqdn,fb759c07.probe001.log4j.leakix.net
+fqdn,fb8e0ff6704c.bingsearchlib.com
 fqdn,fb8e0ff6704c.bingsearchlib.com
 fqdn,fbc8a1502970.bingsearchlib.com
 fqdn,fbcec65f688f.bingsearchlib.com
@@ -3060,6 +3080,7 @@ ip,103.74.143.53
 ip,103.74.192.26
 ip,103.74.192.54
 ip,103.75.201.2
+ip,103.75.201.2
 ip,103.75.32.173
 ip,103.75.32.38
 ip,103.76.150.14
@@ -3753,6 +3774,7 @@ ip,107.152.108.114
 ip,107.152.42.163
 ip,107.152.46.188
 ip,107.152.47.147
+ip,107.152.47.147
 ip,107.152.99.41
 ip,107.155.127.246
 ip,107.155.132.152
@@ -3849,6 +3871,7 @@ ip,107.174.196.239
 ip,107.174.241.162
 ip,107.174.241.209
 ip,107.174.35.229
+ip,107.174.35.229
 ip,107.174.45.171
 ip,107.174.46.89
 ip,107.174.65.6
@@ -3871,6 +3894,7 @@ ip,107.175.94.101
 ip,107.175.94.203
 ip,107.175.94.7
 ip,107.178.110.44
+ip,107.178.78.108
 ip,107.178.78.108
 ip,107.180.57.98
 ip,107.180.90.10
@@ -3925,6 +3949,7 @@ ip,107.189.14.119
 ip,107.189.14.182
 ip,107.189.14.182
 ip,107.189.14.27
+ip,107.189.14.27
 ip,107.189.14.76
 ip,107.189.14.77
 ip,107.189.14.98
@@ -3951,6 +3976,7 @@ ip,107.189.29.27
 ip,107.189.29.41
 ip,107.189.3.110
 ip,107.189.3.183
+ip,107.189.3.244
 ip,107.189.3.244
 ip,107.189.3.246
 ip,107.189.30.23
@@ -5490,6 +5516,7 @@ ip,118.168.234.135
 ip,118.168.237.184
 ip,118.168.239.45
 ip,118.171.134.117
+ip,118.171.134.117
 ip,118.172.16.35
 ip,118.173.233.64
 ip,118.174.217.146
@@ -5509,6 +5536,7 @@ ip,118.195.138.146
 ip,118.195.146.131
 ip,118.195.150.115
 ip,118.195.162.4
+ip,118.195.162.4
 ip,118.195.171.125
 ip,118.195.190.94
 ip,118.195.192.153
@@ -5523,6 +5551,7 @@ ip,118.232.88.228
 ip,118.232.88.228
 ip,118.233.188.89
 ip,118.24.115.242
+ip,118.24.152.118
 ip,118.24.152.118
 ip,118.24.170.186
 ip,118.24.18.241
@@ -6045,6 +6074,7 @@ ip,121.41.203.12
 ip,121.41.216.139
 ip,121.41.30.246
 ip,121.41.55.60
+ip,121.41.83.153
 ip,121.41.83.153
 ip,121.41.89.180
 ip,121.41.98.223
@@ -9397,6 +9427,7 @@ ip,158.247.219.186
 ip,158.247.219.21
 ip,158.247.220.250
 ip,158.247.220.72
+ip,158.247.220.72
 ip,158.247.221.239
 ip,158.247.221.72
 ip,158.247.222.214
@@ -9632,6 +9663,7 @@ ip,159.75.51.84
 ip,159.75.52.72
 ip,159.75.53.54
 ip,159.75.54.90
+ip,159.75.54.90
 ip,159.75.70.250
 ip,159.75.70.33
 ip,159.75.79.92
@@ -9818,6 +9850,7 @@ ip,161.35.201.252
 ip,161.35.201.31
 ip,161.35.202.178
 ip,161.35.202.231
+ip,161.35.203.126
 ip,161.35.203.126
 ip,161.35.203.32
 ip,161.35.205.250
@@ -11126,6 +11159,7 @@ ip,172.104.164.209
 ip,172.104.164.58
 ip,172.104.167.206
 ip,172.104.171.27
+ip,172.104.171.27
 ip,172.104.179.8
 ip,172.104.180.116
 ip,172.104.181.39
@@ -11193,6 +11227,7 @@ ip,172.105.249.93
 ip,172.105.25.190
 ip,172.105.26.175
 ip,172.105.27.61
+ip,172.105.27.61
 ip,172.105.34.103
 ip,172.105.36.194
 ip,172.105.37.233
@@ -11230,6 +11265,7 @@ ip,172.105.87.91
 ip,172.105.88.234
 ip,172.105.88.234
 ip,172.105.96.165
+ip,172.105.96.225
 ip,172.105.96.225
 ip,172.105.97.149
 ip,172.105.97.149
@@ -11936,6 +11972,7 @@ ip,176.102.56.14
 ip,176.103.88.57
 ip,176.103.88.57
 ip,176.104.106.96
+ip,176.104.106.96
 ip,176.106.13.111
 ip,176.106.65.90
 ip,176.107.178.179
@@ -12309,6 +12346,7 @@ ip,178.141.235.98
 ip,178.141.241.146
 ip,178.141.25.206
 ip,178.141.25.212
+ip,178.141.25.212
 ip,178.141.254.86
 ip,178.141.26.185
 ip,178.141.27.163
@@ -12319,6 +12357,7 @@ ip,178.141.4.225
 ip,178.141.40.58
 ip,178.141.41.221
 ip,178.141.43.203
+ip,178.141.45.152
 ip,178.141.45.152
 ip,178.141.47.233
 ip,178.141.5.247
@@ -12388,6 +12427,7 @@ ip,178.17.174.14
 ip,178.17.174.14
 ip,178.17.174.162
 ip,178.17.174.162
+ip,178.17.174.211
 ip,178.17.174.211
 ip,178.17.174.38
 ip,178.17.174.68
@@ -12658,6 +12698,7 @@ ip,178.72.70.172
 ip,178.72.70.179
 ip,178.72.70.184
 ip,178.72.70.20
+ip,178.72.70.20
 ip,178.72.70.24
 ip,178.72.70.55
 ip,178.72.70.62
@@ -12827,6 +12868,7 @@ ip,179.61.237.232
 ip,179.61.251.126
 ip,179.61.251.97
 ip,18.116.198.114
+ip,18.116.198.114
 ip,18.116.198.125
 ip,18.116.198.193
 ip,18.116.198.252
@@ -12882,6 +12924,7 @@ ip,18.169.242.113
 ip,18.170.223.226
 ip,18.170.44.135
 ip,18.176.183.3
+ip,18.177.0.235
 ip,18.177.0.235
 ip,18.177.53.48
 ip,18.177.59.255
@@ -14613,6 +14656,7 @@ ip,185.233.81.8
 ip,185.234.247.148
 ip,185.234.247.18
 ip,185.234.247.183
+ip,185.234.247.183
 ip,185.234.247.190
 ip,185.234.247.244
 ip,185.234.247.35
@@ -14737,6 +14781,7 @@ ip,185.245.87.244
 ip,185.245.87.246
 ip,185.245.87.246
 ip,185.245.96.211
+ip,185.245.96.227
 ip,185.245.96.227
 ip,185.245.96.31
 ip,185.246.154.34
@@ -15025,6 +15070,7 @@ ip,185.92.74.51
 ip,185.92.74.57
 ip,185.92.74.98
 ip,185.93.6.31
+ip,185.93.6.31
 ip,185.93.6.41
 ip,185.94.172.15
 ip,185.96.37.23
@@ -15264,6 +15310,7 @@ ip,187.39.72.148
 ip,187.56.71.109
 ip,187.58.251.229
 ip,187.58.56.26
+ip,187.6.3.3
 ip,187.6.3.3
 ip,187.64.175.156
 ip,187.66.49.139
@@ -16127,6 +16174,7 @@ ip,192.241.215.227
 ip,192.241.215.227
 ip,192.241.215.230
 ip,192.241.215.233
+ip,192.241.215.233
 ip,192.241.215.236
 ip,192.241.215.236
 ip,192.241.215.237
@@ -16196,6 +16244,7 @@ ip,192.3.145.46
 ip,192.3.15.116
 ip,192.3.15.119
 ip,192.3.152.166
+ip,192.3.154.50
 ip,192.3.154.50
 ip,192.3.157.96
 ip,192.3.185.234
@@ -16392,6 +16441,7 @@ ip,193.187.96.107
 ip,193.188.20.92
 ip,193.188.20.94
 ip,193.188.21.24
+ip,193.188.21.64
 ip,193.188.21.64
 ip,193.188.22.155
 ip,193.188.22.226
@@ -17198,6 +17248,7 @@ ip,195.123.209.212
 ip,195.123.212.132
 ip,195.123.214.24
 ip,195.123.217.15
+ip,195.123.217.15
 ip,195.123.217.45
 ip,195.123.219.120
 ip,195.123.219.199
@@ -17246,6 +17297,7 @@ ip,195.123.246.227
 ip,195.123.246.63
 ip,195.123.247.135
 ip,195.123.247.209
+ip,195.133.11.145
 ip,195.133.11.145
 ip,195.133.18.100
 ip,195.133.18.100
@@ -17874,6 +17926,7 @@ ip,199.249.230.79
 ip,199.249.230.79
 ip,199.249.230.84
 ip,199.249.230.84
+ip,199.250.144.26
 ip,199.250.144.26
 ip,199.27.127.129
 ip,199.36.223.29
@@ -18646,6 +18699,7 @@ ip,205.185.121.250
 ip,205.185.121.251
 ip,205.185.121.53
 ip,205.185.122.184
+ip,205.185.122.184
 ip,205.185.122.29
 ip,205.185.123.105
 ip,205.185.123.172
@@ -18662,6 +18716,7 @@ ip,205.185.126.121
 ip,205.185.126.167
 ip,205.185.126.167
 ip,205.185.126.168
+ip,205.185.126.27
 ip,205.185.126.27
 ip,205.185.127.35
 ip,205.185.127.47
@@ -18979,6 +19034,7 @@ ip,209.210.187.52
 ip,209.210.187.52
 ip,209.210.95.228
 ip,209.216.177.158
+ip,209.216.177.158
 ip,209.216.177.238
 ip,209.222.101.21
 ip,209.222.101.221
@@ -19274,6 +19330,7 @@ ip,212.202.111.18
 ip,212.216.213.88
 ip,212.22.87.191
 ip,212.220.28.26
+ip,212.224.105.105
 ip,212.224.105.105
 ip,212.224.105.106
 ip,212.224.105.108
@@ -20062,6 +20119,7 @@ ip,23.106.223.138
 ip,23.106.223.154
 ip,23.106.223.79
 ip,23.106.223.82
+ip,23.106.223.82
 ip,23.108.57.186
 ip,23.108.57.3
 ip,23.108.57.50
@@ -20503,6 +20561,7 @@ ip,24.46.40.189
 ip,24.47.150.128
 ip,24.50.118.93
 ip,24.51.107.249
+ip,24.51.107.249
 ip,24.53.49.240
 ip,24.55.112.61
 ip,24.55.152.50
@@ -20647,6 +20706,7 @@ ip,3.134.109.43
 ip,3.134.115.127
 ip,3.134.125.175
 ip,3.134.172.99
+ip,3.134.39.220
 ip,3.134.39.220
 ip,3.135.17.77
 ip,3.135.189.104
@@ -20862,6 +20922,7 @@ ip,31.210.20.181
 ip,31.210.20.187
 ip,31.210.20.192
 ip,31.210.20.22
+ip,31.210.20.22
 ip,31.210.20.223
 ip,31.210.20.224
 ip,31.210.20.226
@@ -20918,6 +20979,7 @@ ip,31.220.54.33
 ip,31.220.58.163
 ip,31.220.58.29
 ip,31.220.58.29
+ip,31.24.158.56
 ip,31.24.158.56
 ip,31.24.229.202
 ip,31.27.24.146
@@ -21643,6 +21705,7 @@ ip,37.48.85.45
 ip,37.48.93.129
 ip,37.48.95.80
 ip,37.49.230.179
+ip,37.49.230.179
 ip,37.49.230.185
 ip,37.49.230.83
 ip,37.53.89.28
@@ -22017,6 +22080,7 @@ ip,41.36.83.211
 ip,41.37.243.129
 ip,41.37.255.56
 ip,41.38.153.195
+ip,41.38.153.195
 ip,41.39.134.183
 ip,41.39.69.170
 ip,41.40.16.117
@@ -22049,6 +22113,7 @@ ip,42.112.55.209
 ip,42.113.150.8
 ip,42.115.200.16
 ip,42.116.115.234
+ip,42.117.225.18
 ip,42.117.225.18
 ip,42.117.5.36
 ip,42.117.61.10
@@ -22321,6 +22386,7 @@ ip,45.12.32.14
 ip,45.12.32.61
 ip,45.12.5.74
 ip,45.120.136.205
+ip,45.120.136.205
 ip,45.120.216.114
 ip,45.120.216.114
 ip,45.121.48.234
@@ -22520,6 +22586,7 @@ ip,45.139.236.6
 ip,45.139.236.71
 ip,45.14.115.62
 ip,45.14.12.90
+ip,45.14.12.90
 ip,45.14.13.80
 ip,45.14.14.238
 ip,45.14.224.50
@@ -22637,6 +22704,7 @@ ip,45.144.225.207
 ip,45.144.225.213
 ip,45.144.225.22
 ip,45.144.225.221
+ip,45.144.225.235
 ip,45.144.225.235
 ip,45.144.225.236
 ip,45.144.225.52
@@ -24243,6 +24311,7 @@ ip,45.83.67.103
 ip,45.83.67.104
 ip,45.83.67.105
 ip,45.83.67.106
+ip,45.83.67.106
 ip,45.83.67.107
 ip,45.83.67.108
 ip,45.83.67.109
@@ -25166,6 +25235,7 @@ ip,47.244.138.18
 ip,47.244.224.66
 ip,47.245.2.100
 ip,47.245.56.140
+ip,47.245.56.140
 ip,47.246.13.234
 ip,47.251.26.10
 ip,47.251.46.249
@@ -25603,6 +25673,7 @@ ip,5.183.179.100
 ip,5.183.181.159
 ip,5.183.209.135
 ip,5.183.209.217
+ip,5.183.78.108
 ip,5.183.78.108
 ip,5.183.8.99
 ip,5.186.197.176
@@ -26474,6 +26545,7 @@ ip,59.110.215.121
 ip,59.110.217.217
 ip,59.110.9.242
 ip,59.115.116.103
+ip,59.115.85.11
 ip,59.115.85.11
 ip,59.124.10.133
 ip,59.124.7.62
@@ -27676,6 +27748,7 @@ ip,71.231.60.186
 ip,71.235.39.135
 ip,71.241.247.189
 ip,71.25.106.154
+ip,71.25.106.154
 ip,71.28.247.154
 ip,71.28.34.158
 ip,71.28.7.23
@@ -28477,6 +28550,7 @@ ip,79.134.225.91
 ip,79.134.225.92
 ip,79.134.225.93
 ip,79.134.225.96
+ip,79.134.225.96
 ip,79.134.225.99
 ip,79.137.109.121
 ip,79.137.35.198
@@ -28668,6 +28742,7 @@ ip,8.210.253.122
 ip,8.210.53.215
 ip,8.210.63.158
 ip,8.210.67.154
+ip,8.210.84.140
 ip,8.210.84.140
 ip,8.210.86.230
 ip,8.210.91.106
@@ -29174,6 +29249,7 @@ ip,82.157.187.39
 ip,82.157.202.27
 ip,82.157.25.163
 ip,82.157.34.238
+ip,82.157.34.238
 ip,82.157.5.85
 ip,82.157.50.152
 ip,82.157.59.23
@@ -29309,6 +29385,7 @@ ip,83.148.81.95
 ip,83.149.110.185
 ip,83.149.110.185
 ip,83.149.87.180
+ip,83.149.87.180
 ip,83.151.14.13
 ip,83.159.194.96
 ip,83.167.16.138
@@ -29365,6 +29442,7 @@ ip,83.248.128.155
 ip,83.248.71.81
 ip,83.25.236.230
 ip,83.251.53.228
+ip,83.254.58.178
 ip,83.254.58.178
 ip,83.48.11.9
 ip,83.58.219.205
@@ -29588,6 +29666,7 @@ ip,85.226.176.123
 ip,85.230.197.47
 ip,85.236.173.190
 ip,85.237.217.143
+ip,85.237.217.143
 ip,85.237.217.174
 ip,85.237.217.241
 ip,85.237.217.241
@@ -29655,6 +29734,7 @@ ip,86.107.197.196
 ip,86.107.197.214
 ip,86.107.197.243
 ip,86.107.197.248
+ip,86.107.197.3
 ip,86.107.197.3
 ip,86.107.98.232
 ip,86.109.208.194
@@ -29827,6 +29907,7 @@ ip,87.120.37.179
 ip,87.120.37.183
 ip,87.120.37.214
 ip,87.120.37.231
+ip,87.120.37.231
 ip,87.120.37.27
 ip,87.120.37.37
 ip,87.120.37.64
@@ -29979,6 +30060,7 @@ ip,88.214.56.192
 ip,88.214.57.226
 ip,88.218.16.126
 ip,88.218.17.186
+ip,88.218.227.141
 ip,88.218.227.141
 ip,88.218.47.29
 ip,88.222.108.36
@@ -30679,6 +30761,7 @@ ip,92.114.18.20
 ip,92.114.18.21
 ip,92.116.52.0
 ip,92.118.150.141
+ip,92.118.160.61
 ip,92.118.160.61
 ip,92.118.160.9
 ip,92.118.160.9
@@ -31716,6 +31799,7 @@ url,http://164.52.212.196:88/log
 url,http://164.52.212.196:88/logback.exe
 url,http://164.52.212.196:88/logc
 url,http://164.52.212.196:88/s.ps1
+url,http://164.52.212.196:88/s.ps1
 url,http://164.52.212.196:88/st.sh
 url,http://164.52.212.196:88/st.vbs
 url,http://164.52.212.196:88/sys.ps1
@@ -31767,6 +31851,7 @@ url,http://185.191.32.198/lh.sh
 url,http://185.191.32.198/lh.sh
 url,http://185.191.32.198/unk.sh
 url,http://185.191.32.198/unk.sh
+url,http://185.250.148.157:8005/acc
 url,http://185.250.148.157:8005/acc
 url,http://185.250.148.157:8005/index
 url,http://185.250.148.157:8005/index
@@ -32420,6 +32505,7 @@ url,https://webhook.site
 url,https://www.advintel.io/post/24-hours-from-log4shell-to-local-admin-deep-dive-into-conti-gang-attack-on-fortune-500-dfir
 url,https://www.advintel.io/post/ransomware-advisory-log4shell-exploitation-for-initial-access-lateral-movement
 url,https://www.microsoft-updateserver.cf/gadfTs55sghsSSS
+url,https://wwwcie.ups.com/u.a/l.class?8rnctevzjrbtwwbamndjd8frhhmrrtmhdlp0sp
 url,https://wwwcie.ups.com/u.a/l.class?8rnctevzjrbtwwbamndjd8frhhmrrtmhdlp0sp
 url,ldap://115.28.134.231:1389/Exploit
 url,ldap://115.28.134.231:1389/Exploit
