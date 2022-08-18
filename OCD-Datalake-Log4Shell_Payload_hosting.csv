@@ -488,6 +488,7 @@ fqdn,01fde8c5eef6.bingsearchlib.com
 fqdn,023371450809.bingsearchlib.com
 fqdn,0241465b.probe001.log4j.leakix.net
 fqdn,024e5d4e29f6.bingsearchlib.com
+fqdn,024e5d4e29f6.bingsearchlib.com
 fqdn,029e7c6c.probe001.log4j.leakix.net
 fqdn,0384eb5a.probe001.log4j.leakix.net
 fqdn,0455cf49e9f0.bingsearchlib.com
@@ -558,6 +559,7 @@ fqdn,18.21fqfx.dnslog.cn
 fqdn,181348c85701.bingsearchlib.com
 fqdn,184b0e00a853.bingsearchlib.com
 fqdn,184dcac8da3c.bingsearchlib.com
+fqdn,18643f1cd643.bingsearchlib.com
 fqdn,18643f1cd643.bingsearchlib.com
 fqdn,1886059b.probe001.log4j.leakix.net
 fqdn,18a5633f1455.bingsearchlib.com
@@ -734,6 +736,7 @@ fqdn,528f0838ae11.bingsearchlib.com
 fqdn,5366eae72dec.bingsearchlib.com
 fqdn,539e7bcf42d5.bingsearchlib.com
 fqdn,53b21c570edb.bingsearchlib.com
+fqdn,53b21c570edb.bingsearchlib.com
 fqdn,544fe6d9675e.bingsearchlib.com
 fqdn,5463610592ef.bingsearchlib.com
 fqdn,5486b6edd688.bingsearchlib.com
@@ -850,6 +853,7 @@ fqdn,7741.ccg42f.dnslog.cn
 fqdn,785780daf45b.bingsearchlib.com
 fqdn,785eb896dd6b.bingsearchlib.com
 fqdn,78b8b59c.probe001.log4j.leakix.net
+fqdn,78f079ee26bc.bingsearchlib.com
 fqdn,78f079ee26bc.bingsearchlib.com
 fqdn,7971f7b4eb13.bingsearchlib.com
 fqdn,79d3c6a58488.bingsearchlib.com
@@ -1172,6 +1176,7 @@ fqdn,da84236b9b85.bingsearchlib.com
 fqdn,daaa3bc9c998.bingsearchlib.com
 fqdn,dacf636c2540.bingsearchlib.com
 fqdn,dataastatistics.com
+fqdn,dbe67217b89f.bingsearchlib.com
 fqdn,dbe67217b89f.bingsearchlib.com
 fqdn,dc05762b0bc2.bingsearchlib.com
 fqdn,dcff09bd4870.bingsearchlib.com
@@ -1679,6 +1684,7 @@ ip,196.221.196.165
 ip,198.12.116.254
 ip,198.98.53.25
 ip,2.194.7.243
+ip,2.194.7.243
 ip,2.197.115.147
 ip,2.56.11.65
 ip,2.56.11.65
@@ -1853,6 +1859,7 @@ ip,64.39.106.109
 ip,64.39.106.116
 ip,64.39.106.121
 ip,64.39.106.35
+ip,64.39.106.38
 ip,64.39.106.38
 ip,64.39.106.4
 ip,64.39.106.4
@@ -2356,6 +2363,7 @@ url,http://91.200.103.249:8080/multi/bins/arm
 url,http://91.200.103.249:8080/multi/bins/arm5
 url,http://91.200.103.249:8080/multi/bins/arm6
 url,http://91.200.103.249:8080/multi/bins/arm7
+url,http://91.200.103.249:8080/multi/bins/b
 url,http://91.200.103.249:8080/multi/bins/b
 url,http://91.200.103.249:8080/multi/bins/i586
 url,http://91.200.103.249:8080/multi/bins/i686
