@@ -521,6 +521,7 @@ fqdn,10580de787ba.bingsearchlib.com
 fqdn,10c100254da9.bingsearchlib.com
 fqdn,10d70081fca0.bingsearchlib.com
 fqdn,11.21fqfx.dnslog.cn
+fqdn,11.21fqfx.dnslog.cn
 fqdn,1154f765fdc8.bingsearchlib.com
 fqdn,1181a9ec5624.bingsearchlib.com
 fqdn,119b7332016d.bingsearchlib.com
@@ -673,6 +674,7 @@ fqdn,40b339b6168d.bingsearchlib.com
 fqdn,40cef4b0858e.bingsearchlib.com
 fqdn,40d43ba64cc4.bingsearchlib.com
 fqdn,40eeada5.probe001.log4j.leakix.net
+fqdn,40eeada5.probe001.log4j.leakix.net
 fqdn,41.me
 fqdn,416b21120a59.bingsearchlib.com
 fqdn,424bbd495916.bingsearchlib.com
@@ -699,6 +701,7 @@ fqdn,4862f1f5c2c8.bingsearchlib.com
 fqdn,49fc7bf867ef.bingsearchlib.com
 fqdn,4bb39c6f.probe001.log4j.leakix.net
 fqdn,4c1ece5d0c54.bingsearchlib.com
+fqdn,4c2c2390.probe001.log4j.leakix.net
 fqdn,4c2c2390.probe001.log4j.leakix.net
 fqdn,4c3564dc3448.bingsearchlib.com
 fqdn,4e35709115ae.bingsearchlib.com
@@ -1367,12 +1370,14 @@ fqdn,lx-ffff41979081bb01089544b66100000000c3a5dc.probe001.log4j.leakix.net
 fqdn,lx-ffff50555492bb086f41b561000000005300b2.probe001.log4j.leakix.net
 fqdn,lx-ffff68d2d2cc5008ed3ab56100000000a868fc.probe001.log4j.leakix.net
 fqdn,lx-ffff68d2d2ccfb2008d067b66100000000b75c22.probe001.log4j.leakix.net
+fqdn,lx-ffff68d2d2ccfb2008d067b66100000000b75c22.probe001.log4j.leakix.net
 fqdn,lx-ffff68d38b89bb01080c3bb66100000000480125.probe001.log4j.leakix.net
 fqdn,lx-ffff6dcf4c39bb08c365b56100000000b58824.probe001.log4j.leakix.net
 fqdn,lx-ffff8ba2ce73bb0108313eb66100000000839e76.probe001.log4j.leakix.net
 fqdn,lx-ffff8ba2ce73bb08e154b56100000000da1cd1.probe001.log4j.leakix.net
 fqdn,lx-ffffa9325833bb084382b561000000005b2d47.probe001.log4j.leakix.net
 fqdn,lx-ffffa9388c6abb01080b79b6610000000059cce9.probe001.log4j.leakix.net
+fqdn,lx-ffffa9388c6ebb0108393bb66100000000aa1a37.probe001.log4j.leakix.net
 fqdn,lx-ffffa9388c6ebb0108393bb66100000000aa1a37.probe001.log4j.leakix.net
 fqdn,lx-ffffa9396424bb082e34b66100000000dcade3.probe001.log4j.leakix.net
 fqdn,lx-ffffac687c8bfb2008e64fb66100000000b192f1.probe001.log4j.leakix.net
@@ -1580,6 +1585,7 @@ ip,170.178.196.41
 ip,170.178.196.41
 ip,170.231.236.110
 ip,171.221.250.155
+ip,171.221.250.155
 ip,171.42.31.165
 ip,172.105.241.146
 ip,172.105.241.146
@@ -1778,6 +1784,7 @@ ip,45.94.204.76
 ip,45.95.55.23
 ip,45.95.55.30
 ip,46.13.164.29
+ip,46.13.164.29
 ip,46.170.151.34
 ip,46.238.66.173
 ip,49.234.143.116
@@ -1833,6 +1840,7 @@ ip,64.39.106.116
 ip,64.39.106.121
 ip,64.39.106.35
 ip,64.39.106.38
+ip,64.39.106.4
 ip,64.39.106.4
 ip,64.39.106.78
 ip,64.39.106.87
@@ -1981,6 +1989,7 @@ url,http://155.94.154.170/bbb
 url,http://155.94.154.170/log4j
 url,http://157.230.189.52/wp-content/themes/twentynineteen/ldm
 url,http://158.101.118.236/setup
+url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropista86
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropista86
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropista8k
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropistah4
