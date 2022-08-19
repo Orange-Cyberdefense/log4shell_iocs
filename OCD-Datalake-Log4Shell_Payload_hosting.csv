@@ -1032,6 +1032,7 @@ fqdn,agent.apacheorg.top
 fqdn,agent.apacheorg.xyz
 fqdn,agent.apacheorg.xyz
 fqdn,awsdns-2.org
+fqdn,awsdns-2.org
 fqdn,b095b212c8be.bingsearchlib.com
 fqdn,b0f54bc8915e.bingsearchlib.com
 fqdn,b109fb0c0221.bingsearchlib.com
@@ -1066,6 +1067,7 @@ fqdn,bc45400240ee.bingsearchlib.com
 fqdn,bc4fc2011730.bingsearchlib.com
 fqdn,bc73ab56138e.bingsearchlib.com
 fqdn,bd417b6b753c.bingsearchlib.com
+fqdn,bdafa222d03e.bingsearchlib.com
 fqdn,bdafa222d03e.bingsearchlib.com
 fqdn,bea48214e715.bingsearchlib.com
 fqdn,beb027d50fec.bingsearchlib.com
@@ -1111,6 +1113,7 @@ fqdn,c6rhvpkdultidmu16ps0cg51yrayyyb9g.interactsh.com
 fqdn,c6rji9av1urplt5ni700cg5uuceyybfu1.ab-ui.com
 fqdn,c6rji9av1urplt5ni700cg5uuceyybfuc.ab-ui.com
 fqdn,c6sh3pkbcv48942d4et0cghtd3ayyyyyn.creepybadger.com
+fqdn,c6sh3pkbcv48942d4et0cghtd3ayyyyyn.creepybadger.com
 fqdn,c70aa274ff77.bingsearchlib.com
 fqdn,c79f0d1aa0ab.bingsearchlib.com
 fqdn,c84d90bce5b0.bingsearchlib.com
@@ -1124,6 +1127,7 @@ fqdn,cae2a7d6dd75.bingsearchlib.com
 fqdn,cae8316bd429.bingsearchlib.com
 fqdn,canarytokens.com
 fqdn,canarytokens.com
+fqdn,cao.300gsyn.it
 fqdn,cao.300gsyn.it
 fqdn,cb-srv.com
 fqdn,cb322b88c2ea.bingsearchlib.com
@@ -1140,6 +1144,7 @@ fqdn,cfd644602c8c.bingsearchlib.com
 fqdn,cfda08bc9cf9.bingsearchlib.com
 fqdn,cff1fbafb9a9.bingsearchlib.com
 fqdn,creepybadger.com
+fqdn,cuminside.club
 fqdn,cuminside.club
 fqdn,cyber-risk.upguard.com
 fqdn,cyobs-com-log4jscan.com
@@ -1287,6 +1292,7 @@ fqdn,f4cf2a9b7dba.bingsearchlib.com
 fqdn,f4d5efdda59f.bingsearchlib.com
 fqdn,f4d5efdda59f.bingsearchlib.com
 fqdn,f53d3241.probe001.log4j.leakix.net
+fqdn,f53d3241.probe001.log4j.leakix.net
 fqdn,f60aa649.probe001.log4j.leakix.net
 fqdn,f6634b129f94.bingsearchlib.com
 fqdn,f684b7afd994.bingsearchlib.com
@@ -1330,6 +1336,7 @@ fqdn,fi.doh.dns.snopyta.org
 fqdn,flofire.de
 fqdn,friendly-test.cf0bc11b0af516d14673b91478300c4c9e01a08b.dns.cyberwar.nl
 fqdn,g3lcfo.dnslog.cn
+fqdn,homecare888.com
 fqdn,homecare888.com
 fqdn,http443path.kryptoslogic-cve-2021-44228.com
 fqdn,http443path.kryptoslogic-cve-2021-44228.com
@@ -1439,6 +1446,7 @@ fqdn,wpcookie.net
 fqdn,www.7cfa.win
 fqdn,x2f.me
 fqdn,xyzuv12x8szr9ls5um3yx9zxn.canarytokens.com
+fqdn,xyzuv12x8szr9ls5um3yx9zxn.canarytokens.com
 fqdn,y0ho9z.dnslog.cn
 fqdn,yourdns.zone.here
 fqdn,z2.zonduusecurity.com
@@ -1517,6 +1525,7 @@ ip,123.13.155.222
 ip,123.13.158.58
 ip,123.132.238.210
 ip,124.220.10.167
+ip,124.221.119.17
 ip,124.221.119.17
 ip,124.221.122.219
 ip,124.221.149.228
@@ -1686,6 +1695,7 @@ ip,194.219.134.234
 ip,194.36.188.187
 ip,194.40.243.149
 ip,194.40.243.24
+ip,194.40.243.24
 ip,195.112.113.205
 ip,195.54.160.149
 ip,195.87.73.208
@@ -1703,6 +1713,7 @@ ip,2.57.121.36
 ip,2.58.149.206
 ip,20.111.17.179
 ip,20.111.17.179
+ip,20.127.241.42
 ip,20.127.241.42
 ip,20.141.185.205
 ip,20.213.160.64
@@ -1748,6 +1759,7 @@ ip,222.100.124.62
 ip,222.103.98.58
 ip,222.165.136.99
 ip,223.171.91.120
+ip,223.171.91.127
 ip,223.171.91.127
 ip,223.171.91.146
 ip,223.171.91.147
@@ -1842,6 +1854,7 @@ ip,58.218.67.35
 ip,58.229.125.66
 ip,58.33.13.154
 ip,59.3.186.45
+ip,59.3.186.45
 ip,60.216.64.190
 ip,61.102.42.5
 ip,61.102.42.5
@@ -1869,6 +1882,7 @@ ip,64.39.106.103
 ip,64.39.106.104
 ip,64.39.106.109
 ip,64.39.106.116
+ip,64.39.106.116
 ip,64.39.106.121
 ip,64.39.106.35
 ip,64.39.106.38
@@ -1893,6 +1907,7 @@ ip,67.205.191.102
 ip,67.48.56.148
 ip,67.48.56.148
 ip,71.198.86.119
+ip,73.112.114.48
 ip,73.112.114.48
 ip,73.172.33.150
 ip,76.176.50.74
@@ -1927,6 +1942,7 @@ ip,82.157.50.152
 ip,82.66.5.84
 ip,83.114.53.190
 ip,83.135.96.156
+ip,83.135.96.156
 ip,83.135.97.252
 ip,83.143.96.74
 ip,83.224.130.191
@@ -1950,6 +1966,7 @@ ip,89.163.144.156
 ip,89.212.123.191
 ip,90.230.191.6
 ip,90.84.178.188
+ip,91.200.103.249
 ip,91.200.103.249
 ip,91.249.134.148
 ip,91.249.134.148
@@ -2087,6 +2104,7 @@ url,http://164.52.212.196:88/eth.jpg
 url,http://164.52.212.196:88/eth.jpg
 url,http://164.52.212.196:88/log
 url,http://164.52.212.196:88/log
+url,http://164.52.212.196:88/logback.exe
 url,http://164.52.212.196:88/logback.exe
 url,http://164.52.212.196:88/logc
 url,http://164.52.212.196:88/s.ps1
@@ -2387,6 +2405,8 @@ url,http://91.200.103.249:8080/multi/bins/mips
 url,http://91.200.103.249:8080/multi/bins/mipsel
 url,http://91.200.103.249:8080/multi/bins/sh4
 url,http://91.200.103.249:8080/multi/bins/sparc
+url,http://91.200.103.249:8080/multi/bins/sparc
+url,http://91.200.103.249:8080/multi/bins/u
 url,http://91.200.103.249:8080/multi/bins/u
 url,http://91.200.103.249:8080/multi/bins/x86_64
 url,http://91.200.103.249:8080/multi/wget.sh
@@ -2520,6 +2540,7 @@ url,https://cdn.discordapp.com/attachments/912401139310411857/913540738757820446
 url,https://cdn.discordapp.com/attachments/912401139310411857/913540738904637440/use2.class
 url,https://cdn.discordapp.com/attachments/912401139310411857/914552762925195304/hud.class
 url,https://cdn.discordapp.com/attachments/912401139310411857/916049575435993138/lucidphase.class
+url,https://cdn.fbsbx.com/v/t59.2708-21/261523260_570309860735261_6837498676061670623_n.class/gradesusingarrayswithsorting.class
 url,https://cdn.fbsbx.com/v/t59.2708-21/261523260_570309860735261_6837498676061670623_n.class/gradesusingarrayswithsorting.class
 url,https://daftar.site/ANASOO/ZqpHydykkkklgbtq.bin
 url,https://daftar.site/DIIZ/aXXjQAZugmfgEvkkklgbtq.bin
