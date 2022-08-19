@@ -9,6 +9,7 @@ domain,ab-ui.com
 domain,abrahackbugs.xyz
 domain,abrahackbugs.xyz
 domain,apacheorg.top
+domain,apacheorg.top
 domain,apacheorg.xyz
 domain,awsdns-2.org
 domain,awsdns-2.org
@@ -286,6 +287,7 @@ file,8be866ae94b6bee107e3755fd1e9bf0d
 file,8d9874d9b7d18e4e01c78fbbcdd61143f8884541
 file,8dd2f5868d391f25b9a03bb4071ce9a6b27a7ae2deb6c4871fc87020b13ba459
 file,8e07f5fca7d2a1bdd82e1c916b2dbb83922f9879
+file,8e07f5fca7d2a1bdd82e1c916b2dbb83922f9879
 file,8e9febc8182af31bab8038b9179c5808
 file,8fd4416f84d30f0480b2676c0fe3e31ce1e10d5f3d88d10bc6cc3e5d878ba0b2
 file,8fd4416f84d30f0480b2676c0fe3e31ce1e10d5f3d88d10bc6cc3e5d878ba0b2
@@ -547,6 +549,7 @@ fqdn,13fc220878f7.bingsearchlib.com
 fqdn,14.21fqfx.dnslog.cn
 fqdn,141d39fab6f8.bingsearchlib.com
 fqdn,15.21fqfx.dnslog.cn
+fqdn,15.21fqfx.dnslog.cn
 fqdn,15df2d977578.bingsearchlib.com
 fqdn,16.21fqfx.dnslog.cn
 fqdn,1606be04fe34.bingsearchlib.com
@@ -689,6 +692,7 @@ fqdn,40eeada5.probe001.log4j.leakix.net
 fqdn,41.me
 fqdn,416b21120a59.bingsearchlib.com
 fqdn,424bbd495916.bingsearchlib.com
+fqdn,4261.ccg42f.dnslog.cn
 fqdn,4261.ccg42f.dnslog.cn
 fqdn,42ba685e49f3.bingsearchlib.com
 fqdn,42fe37ef1663.bingsearchlib.com
@@ -938,6 +942,7 @@ fqdn,910eef74df8d.bingsearchlib.com
 fqdn,91124b924166.bingsearchlib.com
 fqdn,916fce25-fae1-4261-9afc-ac0e2681eed4.dns.log4shell.tools
 fqdn,9183.ccg42f.dnslog.cn
+fqdn,9183.ccg42f.dnslog.cn
 fqdn,918d9838c5ca.bingsearchlib.com
 fqdn,91c5e4e1df27.bingsearchlib.com
 fqdn,91e9e655197f.bingsearchlib.com
@@ -1096,6 +1101,7 @@ fqdn,c5eb13fe41b6.bingsearchlib.com
 fqdn,c5eca394e493.bingsearchlib.com
 fqdn,c6pnncggjk7jk873c9e0cg3zzcoyyyyyn.interactsh.com
 fqdn,c6ps4ipurnhssm2608l0cg37chyyykyhk.interact.sh
+fqdn,c6ps4ipurnhssm2608l0cg37chyyykyhk.interact.sh
 fqdn,c6ps4ipurnhssm2608l0cg37pdyyykbug.interact.sh
 fqdn,c6ps4rekeidcvgqlsmsgcg37qdoyyknz4.interact.sh
 fqdn,c6ps4rekeidcvgqlsmsgcg37x9ayymcak.interact.sh
@@ -1193,6 +1199,7 @@ fqdn,dns.dns-over-https.com
 fqdn,dns.dns-over-https.com
 fqdn,dns.flatuslifir.is
 fqdn,dns.hostux.net
+fqdn,dns.hostux.net
 fqdn,dns.rubyfish.cn
 fqdn,dns.twnic.tw
 fqdn,dns.wapiti3.ovh
@@ -1249,6 +1256,7 @@ fqdn,eb90e696775b.bingsearchlib.com
 fqdn,ec725b34.dns.1433.eu.org
 fqdn,eca6e1900645.bingsearchlib.com
 fqdn,eca6e1900645.bingsearchlib.com
+fqdn,ed1d4dfc.probe001.log4j.leakix.net
 fqdn,ed1d4dfc.probe001.log4j.leakix.net
 fqdn,eda7c886f204.bingsearchlib.com
 fqdn,ee336ffd7dc9.bingsearchlib.com
@@ -1488,6 +1496,7 @@ ip,117.80.212.33
 ip,118.122.103.138
 ip,118.186.70.130
 ip,118.218.209.149
+ip,118.218.209.149
 ip,118.41.204.72
 ip,118.41.204.72
 ip,119.91.63.58
@@ -1581,6 +1590,7 @@ ip,159.75.54.90
 ip,159.89.182.117
 ip,159.89.182.117
 ip,160.153.245.122
+ip,162.241.127.99
 ip,162.241.127.99
 ip,162.55.90.26
 ip,163.172.157.143
@@ -1692,6 +1702,7 @@ ip,2.56.56.116
 ip,2.57.121.36
 ip,2.58.149.206
 ip,20.111.17.179
+ip,20.111.17.179
 ip,20.127.241.42
 ip,20.141.185.205
 ip,20.213.160.64
@@ -1785,6 +1796,7 @@ ip,45.12.32.14
 ip,45.12.32.61
 ip,45.120.216.114
 ip,45.120.216.114
+ip,45.129.137.197
 ip,45.129.137.197
 ip,45.130.229.168
 ip,45.130.229.168
@@ -2024,6 +2036,7 @@ url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropistaps
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropistasl
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropistax64
 url,http://158.69.33.162/sshd
+url,http://158.69.33.162/sshd
 url,http://159.223.124.211/8UsA.sh
 url,http://159.223.124.211/bins/seversk.arm
 url,http://159.223.124.211/bins/seversk.arm5
@@ -2060,6 +2073,7 @@ url,http://164.52.212.196:88
 url,http://164.52.212.196:88/1.jpg
 url,http://164.52.212.196:88/1.jpg
 url,http://164.52.212.196:88/11.bat
+url,http://164.52.212.196:88/Jamf
 url,http://164.52.212.196:88/Jamf
 url,http://164.52.212.196:88/Jamf.ps1
 url,http://164.52.212.196:88/Jamf.ps1
@@ -2197,6 +2211,7 @@ url,http://205.185.113.59:1234/.inis
 url,http://205.185.113.59:1234/.rsyslogds
 url,http://205.185.113.59:1234/xms
 url,http://205.185.113.59:1234/xmss
+url,http://209.141.46.114/reader
 url,http://209.141.46.114/reader
 url,http://210.141.105.67/wp-content/themes/twentythirteen/m8
 url,http://210.141.105.67/wp-content/themes/twentythirteen/m8
@@ -2481,6 +2496,7 @@ url,http://www.woodmagazine.com/default.sph/wcontent_user.class?fnc=categorylink
 url,http://www.woodmagazine.com/default.sph/wcontent_user.class?fnc=emailstory__astory1_html___7___47___129___389
 url,http://www.woodmagazine.com/default.sph/wcontent_user.class?fnc=popupimgfa__astory1_html___389___1___1
 url,http://www.woodmagazine.com/default.sph/wcontent_user.class?fnc=printstory__astory1_html___7___47___129___389
+url,http://www.woodmagazine.com/default.sph/wcontent_user.class?fnc=printstory__astory1_html___7___47___129___389
 url,http://www.woodmagazine.com/default.sph/wcontent_user.class?fnc=subcatlink__astory1_html___7___47___129
 url,https://015ed9119662.bingsearchlib.com:39356/a
 url,https://015ed9119662.bingsearchlib.com:39356/a
@@ -2492,6 +2508,7 @@ url,https://attacker.com/exploit.class
 url,https://baldervain.com/19-1k3pp1-fc-ear-jkoc-d1j9.class
 url,https://bpnjabar.tams-app.com/Q6FP/EvVGQtOtkSGFPkkklgbtq.bin
 url,https://bvprzqhoz7j2ltin.onion.ly/src/ldm
+url,https://bvprzqhoz7j2ltin.onion.ly/src/main
 url,https://bvprzqhoz7j2ltin.onion.ly/src/main
 url,https://bvprzqhoz7j2ltin.onion.ws/src/ldm
 url,https://bvprzqhoz7j2ltin.onion.ws/src/main
