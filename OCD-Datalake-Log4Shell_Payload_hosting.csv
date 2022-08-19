@@ -153,6 +153,7 @@ file,2a4e636c4077b493868ea696db3be864126d1066cdc95131f522a4c9f5fb3fec
 file,2a5d5a37da4899a8f9c216e2cd7d5b0a829b44dc
 file,2a7ab0584112313197c2efb5ccd45332
 file,2b5f04d15e459132a5935260746788db39b469ea46859c4a5bb8625f8a80bd41
+file,2b5f04d15e459132a5935260746788db39b469ea46859c4a5bb8625f8a80bd41
 file,2d3b859f2ad3f0e296fd29c1abc5eb80b4dabe7c0b9d9a3b44821c9ed8e015b1
 file,2e5188227421b68fca64d07c9a298115ccdd6b1f
 file,2e5188227421b68fca64d07c9a298115ccdd6b1f
@@ -256,6 +257,7 @@ file,6f3885eee3668bafbefefd2eb17f4105
 file,6f3d7c01c25decca73f8e7c7d998ff4a
 file,6f3d7c01c25decca73f8e7c7d998ff4a
 file,7101cb0d0229a3794d7575b619f051dde4eba58eae47756f675d552502e6dbe9
+file,7101cb0d0229a3794d7575b619f051dde4eba58eae47756f675d552502e6dbe9
 file,71e644015f646f7532c7dd2c3c847364
 file,71e644015f646f7532c7dd2c3c847364
 file,720a3a92e72054dc8d58e229c22bb892
@@ -289,6 +291,7 @@ file,8b1d95123a8da5fc351422aa057b9ec7a954c608570757d644e56c72133ec1ed
 file,8b1d95123a8da5fc351422aa057b9ec7a954c608570757d644e56c72133ec1ed
 file,8be866ae94b6bee107e3755fd1e9bf0d
 file,8d9874d9b7d18e4e01c78fbbcdd61143f8884541
+file,8dd2f5868d391f25b9a03bb4071ce9a6b27a7ae2deb6c4871fc87020b13ba459
 file,8dd2f5868d391f25b9a03bb4071ce9a6b27a7ae2deb6c4871fc87020b13ba459
 file,8e07f5fca7d2a1bdd82e1c916b2dbb83922f9879
 file,8e07f5fca7d2a1bdd82e1c916b2dbb83922f9879
@@ -360,6 +363,7 @@ file,b3651f2e069c9db83f35eda3cc663ecfb8167d99
 file,b3a6fe5bc3883fd26c682bb6271a700b8a6fe006ad8df6c09cc87530fcd3a778
 file,b3a6fe5bc3883fd26c682bb6271a700b8a6fe006ad8df6c09cc87530fcd3a778
 file,b3ae259df698576d682af6d00ba89a2182f00c02406589fe4dda5f4d8f621e03
+file,b4188e7c2c16141198628680f8c8d7b3cb0c631114433a390c3c45724dc675fe
 file,b4188e7c2c16141198628680f8c8d7b3cb0c631114433a390c3c45724dc675fe
 file,b4907969621e33928d0069cabeb31f471e2db2a3
 file,b6065c7ed17bcf2471a2a72dfce26f0cdff5e4ba7f02b826fb0093cb94e8efea
@@ -439,6 +443,7 @@ file,dc7d2d19e3893b810be6a5a280a5eed79342367a
 file,dcffb04aa4ccf54137c0ac921e181afd
 file,dcffb04aa4ccf54137c0ac921e181afd
 file,ded558217c327d8f5c3f8b36118380ab
+file,ded558217c327d8f5c3f8b36118380ab
 file,dedeb1640850a6ef21cc0efb5f1f96309f62dc10308c6b6c35a9cdadaaeffa13
 file,df0f21d8358ea6690a2e3080ba5c5b2c21725480ffa0d8c813973d15201adc68
 file,e121d1050bf62a94adfde406325e70a7878b3ed8
@@ -498,6 +503,7 @@ fqdn,0241465b.probe001.log4j.leakix.net
 fqdn,0241465b.probe001.log4j.leakix.net
 fqdn,024e5d4e29f6.bingsearchlib.com
 fqdn,024e5d4e29f6.bingsearchlib.com
+fqdn,029e7c6c.probe001.log4j.leakix.net
 fqdn,029e7c6c.probe001.log4j.leakix.net
 fqdn,0384eb5a.probe001.log4j.leakix.net
 fqdn,0384eb5a.probe001.log4j.leakix.net
@@ -578,6 +584,7 @@ fqdn,184b0e00a853.bingsearchlib.com
 fqdn,184dcac8da3c.bingsearchlib.com
 fqdn,18643f1cd643.bingsearchlib.com
 fqdn,18643f1cd643.bingsearchlib.com
+fqdn,1886059b.probe001.log4j.leakix.net
 fqdn,1886059b.probe001.log4j.leakix.net
 fqdn,18a5633f1455.bingsearchlib.com
 fqdn,19.21fqfx.dnslog.cn
@@ -707,6 +714,7 @@ fqdn,3fd1b0bc.probe001.log4j.leakix.net
 fqdn,4.21fqfx.dnslog.cn
 fqdn,4.21fqfx.dnslog.cn
 fqdn,4.ihqufh.dnslog.cn
+fqdn,4.ihqufh.dnslog.cn
 fqdn,4012579e955f.bingsearchlib.com
 fqdn,4012e04b.probe001.log4j.leakix.net
 fqdn,4012e04b.probe001.log4j.leakix.net
@@ -737,6 +745,7 @@ fqdn,4568-3409-8076-3389.service.exfil.site
 fqdn,45a046dc35a2.bingsearchlib.com
 fqdn,45cecd2f38ca.bingsearchlib.com
 fqdn,4697ca73.probe001.log4j.leakix.net
+fqdn,4697ca73.probe001.log4j.leakix.net
 fqdn,46c5056a2388.bingsearchlib.com
 fqdn,46c70a67acd3.bingsearchlib.com
 fqdn,46d97df39a02.bingsearchlib.com
@@ -749,6 +758,8 @@ fqdn,484aa866cd6c.bingsearchlib.com
 fqdn,4862f1f5c2c8.bingsearchlib.com
 fqdn,49fc7bf867ef.bingsearchlib.com
 fqdn,4bb39c6f.probe001.log4j.leakix.net
+fqdn,4bb39c6f.probe001.log4j.leakix.net
+fqdn,4c1ece5d0c54.bingsearchlib.com
 fqdn,4c1ece5d0c54.bingsearchlib.com
 fqdn,4c2c2390.probe001.log4j.leakix.net
 fqdn,4c2c2390.probe001.log4j.leakix.net
@@ -815,6 +826,7 @@ fqdn,5e7baaf46dc0.bingsearchlib.com
 fqdn,5ea60116d80e.bingsearchlib.com
 fqdn,5edab55c1054.bingsearchlib.com
 fqdn,5f396380.probe001.log4j.leakix.net
+fqdn,5f396380.probe001.log4j.leakix.net
 fqdn,5fa620cc5e56.bingsearchlib.com
 fqdn,60292d90d1b2.bingsearchlib.com
 fqdn,6035a310c241.bingsearchlib.com
@@ -859,6 +871,7 @@ fqdn,69.rjunm4.dnslog.cn
 fqdn,69.rjunm4.dnslog.cn
 fqdn,690f3230afae.bingsearchlib.com
 fqdn,691c3f1c.probe001.log4j.leakix.net
+fqdn,691c3f1c.probe001.log4j.leakix.net
 fqdn,6939.ccg42f.dnslog.cn
 fqdn,6939.ccg42f.dnslog.cn
 fqdn,6c73ac5805a6.bingsearchlib.com
@@ -873,10 +886,12 @@ fqdn,6f22b0f41706.bingsearchlib.com
 fqdn,6f6aed93cd2f.bingsearchlib.com
 fqdn,6fdf46ec3488.bingsearchlib.com
 fqdn,7.21fqfx.dnslog.cn
+fqdn,7.21fqfx.dnslog.cn
 fqdn,70.rjunm4.dnslog.cn
 fqdn,708d779bcf77.bingsearchlib.com
 fqdn,70aa6f2a62f7.bingsearchlib.com
 fqdn,70c335a0d813.bingsearchlib.com
+fqdn,71.rjunm4.dnslog.cn
 fqdn,71.rjunm4.dnslog.cn
 fqdn,7132.ccg42f.dnslog.cn
 fqdn,713cf0ac1632.bingsearchlib.com
@@ -940,6 +955,7 @@ fqdn,813264da9150.bingsearchlib.com
 fqdn,813ac90966bc.bingsearchlib.com
 fqdn,814cbd9db83a.bingsearchlib.com
 fqdn,818231ed351f.bingsearchlib.com
+fqdn,81aea5e2.probe001.log4j.leakix.net
 fqdn,81aea5e2.probe001.log4j.leakix.net
 fqdn,81f3c543.probe001.log4j.leakix.net
 fqdn,81f487a10cb5.bingsearchlib.com
@@ -1045,6 +1061,7 @@ fqdn,9cb05af297a8.bingsearchlib.com
 fqdn,9cb6e389bc8c.bingsearchlib.com
 fqdn,9d05cb25d106.bingsearchlib.com
 fqdn,9ee7c9fe.dns.1433.eu.org
+fqdn,9ee7c9fe.dns.1433.eu.org
 fqdn,9fd5a935e06a.bingsearchlib.com
 fqdn,a0294c819682.bingsearchlib.com
 fqdn,a087aca06e38.bingsearchlib.com
@@ -1055,6 +1072,7 @@ fqdn,a33f41daca17.bingsearchlib.com
 fqdn,a3563790b265.bingsearchlib.com
 fqdn,a3563790b265.bingsearchlib.com
 fqdn,a372a16e46fb.bingsearchlib.com
+fqdn,a4079b92cf3d.bingsearchlib.com
 fqdn,a4079b92cf3d.bingsearchlib.com
 fqdn,a40d65b21b7f.bingsearchlib.com
 fqdn,a40d65b21b7f.bingsearchlib.com
@@ -1083,6 +1101,7 @@ fqdn,aa93bc03591f.bingsearchlib.com
 fqdn,aa9a6b64c58a.bingsearchlib.com
 fqdn,aa9a6b64c58a.bingsearchlib.com
 fqdn,ab3419ba1f45.bingsearchlib.com
+fqdn,ab6deb93.probe001.log4j.leakix.net
 fqdn,ab6deb93.probe001.log4j.leakix.net
 fqdn,aba268c66dd3.bingsearchlib.com
 fqdn,abee06540bfe.bingsearchlib.com
@@ -1181,6 +1200,7 @@ fqdn,c6pnncggjk7jk873c9e0cg3zzcoyyyyyn.interactsh.com
 fqdn,c6ps4ipurnhssm2608l0cg37chyyykyhk.interact.sh
 fqdn,c6ps4ipurnhssm2608l0cg37chyyykyhk.interact.sh
 fqdn,c6ps4ipurnhssm2608l0cg37pdyyykbug.interact.sh
+fqdn,c6ps4ipurnhssm2608l0cg37pdyyykbug.interact.sh
 fqdn,c6ps4rekeidcvgqlsmsgcg37qdoyyknz4.interact.sh
 fqdn,c6ps4rekeidcvgqlsmsgcg37x9ayymcak.interact.sh
 fqdn,c6qn3jqpt9ubq26idkcgcg4z8heyyyq1h.interact.sh
@@ -1240,6 +1260,7 @@ fqdn,d15d803489af.bingsearchlib.com
 fqdn,d1a520c1f2bb.bingsearchlib.com
 fqdn,d1a520c1f2bb.bingsearchlib.com
 fqdn,d21ad2c0.probe001.log4j.leakix.net
+fqdn,d21ad2c0.probe001.log4j.leakix.net
 fqdn,d22485f86152.bingsearchlib.com
 fqdn,d2670da6a5c1.bingsearchlib.com
 fqdn,d2670da6a5c1.bingsearchlib.com
@@ -1277,6 +1298,7 @@ fqdn,dbe67217b89f.bingsearchlib.com
 fqdn,dc05762b0bc2.bingsearchlib.com
 fqdn,dc05762b0bc2.bingsearchlib.com
 fqdn,dcff09bd4870.bingsearchlib.com
+fqdn,dd68ca4c.probe001.log4j.leakix.net
 fqdn,dd68ca4c.probe001.log4j.leakix.net
 fqdn,dde02543.probe001.log4j.leakix.net
 fqdn,dedb05132e0d.bingsearchlib.com
@@ -1321,6 +1343,7 @@ fqdn,e46abe55.probe001.log4j.leakix.net
 fqdn,e48e744f3efb.bingsearchlib.com
 fqdn,e4f4e08da112.bingsearchlib.com
 fqdn,e50073c99a13.bingsearchlib.com
+fqdn,e50073c99a13.bingsearchlib.com
 fqdn,e51f2de2cd97.bingsearchlib.com
 fqdn,e533b9b7724f.bingsearchlib.com
 fqdn,e57e49354da1.bingsearchlib.com
@@ -1330,6 +1353,7 @@ fqdn,e62bd60a.probe001.log4j.leakix.net
 fqdn,e6d22cf0fc95.bingsearchlib.com
 fqdn,e6e7c03c998d.bingsearchlib.com
 fqdn,e712032fdde0.bingsearchlib.com
+fqdn,e737b62d.probe001.log4j.leakix.net
 fqdn,e737b62d.probe001.log4j.leakix.net
 fqdn,e7929a62326d.bingsearchlib.com
 fqdn,e792baef53c1.bingsearchlib.com
@@ -1349,6 +1373,7 @@ fqdn,ea62856c5fc3.bingsearchlib.com
 fqdn,ea89fd7b0fe8.bingsearchlib.com
 fqdn,eb1b0fc46d80.bingsearchlib.com
 fqdn,eb90e696775b.bingsearchlib.com
+fqdn,ec725b34.dns.1433.eu.org
 fqdn,ec725b34.dns.1433.eu.org
 fqdn,eca6e1900645.bingsearchlib.com
 fqdn,eca6e1900645.bingsearchlib.com
@@ -1457,6 +1482,7 @@ fqdn,l4j.dnspwn.w0.cx
 fqdn,li466-34.members.linode.com
 fqdn,li466-34.members.linode.com
 fqdn,li826-29.members.linode.com
+fqdn,li826-29.members.linode.com
 fqdn,lnc7vvhztmjdfm221sdp76xnze5atz.burpcollaborator.net
 fqdn,log.exposedbotnets.ru
 fqdn,log.exposedbotnets.ru
@@ -1471,6 +1497,7 @@ fqdn,log4j.leakix.net
 fqdn,log4j2.component.properties
 fqdn,log4jdns.x00.it
 fqdn,log4jdns.x00.it
+fqdn,log4shell-iocs.md
 fqdn,log4shell-iocs.md
 fqdn,log4shell.huntress.com
 fqdn,logisoft-cy.com
@@ -1509,6 +1536,7 @@ fqdn,lx-ffff3fe77575bb08d133b6610000000038a7c7.probe001.log4j.leakix.net
 fqdn,lx-ffff3fe77575bb08d133b6610000000038a7c7.probe001.log4j.leakix.net
 fqdn,lx-ffff3fe7757dbb08febab56100000000d1ea53.probe001.log4j.leakix.net
 fqdn,lx-ffff3fe7758ebb081534b66100000000cf077a.probe001.log4j.leakix.net
+fqdn,lx-ffff3fe7758ebb081534b66100000000cf077a.probe001.log4j.leakix.net
 fqdn,lx-ffff3fe775acbb01087941b661000000000f65aa.probe001.log4j.leakix.net
 fqdn,lx-ffff3fe775afbb01086c66b66100000000de5fa7.probe001.log4j.leakix.net
 fqdn,lx-ffff3fe775afbb01086c66b66100000000de5fa7.probe001.log4j.leakix.net
@@ -1536,12 +1564,14 @@ fqdn,lx-ffff68d38b89bb01080c3bb66100000000480125.probe001.log4j.leakix.net
 fqdn,lx-ffff6dcf4c39bb08c365b56100000000b58824.probe001.log4j.leakix.net
 fqdn,lx-ffff6dcf4c39bb08c365b56100000000b58824.probe001.log4j.leakix.net
 fqdn,lx-ffff8ba2ce73bb0108313eb66100000000839e76.probe001.log4j.leakix.net
+fqdn,lx-ffff8ba2ce73bb0108313eb66100000000839e76.probe001.log4j.leakix.net
 fqdn,lx-ffff8ba2ce73bb08e154b56100000000da1cd1.probe001.log4j.leakix.net
 fqdn,lx-ffffa9325833bb084382b561000000005b2d47.probe001.log4j.leakix.net
 fqdn,lx-ffffa9388c6abb01080b79b6610000000059cce9.probe001.log4j.leakix.net
 fqdn,lx-ffffa9388c6abb01080b79b6610000000059cce9.probe001.log4j.leakix.net
 fqdn,lx-ffffa9388c6ebb0108393bb66100000000aa1a37.probe001.log4j.leakix.net
 fqdn,lx-ffffa9388c6ebb0108393bb66100000000aa1a37.probe001.log4j.leakix.net
+fqdn,lx-ffffa9396424bb082e34b66100000000dcade3.probe001.log4j.leakix.net
 fqdn,lx-ffffa9396424bb082e34b66100000000dcade3.probe001.log4j.leakix.net
 fqdn,lx-ffffac687c8bfb2008e64fb66100000000b192f1.probe001.log4j.leakix.net
 fqdn,lx-ffffac690875bb087a04b661000000005a0a69.probe001.log4j.leakix.net
@@ -1555,6 +1585,7 @@ fqdn,lx-ffffb9b5d372bb089027b66100000000149e7d.probe001.log4j.leakix.net
 fqdn,lx-ffffb9e5e29bbb085ec4b561000000006b7a72.probe001.log4j.leakix.net
 fqdn,lx-ffffb9e5e29bbb085ec4b561000000006b7a72.probe001.log4j.leakix.net
 fqdn,lx-ffffc2ce4d0f5000df3cb5610000000099989e.probe001.log4j.leakix.net
+fqdn,lx-ffffc2ce4d0f5000df3cb5610000000099989e.probe001.log4j.leakix.net
 fqdn,lx-ffffc2ce4d0f5001df3cb56100000000990dd6.probe001.log4j.leakix.net
 fqdn,lx-ffffc2ce4d0f5001df3cb56100000000990dd6.probe001.log4j.leakix.net
 fqdn,m3.wtf
@@ -1563,6 +1594,7 @@ fqdn,nazi.uy
 fqdn,nazi.uy
 fqdn,nijat.space
 fqdn,nijat.space
+fqdn,oeig3.tk
 fqdn,oeig3.tk
 fqdn,paycashs.com
 fqdn,poc.brzozowski.io
@@ -1583,6 +1615,7 @@ fqdn,tb8vukwsqgwossmm6zrifxhy4pafy4.burp.regala.im
 fqdn,tb8vukwsqgwossmm6zrifxhy4pafy4.burp.regala.im
 fqdn,u3l7ck.dnslog.cn
 fqdn,u3l7ck.dnslog.cn
+fqdn,vtsbvstaykk2mxxg4tw9b060irohc6.swat.outpost24.com
 fqdn,vtsbvstaykk2mxxg4tw9b060irohc6.swat.outpost24.com
 fqdn,vyvdsvh.x.i.yunzhanghu.co
 fqdn,world443.log4j.binaryedge.io
@@ -1608,9 +1641,11 @@ ip,101.33.244.39
 ip,101.35.128.216
 ip,101.42.108.123
 ip,101.42.226.13
+ip,101.42.226.13
 ip,101.42.237.46
 ip,101.43.155.104
 ip,101.43.155.104
+ip,101.43.17.148
 ip,101.43.17.148
 ip,101.43.170.250
 ip,101.43.228.62
@@ -1636,11 +1671,13 @@ ip,103.96.41.245
 ip,104.129.12.141
 ip,104.248.36.230
 ip,104.33.169.176
+ip,104.33.169.176
 ip,105.235.120.192
 ip,106.52.252.228
 ip,106.75.109.253
 ip,107.173.84.130
 ip,107.174.170.24
+ip,108.250.222.91
 ip,108.250.222.91
 ip,110.42.198.77
 ip,110.42.226.153
@@ -1665,6 +1702,7 @@ ip,118.218.209.149
 ip,118.41.204.72
 ip,118.41.204.72
 ip,119.91.63.58
+ip,119.91.63.58
 ip,120.201.144.70
 ip,120.224.34.31
 ip,120.232.251.85
@@ -1679,8 +1717,10 @@ ip,121.41.109.54
 ip,122.14.209.181
 ip,122.14.222.124
 ip,123.13.153.28
+ip,123.13.153.28
 ip,123.13.155.222
 ip,123.13.155.222
+ip,123.13.158.58
 ip,123.13.158.58
 ip,123.132.238.210
 ip,123.132.238.210
@@ -1692,17 +1732,22 @@ ip,124.221.122.219
 ip,124.221.149.228
 ip,124.221.161.120
 ip,124.221.162.244
+ip,124.221.162.244
 ip,124.221.61.226
 ip,124.221.73.47
 ip,124.221.73.56
+ip,124.221.73.56
 ip,124.221.74.171
+ip,124.222.13.124
 ip,124.222.13.124
 ip,124.222.173.19
 ip,124.222.239.192
 ip,124.222.75.231
 ip,124.223.208.121
+ip,124.223.208.121
 ip,124.223.63.43
 ip,124.223.63.43
+ip,124.78.199.149
 ip,124.78.199.149
 ip,124.79.72.174
 ip,125.17.115.94
@@ -1720,6 +1765,7 @@ ip,135.148.143.217
 ip,136.175.172.100
 ip,136.175.172.100
 ip,138.2.123.212
+ip,138.2.123.212
 ip,139.162.20.98
 ip,139.162.20.98
 ip,139.209.222.134
@@ -1733,10 +1779,12 @@ ip,141.98.10.141
 ip,141.98.83.139
 ip,141.98.83.139
 ip,142.93.172.227
+ip,142.93.172.227
 ip,144.202.34.169
 ip,144.22.211.65
 ip,144.22.211.65
 ip,145.228.145.71
+ip,147.182.214.211
 ip,147.182.214.211
 ip,149.5.77.11
 ip,149.5.77.11
@@ -1758,6 +1806,7 @@ ip,154.59.121.140
 ip,154.59.121.147
 ip,154.59.121.147
 ip,154.59.121.148
+ip,154.59.121.148
 ip,154.59.121.149
 ip,154.59.121.149
 ip,154.59.121.150
@@ -1769,6 +1818,7 @@ ip,159.223.43.161
 ip,159.223.5.30
 ip,159.65.242.113
 ip,159.65.242.113
+ip,159.75.19.149
 ip,159.75.19.149
 ip,159.75.54.90
 ip,159.75.54.90
@@ -1800,6 +1850,7 @@ ip,170.231.236.110
 ip,171.221.250.155
 ip,171.221.250.155
 ip,171.42.31.165
+ip,171.42.31.165
 ip,172.105.241.146
 ip,172.105.241.146
 ip,172.105.34.103
@@ -1810,6 +1861,7 @@ ip,172.16.102.99
 ip,173.18.35.41
 ip,173.18.35.41
 ip,173.82.30.96
+ip,175.123.161.28
 ip,175.123.161.28
 ip,175.156.136.31
 ip,175.178.179.67
@@ -1851,6 +1903,7 @@ ip,185.246.87.50
 ip,185.246.87.50
 ip,185.250.148.157
 ip,185.250.148.157
+ip,185.254.196.236
 ip,185.254.196.236
 ip,185.8.172.132
 ip,185.85.215.182
@@ -1910,6 +1963,7 @@ ip,201.167.24.92
 ip,202.191.96.155
 ip,202.191.96.155
 ip,202.61.203.229
+ip,202.61.203.229
 ip,202.90.131.38
 ip,202.90.131.38
 ip,205.185.113.59
@@ -1925,6 +1979,7 @@ ip,209.216.177.158
 ip,209.216.177.238
 ip,210.141.105.67
 ip,210.141.105.67
+ip,210.18.138.230
 ip,210.18.138.230
 ip,210.99.20.194
 ip,211.162.184.120
@@ -2029,6 +2084,7 @@ ip,45.83.64.1
 ip,45.94.204.76
 ip,45.94.204.76
 ip,45.95.55.23
+ip,45.95.55.23
 ip,45.95.55.30
 ip,46.13.164.29
 ip,46.13.164.29
@@ -2050,10 +2106,12 @@ ip,51.159.19.47
 ip,51.222.46.204
 ip,51.222.46.204
 ip,51.79.74.227
+ip,51.79.74.227
 ip,52.131.32.110
 ip,52.236.133.183
 ip,52.69.92.126
 ip,52.69.92.126
+ip,54.210.230.186
 ip,54.210.230.186
 ip,54.86.65.135
 ip,58.218.67.35
@@ -2069,7 +2127,9 @@ ip,61.102.42.5
 ip,61.2.141.136
 ip,61.2.141.136
 ip,61.51.205.138
+ip,61.51.205.138
 ip,62.141.11.68
+ip,62.182.158.156
 ip,62.182.158.156
 ip,62.182.80.168
 ip,62.23.82.156
@@ -2078,6 +2138,7 @@ ip,64.201.160.145
 ip,64.201.160.145
 ip,64.201.163.133
 ip,64.201.163.133
+ip,64.37.231.132
 ip,64.37.231.132
 ip,64.37.231.139
 ip,64.37.231.148
@@ -2100,6 +2161,7 @@ ip,64.39.106.116
 ip,64.39.106.116
 ip,64.39.106.121
 ip,64.39.106.35
+ip,64.39.106.35
 ip,64.39.106.38
 ip,64.39.106.38
 ip,64.39.106.4
@@ -2111,6 +2173,7 @@ ip,64.39.106.9
 ip,64.39.106.92
 ip,64.39.106.94
 ip,64.39.106.95
+ip,64.39.106.99
 ip,64.39.106.99
 ip,64.98.86.50
 ip,64.98.86.50
@@ -2138,6 +2201,7 @@ ip,78.71.51.151
 ip,79.172.214.11
 ip,79.172.214.11
 ip,80.120.130.231
+ip,80.120.130.231
 ip,80.150.50.226
 ip,80.150.50.226
 ip,80.228.235.2
@@ -2155,8 +2219,10 @@ ip,81.70.208.164
 ip,81.70.246.178
 ip,81.70.246.178
 ip,81.70.78.238
+ip,81.70.78.238
 ip,81.70.92.205
 ip,81.70.94.80
+ip,81.83.31.3
 ip,81.83.31.3
 ip,82.117.252.83
 ip,82.117.252.83
@@ -2211,10 +2277,12 @@ ip,93.91.117.60
 ip,95.182.123.186
 ip,95.182.123.186
 ip,95.71.161.234
+ip,95.71.161.234
 ip,96.22.201.142
 ip,96.79.124.153
 url,http://101.79.1.118/LogBack.exe
 url,http://101.79.1.118/LogBack.exe
+url,http://103.104.73.155:8002/acc
 url,http://103.104.73.155:8002/acc
 url,http://103.104.73.155:8002/index
 url,http://103.104.73.155:8080/index
@@ -2227,6 +2295,7 @@ url,http://110.42.239.3/2.hta
 url,http://110.42.239.3:80
 url,http://114.132.231.19/0.hta
 url,http://114.132.231.19/0.hta
+url,http://114.132.231.19/2.hta
 url,http://114.132.231.19/2.hta
 url,http://114.132.231.19/OK1.hta
 url,http://114.132.231.19/OK1.hta
@@ -2267,8 +2336,10 @@ url,http://141.98.83.139:18080/ng60k1/rwjxfwxcbe
 url,http://141.98.83.139:18080/ng60k1/rwjxfwxcbe
 url,http://141.98.83.139:9883/exp.class
 url,http://144.202.34.169:8001/Binary.class
+url,http://144.202.34.169:8001/Binary.class
 url,http://146.112.61.110/exploit.class
 url,http://149.56.42.244/hl
+url,http://149.56.42.244/ht
 url,http://149.56.42.244/ht
 url,http://149.56.42.244/initd
 url,http://149.56.42.244/sshd
@@ -2290,12 +2361,14 @@ url,http://155.94.154.170/aaa
 url,http://155.94.154.170/aaa
 url,http://155.94.154.170/bbb
 url,http://155.94.154.170/log4j
+url,http://155.94.154.170/log4j
 url,http://157.230.189.52/wp-content/themes/twentynineteen/ldm
 url,http://157.230.189.52/wp-content/themes/twentynineteen/ldm
 url,http://158.101.118.236/setup
 url,http://158.101.118.236/setup
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropista86
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropista86
+url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropista8k
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropista8k
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropistah4
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropistam4
@@ -2319,8 +2392,10 @@ url,http://159.223.124.211/bins/seversk.arm5
 url,http://159.223.124.211/bins/seversk.arm6
 url,http://159.223.124.211/bins/seversk.m68k
 url,http://159.223.124.211/bins/seversk.mips
+url,http://159.223.124.211/bins/seversk.mips
 url,http://159.223.124.211/bins/seversk.mpsl
 url,http://159.223.124.211/bins/seversk.mpsl
+url,http://159.223.124.211/bins/seversk.ppc
 url,http://159.223.124.211/bins/seversk.ppc
 url,http://159.223.124.211/bins/seversk.sh4
 url,http://159.223.124.211/bins/seversk.spc
@@ -2445,6 +2520,7 @@ url,http://192.3.1.12/AB4g5/Josho.mips
 url,http://192.3.1.12/AB4g5/Josho.mips
 url,http://192.3.1.12/AB4g5/Josho.mpsl
 url,http://192.3.1.12/AB4g5/Josho.ppc
+url,http://192.3.1.12/AB4g5/Josho.ppc
 url,http://192.3.1.12/AB4g5/Josho.sh4
 url,http://193.196.53.232
 url,http://193.196.53.232/Jamf
@@ -2468,6 +2544,7 @@ url,http://198.98.60.67/lh.sh
 url,http://199.229.248.198/sal
 url,http://2.56.56.117/8UsA.sh
 url,http://2.56.56.117/bins/exlir.arm
+url,http://2.56.56.117/bins/exlir.arm
 url,http://2.56.56.117/bins/exlir.arm5
 url,http://2.56.56.117/bins/exlir.arm6
 url,http://2.56.56.117/bins/exlir.arm6
@@ -2477,6 +2554,7 @@ url,http://2.56.56.117/bins/exlir.m68k
 url,http://2.56.56.117/bins/exlir.mips
 url,http://2.56.56.117/bins/exlir.mpsl
 url,http://2.56.56.117/bins/exlir.mpsl
+url,http://2.56.56.117/bins/exlir.ppc
 url,http://2.56.56.117/bins/exlir.ppc
 url,http://2.56.56.117/bins/exlir.sh4
 url,http://2.56.56.117/bins/exlir.spc
@@ -2489,6 +2567,7 @@ url,http://2.56.56.117/zato/Josho.arm7
 url,http://2.56.56.117/zato/Josho.m68k
 url,http://2.56.56.117/zato/Josho.mips
 url,http://2.56.56.117/zato/Josho.mpsl
+url,http://2.56.56.117/zato/Josho.mpsl
 url,http://2.56.56.117/zato/Josho.ppc
 url,http://2.56.56.117/zato/Josho.ppc
 url,http://2.56.56.117/zato/Josho.sh4
@@ -2498,14 +2577,17 @@ url,http://2.56.56.117/zato/Josho.x86
 url,http://2.58.149.206/reader
 url,http://2.58.149.95/8UsA.sh
 url,http://2.58.149.95/bins/jerusalem.arm
+url,http://2.58.149.95/bins/jerusalem.arm
 url,http://2.58.149.95/bins/jerusalem.arm5
 url,http://2.58.149.95/bins/jerusalem.arm6
 url,http://2.58.149.95/bins/jerusalem.arm6
+url,http://2.58.149.95/bins/jerusalem.m68k
 url,http://2.58.149.95/bins/jerusalem.m68k
 url,http://2.58.149.95/bins/jerusalem.mips
 url,http://2.58.149.95/bins/jerusalem.mpsl
 url,http://2.58.149.95/bins/jerusalem.ppc
 url,http://2.58.149.95/bins/jerusalem.ppc
+url,http://2.58.149.95/bins/jerusalem.sh4
 url,http://2.58.149.95/bins/jerusalem.sh4
 url,http://2.58.149.95/bins/jerusalem.spc
 url,http://2.58.149.95/bins/jerusalem.x86
@@ -2544,6 +2626,7 @@ url,http://34.221.40.237/.x
 url,http://34.221.40.237/.x
 url,http://34.221.40.237/.x/1sh
 url,http://34.221.40.237/.x/1sh
+url,http://34.221.40.237/.x/3sh
 url,http://34.221.40.237/.x/3sh
 url,http://34.221.40.237/.x/pty1
 url,http://34.221.40.237/.x/pty1
@@ -2701,12 +2784,14 @@ url,http://91.200.103.249:8080/multi/bins/arm5
 url,http://91.200.103.249:8080/multi/bins/arm6
 url,http://91.200.103.249:8080/multi/bins/arm6
 url,http://91.200.103.249:8080/multi/bins/arm7
+url,http://91.200.103.249:8080/multi/bins/arm7
 url,http://91.200.103.249:8080/multi/bins/b
 url,http://91.200.103.249:8080/multi/bins/b
 url,http://91.200.103.249:8080/multi/bins/i586
 url,http://91.200.103.249:8080/multi/bins/i686
 url,http://91.200.103.249:8080/multi/bins/i686
 url,http://91.200.103.249:8080/multi/bins/l
+url,http://91.200.103.249:8080/multi/bins/mips
 url,http://91.200.103.249:8080/multi/bins/mips
 url,http://91.200.103.249:8080/multi/bins/mipsel
 url,http://91.200.103.249:8080/multi/bins/sh4
@@ -2722,6 +2807,7 @@ url,http://92.242.40.21/curl-amd64
 url,http://92.242.40.21/curl-amd64
 url,http://92.242.40.21/kinsing
 url,http://92.242.40.21/kinsing
+url,http://92.242.40.21/lh.sh
 url,http://92.242.40.21/lh.sh
 url,http://92.242.40.21/lh2.sh
 url,http://92.242.40.21/lh2.sh
@@ -2774,6 +2860,7 @@ url,http://www.alldomaininfo.com/015QZ4/fuck_niggers_54.hta
 url,http://www.alldomaininfo.com/0QMMJX/fuck_niggers_12.hta
 url,http://www.alldomaininfo.com/18CKF/fuck_niggers_36.hta
 url,http://www.alldomaininfo.com/1D7/fuck_niggers_9.hta
+url,http://www.alldomaininfo.com/1D7/fuck_niggers_9.hta
 url,http://www.alldomaininfo.com/1FKXQ/fuck_niggers_59.hta
 url,http://www.alldomaininfo.com/1WQV/fuck_niggers_10.hta
 url,http://www.alldomaininfo.com/24L/fuck_niggers_19.hta
@@ -2807,6 +2894,8 @@ url,http://www.alldomaininfo.com/CGIQ7/fuck_niggers_38.hta
 url,http://www.alldomaininfo.com/D4PV9I/fuck_niggers_93.hta
 url,http://www.alldomaininfo.com/D4PV9I/fuck_niggers_93.hta
 url,http://www.alldomaininfo.com/D9W/fuck_niggers_15.hta
+url,http://www.alldomaininfo.com/D9W/fuck_niggers_15.hta
+url,http://www.alldomaininfo.com/DBMZ/fuck_niggers_53.hta
 url,http://www.alldomaininfo.com/DBMZ/fuck_niggers_53.hta
 url,http://www.alldomaininfo.com/DIY1F6/fuck_niggers_93.hta
 url,http://www.alldomaininfo.com/DIY1F6/fuck_niggers_93.hta
@@ -2818,6 +2907,7 @@ url,http://www.alldomaininfo.com/GZT/fuck_niggers_58.hta
 url,http://www.alldomaininfo.com/GZT/fuck_niggers_58.hta
 url,http://www.alldomaininfo.com/H0BX1/fuck_niggers_76.hta
 url,http://www.alldomaininfo.com/I233TS/fuck_niggers_68.hta
+url,http://www.alldomaininfo.com/I233TS/fuck_niggers_68.hta
 url,http://www.alldomaininfo.com/J9IPA/fuck_niggers_71.hta
 url,http://www.alldomaininfo.com/JJFO4P/fuck_niggers_4.hta
 url,http://www.alldomaininfo.com/KLY/fuck_niggers_57.hta
@@ -2826,6 +2916,7 @@ url,http://www.alldomaininfo.com/LC1/fuck_niggers_95.hta
 url,http://www.alldomaininfo.com/LC1/fuck_niggers_95.hta
 url,http://www.alldomaininfo.com/LODNH/fuck_niggers_90.hta
 url,http://www.alldomaininfo.com/LU5NRI/fuck_niggers_12.hta
+url,http://www.alldomaininfo.com/M9DFBE/fuck_niggers_31.hta
 url,http://www.alldomaininfo.com/M9DFBE/fuck_niggers_31.hta
 url,http://www.alldomaininfo.com/MWM/fuck_niggers_77.hta
 url,http://www.alldomaininfo.com/MWM/fuck_niggers_77.hta
@@ -2854,6 +2945,7 @@ url,http://www.alldomaininfo.com/XSNKK/fuck_niggers_54.hta
 url,http://www.alldomaininfo.com/Y1G1W/fuck_niggers_94.hta
 url,http://www.alldomaininfo.com/Y1G1W/fuck_niggers_94.hta
 url,http://www.alldomaininfo.com/Y2G/fuck_niggers_14.hta
+url,http://www.alldomaininfo.com/YCEL62/fuck_niggers_29.hta
 url,http://www.alldomaininfo.com/YCEL62/fuck_niggers_29.hta
 url,http://www.alldomaininfo.com/ZBK/fuck_niggers_57.hta
 url,http://www.alldomaininfo.com/ZI97/fuck_niggers_49.hta
@@ -2893,12 +2985,14 @@ url,https://cdn.discordapp.com/attachments/912401139310411857/913540738904637440
 url,https://cdn.discordapp.com/attachments/912401139310411857/914552762925195304/hud.class
 url,https://cdn.discordapp.com/attachments/912401139310411857/914552762925195304/hud.class
 url,https://cdn.discordapp.com/attachments/912401139310411857/916049575435993138/lucidphase.class
+url,https://cdn.discordapp.com/attachments/912401139310411857/916049575435993138/lucidphase.class
 url,https://cdn.fbsbx.com/v/t59.2708-21/261523260_570309860735261_6837498676061670623_n.class/gradesusingarrayswithsorting.class
 url,https://cdn.fbsbx.com/v/t59.2708-21/261523260_570309860735261_6837498676061670623_n.class/gradesusingarrayswithsorting.class
 url,https://daftar.site/ANASOO/ZqpHydykkkklgbtq.bin
 url,https://daftar.site/DIIZ/aXXjQAZugmfgEvkkklgbtq.bin
 url,https://daftar.site/DIIZ/aXXjQAZugmfgEvkkklgbtq.bin
 url,https://daftar.site/HEQ1AL/XsjhBjOkmtkkklgbtq.bin
+url,https://edutra.co.in/HUS8/christmas.py
 url,https://edutra.co.in/HUS8/christmas.py
 url,https://gandalinir.com/a-frllx-h1b-gdf-cl3s-i1my.class
 url,https://gandalinir.com/a-frllx-h1b-gdf-cl3s-i1my.class
@@ -2918,6 +3012,7 @@ url,https://gimmoxen.com/z-1azs15-fc-iar-hklh-d1j9.class?subid_1=im_pr_&subid_2=
 url,https://gimmoxen.com/z-1azs15-fc-iar-hklh-d1j9.class?subid_1=im_pr_&subid_2=24b9086f-70de-4de4-8fc8-82209cf1b546&subid_7=elsfhzhgoznxdewntamz9q
 url,https://gimmoxen.com/z-1azs15-fc-iar-hklh-d1j9.class?subid_1=im_pr_&subid_2=24b9086f-70de-4de4-8fc8-82209cf1b546&subid_7=f6aybvz3y47ua4rti4g28e
 url,https://github.com/offensive-security/exploit-database-bin-sploits/raw/master/bin-sploits/40848.class
+url,https://github.com/offensive-security/exploit-database-bin-sploits/raw/master/bin-sploits/40848.class
 url,https://github.com/offensive-security/exploitdb-bin-sploits/raw/master/bin-sploits/40848.class
 url,https://github.com/tangxiaofeng7/apache-log4j-poc/blob/main/target/classes/log4j.class
 url,https://github.com/tangxiaofeng7/apache-log4j-poc/blob/main/target/classes/log4j.class
@@ -2931,6 +3026,7 @@ url,https://pasrtsebarium.com/14-1dznzz-hc-dar-ikys-g1j9.class
 url,https://pasrtsebarium.com/14-1e470x-jc-ear-ikdw-h1j9.class
 url,https://pasrtsebarium.com/14-1e470x-jc-ear-ikdw-h1j9.class
 url,https://pasrtsebarium.com/19-1k5kr4-cc-ear-jkw2-b1j9.class
+url,https://pasrtsebarium.com/5-9sc3k-cc-gar-bkw2-d1j9.class
 url,https://pasrtsebarium.com/5-9sc3k-cc-gar-bkw2-d1j9.class
 url,https://pasrtsebarium.com/a-e3ge9-bc-dar-ckwv-h1j9.class
 url,https://pasrtsebarium.com/p-v26fa-ec-car-fkdl-g1j9.class
@@ -2946,6 +3042,7 @@ url,https://raw.githubusercontent.com/offensive-security/exploitdb-bin-sploits/m
 url,https://raw.githubusercontent.com/offensive-security/exploitdb-bin-sploits/master/bin-sploits/40848.class
 url,https://shosril.com/z-19fsc4-e1d-gdp-hk8q-b1mw.class
 url,https://shosril.com/z-19fsc4-e1d-gdp-hk8q-b1mw.class?subid_7=mtil5mi1puqgy5wnkx2ygp
+url,https://sites.google.com/view/maintest01
 url,https://sites.google.com/view/maintest01
 url,https://vemgreild.com/5-azqw4-c1h-idz-bkwv-g1nl.class
 url,https://vemgreild.com/a-eyszl-h1h-fdz-ck8r-d1nl.class?subid_1=4681023&subid_2=10_1968469&subid_7=487737896030442354
