@@ -688,6 +688,7 @@ fqdn,46c70a67acd3.bingsearchlib.com
 fqdn,46d97df39a02.bingsearchlib.com
 fqdn,46fda53f5c6e.bingsearchlib.com
 fqdn,47.252.24.16.qpgu9j.dnslog.cn
+fqdn,47.252.24.16.qpgu9j.dnslog.cn
 fqdn,4703a44fa444.bingsearchlib.com
 fqdn,470ffdd3c533.bingsearchlib.com
 fqdn,484aa866cd6c.bingsearchlib.com
@@ -753,6 +754,7 @@ fqdn,5fa620cc5e56.bingsearchlib.com
 fqdn,60292d90d1b2.bingsearchlib.com
 fqdn,6035a310c241.bingsearchlib.com
 fqdn,608ac2d94757.bingsearchlib.com
+fqdn,60ec26e4b948.bingsearchlib.com
 fqdn,60ec26e4b948.bingsearchlib.com
 fqdn,612877d3a59b.bingsearchlib.com
 fqdn,61289367b2a1.bingsearchlib.com
@@ -1231,6 +1233,7 @@ fqdn,eg0.ru
 fqdn,f02536645a47.bingsearchlib.com
 fqdn,f059b8f500b8.bingsearchlib.com
 fqdn,f09fc1554c75.bingsearchlib.com
+fqdn,f09fc1554c75.bingsearchlib.com
 fqdn,f11b4f9fe04a.bingsearchlib.com
 fqdn,f19d3d3b600a.bingsearchlib.com
 fqdn,f1a7f7f25a5c.bingsearchlib.com
@@ -1265,6 +1268,7 @@ fqdn,fa251498.probe001.log4j.leakix.net
 fqdn,faea7437a673.bingsearchlib.com
 fqdn,fb49bb32caca.bingsearchlib.com
 fqdn,fb759c07.probe001.log4j.leakix.net
+fqdn,fb8e0ff6704c.bingsearchlib.com
 fqdn,fb8e0ff6704c.bingsearchlib.com
 fqdn,fbc8a1502970.bingsearchlib.com
 fqdn,fbcec65f688f.bingsearchlib.com
@@ -1417,6 +1421,7 @@ ip,103.19.65.188
 ip,103.52.147.126
 ip,103.56.113.37
 ip,103.90.177.102
+ip,103.90.177.102
 ip,103.92.100.13
 ip,103.96.41.245
 ip,104.129.12.141
@@ -1465,6 +1470,7 @@ ip,122.14.222.124
 ip,123.13.153.28
 ip,123.13.155.222
 ip,123.13.158.58
+ip,123.132.238.210
 ip,123.132.238.210
 ip,124.220.10.167
 ip,124.221.119.17
@@ -1533,6 +1539,7 @@ ip,158.69.246.75
 ip,159.223.43.161
 ip,159.223.5.30
 ip,159.65.242.113
+ip,159.65.242.113
 ip,159.75.19.149
 ip,159.75.54.90
 ip,159.89.182.117
@@ -1563,6 +1570,7 @@ ip,172.105.241.146
 ip,172.105.241.146
 ip,172.105.34.103
 ip,172.16.10.124
+ip,172.16.102.99
 ip,172.16.102.99
 ip,173.18.35.41
 ip,173.82.30.96
@@ -1674,8 +1682,10 @@ ip,212.192.216.46
 ip,212.230.172.6
 ip,212.69.125.33
 ip,213.157.6.50
+ip,213.157.6.50
 ip,213.255.16.156
 ip,213.33.126.130
+ip,213.57.11.16
 ip,213.57.11.16
 ip,217.79.189.13
 ip,217.79.189.13
@@ -1752,6 +1762,7 @@ ip,46.170.151.34
 ip,46.238.66.173
 ip,49.234.143.116
 ip,49.236.192.106
+ip,49.236.192.106
 ip,5.101.118.127
 ip,5.101.118.127
 ip,5.255.97.172
@@ -1772,6 +1783,7 @@ ip,58.229.125.66
 ip,58.33.13.154
 ip,59.3.186.45
 ip,60.216.64.190
+ip,61.102.42.5
 ip,61.102.42.5
 ip,61.2.141.136
 ip,61.253.34.149
@@ -1863,6 +1875,8 @@ ip,84.255.35.53
 ip,85.105.82.39
 ip,85.198.254.49
 ip,85.51.217.156
+ip,85.51.217.156
+ip,85.53.55.133
 ip,85.53.55.133
 ip,85.8.108.61
 ip,85.8.68.2
@@ -2014,6 +2028,7 @@ url,http://164.52.212.196:88/st.vbs
 url,http://164.52.212.196:88/sys.ps1
 url,http://165.22.2.186/wp-content/themes/twentyseventeen/Exploit.class
 url,http://165.227.239.108/stl.sh
+url,http://170.178.196.41:1111/pglQLHfm
 url,http://170.178.196.41:1111/pglQLHfm
 url,http://170.178.196.41:35244/qIoPIauO
 url,http://170.178.196.41:8080/UKTPAnRvns
@@ -2220,6 +2235,7 @@ url,http://51.250.28.5/.l/pty3
 url,http://51.250.28.5/.l/pty3
 url,http://51.250.28.5/.l/pty4
 url,http://51.250.28.5/.l/pty4
+url,http://54.210.230.186:80/wp-content/themes/twentyfourteen/xmrig.exe
 url,http://54.210.230.186:80/wp-content/themes/twentyfourteen/xmrig.exe
 url,http://54.86.65.135/kkk
 url,http://62.210.130.250/lh.sh
@@ -2491,4 +2507,5 @@ url,https://vemgreild.com/p-vnrla-c1h-ddz-fklh-h1nl.class?subid_2=ddd02f38-b70e-
 url,https://vemgreild.com/p-vnrla-c1h-ddz-fklh-h1nl.class?subid_2=ddd02f38-b70e-4483-a82a-f67b21ea1fb0&subid_7=q4v5apfnnkge3hzv1x35uy
 url,https://vemgreild.com/u-12bb0h-h1h-edz-gi9g-f1nl.class
 url,https://vemgreild.com/z-1aqd7l-d1h-idz-hlaf-j1nl.class
+url,https://wwwcie.ups.com/u.a/l.class?8rnctevzjrbtwwbamndjd8frhhmrrtmhdlp0sp
 url,https://wwwcie.ups.com/u.a/l.class?8rnctevzjrbtwwbamndjd8frhhmrrtmhdlp0sp
