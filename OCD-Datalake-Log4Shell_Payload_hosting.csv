@@ -178,6 +178,7 @@ file,40e3b969906c1a3315e821a8461216bb
 file,41103faffda02188fcd34186376ab9c1165d8a64
 file,4180515e740e96fe420fb7bd8869080c0e7f0fd0
 file,44893d0924d8e3015bfed9c1bd166fa01b5ca693
+file,44893d0924d8e3015bfed9c1bd166fa01b5ca693
 file,460b096aaf535b0b8f0224da0f04c7f7997c62bf715839a8012c1e1154a38984
 file,464dc763c817efdd80f93da98eaa45a3feb667d63902735301490461ee41c279
 file,477b49df42b2cd2805fcffa8de2dd14d732628e1e1c2132cb22b8687ee9312d3
@@ -306,6 +307,7 @@ file,9a92c8ed2efd7a32d0c6be3ddc472940fc3f4da7
 file,9b22dc965582572dd8f07f452228b18b
 file,9b22dc965582572dd8f07f452228b18b
 file,9b742f7b44c71b4a0d19790228ce85d8
+file,9b742f7b44c71b4a0d19790228ce85d8
 file,9c0d637225c681ac47c5ce084dd390f394cce84e
 file,9c209a0873b85e1049efdd341ba148eab1764bcc
 file,9c6fc361f49627f13957604e1478593555d28984
@@ -337,6 +339,7 @@ file,ac46725d732f453d039dba13f410be7016750621551d4e57a2d5b769aebe3191
 file,ac8b066d261ca6312c3b2986fe6a95e51528d4d995bad70ee13883709004cbfc
 file,ac8f86909b45f36d7ab862081bce71676b1e90b5c22f195d359a023eb7bf2589
 file,acee475e55a68cd5406b661fc26f55d3
+file,adf98e2bfb854422864cabc37eaa4756b0a52a23fd9302e7df17cc9cd079b07f
 file,adf98e2bfb854422864cabc37eaa4756b0a52a23fd9302e7df17cc9cd079b07f
 file,ae02f2bc9fcbebc16d972227a7be5e33
 file,ae65526443b763c6e2e0bbcc0577739dd26f31574d96d4cf5e9263c51403b119
@@ -483,6 +486,7 @@ fqdn,0005f49368dd.bingsearchlib.com
 fqdn,000864ffaf5d.bingsearchlib.com
 fqdn,009cf07646dc.bingsearchlib.com
 fqdn,013982df19dc.bingsearchlib.com
+fqdn,013982df19dc.bingsearchlib.com
 fqdn,015ed9119662.bingsearchlib.com
 fqdn,01fde8c5eef6.bingsearchlib.com
 fqdn,023371450809.bingsearchlib.com
@@ -530,6 +534,7 @@ fqdn,10580de787ba.bingsearchlib.com
 fqdn,10c100254da9.bingsearchlib.com
 fqdn,10d70081fca0.bingsearchlib.com
 fqdn,11.21fqfx.dnslog.cn
+fqdn,11.21fqfx.dnslog.cn
 fqdn,1154f765fdc8.bingsearchlib.com
 fqdn,1181a9ec5624.bingsearchlib.com
 fqdn,119b7332016d.bingsearchlib.com
@@ -570,6 +575,7 @@ fqdn,1aeb1cfef766.bingsearchlib.com
 fqdn,1baaa1825889.bingsearchlib.com
 fqdn,1c076c450ae4.bingsearchlib.com
 fqdn,1c788b4a217b.bingsearchlib.com
+fqdn,1c9831159f4d.bingsearchlib.com
 fqdn,1c9831159f4d.bingsearchlib.com
 fqdn,1cb4ab1f331a.bingsearchlib.com
 fqdn,1cd8008627fa.bingsearchlib.com
@@ -681,6 +687,7 @@ fqdn,40ad2f4bb07e.bingsearchlib.com
 fqdn,40b339b6168d.bingsearchlib.com
 fqdn,40cef4b0858e.bingsearchlib.com
 fqdn,40d43ba64cc4.bingsearchlib.com
+fqdn,40eeada5.probe001.log4j.leakix.net
 fqdn,40eeada5.probe001.log4j.leakix.net
 fqdn,41.me
 fqdn,416b21120a59.bingsearchlib.com
@@ -887,6 +894,7 @@ fqdn,82a18741e589.bingsearchlib.com
 fqdn,82afeb3d0b11.bingsearchlib.com
 fqdn,82ajo1.dnslog.cn
 fqdn,831f70006f81.bingsearchlib.com
+fqdn,842c8a9493e8.bingsearchlib.com
 fqdn,842c8a9493e8.bingsearchlib.com
 fqdn,845fa0ec.probe001.log4j.leakix.net
 fqdn,849a606b15ce.bingsearchlib.com
@@ -1272,9 +1280,11 @@ fqdn,f1d26c045e5d.bingsearchlib.com
 fqdn,f1fab64ed271.bingsearchlib.com
 fqdn,f204218fc1d8.bingsearchlib.com
 fqdn,f288dba3b7a9.bingsearchlib.com
+fqdn,f288dba3b7a9.bingsearchlib.com
 fqdn,f2a8abaf2ddb.bingsearchlib.com
 fqdn,f346e3e0baec.bingsearchlib.com
 fqdn,f4cf2a9b7dba.bingsearchlib.com
+fqdn,f4d5efdda59f.bingsearchlib.com
 fqdn,f4d5efdda59f.bingsearchlib.com
 fqdn,f53d3241.probe001.log4j.leakix.net
 fqdn,f60aa649.probe001.log4j.leakix.net
@@ -1343,6 +1353,7 @@ fqdn,log4dns.x00.it
 fqdn,log4j-test.xyz
 fqdn,log4j.binaryedge.io
 fqdn,log4j.kingudo.de
+fqdn,log4j.kingudo.de
 fqdn,log4j.leakix.net
 fqdn,log4j.leakix.net
 fqdn,log4j2.component.properties
@@ -1392,6 +1403,7 @@ fqdn,lx-ffff8ba2ce73bb0108313eb66100000000839e76.probe001.log4j.leakix.net
 fqdn,lx-ffff8ba2ce73bb08e154b56100000000da1cd1.probe001.log4j.leakix.net
 fqdn,lx-ffffa9325833bb084382b561000000005b2d47.probe001.log4j.leakix.net
 fqdn,lx-ffffa9388c6abb01080b79b6610000000059cce9.probe001.log4j.leakix.net
+fqdn,lx-ffffa9388c6ebb0108393bb66100000000aa1a37.probe001.log4j.leakix.net
 fqdn,lx-ffffa9388c6ebb0108393bb66100000000aa1a37.probe001.log4j.leakix.net
 fqdn,lx-ffffa9396424bb082e34b66100000000dcade3.probe001.log4j.leakix.net
 fqdn,lx-ffffac687c8bfb2008e64fb66100000000b192f1.probe001.log4j.leakix.net
@@ -1659,6 +1671,7 @@ ip,186.250.45.147
 ip,187.144.41.130
 ip,188.166.57.35
 ip,189.202.188.149
+ip,189.202.188.149
 ip,190.138.240.233
 ip,190.60.239.44
 ip,191.242.182.210
@@ -1733,6 +1746,7 @@ ip,217.79.189.13
 ip,217.79.189.13
 ip,220.179.231.169
 ip,220.179.231.236
+ip,220.228.152.176
 ip,220.228.152.176
 ip,222.100.124.62
 ip,222.103.98.58
@@ -2011,6 +2025,7 @@ url,http://155.94.154.170/log4j
 url,http://157.230.189.52/wp-content/themes/twentynineteen/ldm
 url,http://158.101.118.236/setup
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropista86
+url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropista86
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropista8k
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropistah4
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropistah4
@@ -2061,6 +2076,7 @@ url,http://164.52.212.196:88/1.jpg
 url,http://164.52.212.196:88/1.jpg
 url,http://164.52.212.196:88/11.bat
 url,http://164.52.212.196:88/11.bat
+url,http://164.52.212.196:88/Jamf
 url,http://164.52.212.196:88/Jamf
 url,http://164.52.212.196:88/Jamf.ps1
 url,http://164.52.212.196:88/Jamf.ps1
@@ -2198,6 +2214,7 @@ url,http://205.185.113.59:1234/.inis
 url,http://205.185.113.59:1234/.rsyslogds
 url,http://205.185.113.59:1234/xms
 url,http://205.185.113.59:1234/xmss
+url,http://209.141.46.114/reader
 url,http://209.141.46.114/reader
 url,http://210.141.105.67/wp-content/themes/twentythirteen/m8
 url,http://210.141.105.67/wp-content/themes/twentythirteen/m8
@@ -2365,6 +2382,7 @@ url,http://82.118.18.201/libsystem.so
 url,http://8393fe131d384260.y.psc4fuel.com/hl5ul.class
 url,http://91.200.103.249:8080
 url,http://91.200.103.249:8080/multi/bins/arc
+url,http://91.200.103.249:8080/multi/bins/arc
 url,http://91.200.103.249:8080/multi/bins/arm
 url,http://91.200.103.249:8080/multi/bins/arm5
 url,http://91.200.103.249:8080/multi/bins/arm6
@@ -2456,6 +2474,7 @@ url,http://www.alldomaininfo.com/FUQ/fuck_niggers_7.hta
 url,http://www.alldomaininfo.com/GZT/fuck_niggers_58.hta
 url,http://www.alldomaininfo.com/H0BX1/fuck_niggers_76.hta
 url,http://www.alldomaininfo.com/I233TS/fuck_niggers_68.hta
+url,http://www.alldomaininfo.com/I233TS/fuck_niggers_68.hta
 url,http://www.alldomaininfo.com/J9IPA/fuck_niggers_71.hta
 url,http://www.alldomaininfo.com/JJFO4P/fuck_niggers_4.hta
 url,http://www.alldomaininfo.com/KLY/fuck_niggers_57.hta
@@ -2486,6 +2505,7 @@ url,http://www.alldomaininfo.com/ZI97/fuck_niggers_49.hta
 url,http://www.woodmagazine.com/default.sph/wcontent_user.class?fnc=categorylink__astory1_html___7___47
 url,http://www.woodmagazine.com/default.sph/wcontent_user.class?fnc=emailstory__astory1_html___7___47___129___389
 url,http://www.woodmagazine.com/default.sph/wcontent_user.class?fnc=popupimgfa__astory1_html___389___1___1
+url,http://www.woodmagazine.com/default.sph/wcontent_user.class?fnc=printstory__astory1_html___7___47___129___389
 url,http://www.woodmagazine.com/default.sph/wcontent_user.class?fnc=printstory__astory1_html___7___47___129___389
 url,http://www.woodmagazine.com/default.sph/wcontent_user.class?fnc=subcatlink__astory1_html___7___47___129
 url,https://015ed9119662.bingsearchlib.com:39356/a
