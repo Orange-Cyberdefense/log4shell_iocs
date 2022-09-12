@@ -24,6 +24,7 @@ domain,cuminside.club
 domain,dataastatistics.com
 domain,dataastatistics.com
 domain,dnslog.cn
+domain,dnslog.cn
 domain,doh.li
 domain,eg0.ru
 domain,eg0.ru
@@ -492,6 +493,7 @@ fqdn,05a1253070c9.bingsearchlib.com
 fqdn,05c684d21698.bingsearchlib.com
 fqdn,05ff6845.probe001.log4j.leakix.net
 fqdn,0610f474074f.bingsearchlib.com
+fqdn,0610f474074f.bingsearchlib.com
 fqdn,065ce2d58fdd.bingsearchlib.com
 fqdn,06d102b95479.bingsearchlib.com
 fqdn,07fa356d28c6.bingsearchlib.com
@@ -642,6 +644,7 @@ fqdn,377f2cd13353.bingsearchlib.com
 fqdn,37fccd21badb.bingsearchlib.com
 fqdn,380103eb7aeb.bingsearchlib.com
 fqdn,38010d058864.bingsearchlib.com
+fqdn,39fd3743.probe001.log4j.leakix.net
 fqdn,39fd3743.probe001.log4j.leakix.net
 fqdn,3adfbdeec1fe.bingsearchlib.com
 fqdn,3b1e4a8d7eb2.bingsearchlib.com
@@ -849,6 +852,7 @@ fqdn,7d8f7f6b4d13.bingsearchlib.com
 fqdn,7d90568d1cd1.bingsearchlib.com
 fqdn,7ddeb490146f.bingsearchlib.com
 fqdn,7e8e4bc5.probe001.log4j.leakix.net
+fqdn,7e8e4bc5.probe001.log4j.leakix.net
 fqdn,7e9eb2615c8e.bingsearchlib.com
 fqdn,7faf976567f5.bingsearchlib.com
 fqdn,8.21fqfx.dnslog.cn
@@ -886,6 +890,7 @@ fqdn,876c3c85c4f2.bingsearchlib.com
 fqdn,88875217d50a.bingsearchlib.com
 fqdn,88c40a34cf52.bingsearchlib.com
 fqdn,89108dc06d90.bingsearchlib.com
+fqdn,89598b9a.probe001.log4j.leakix.net
 fqdn,89598b9a.probe001.log4j.leakix.net
 fqdn,89f502dbc7e4.bingsearchlib.com
 fqdn,8a672c92.probe001.log4j.leakix.net
@@ -976,6 +981,7 @@ fqdn,a790ae788e85.bingsearchlib.com
 fqdn,a7aa8415ab06.bingsearchlib.com
 fqdn,a7afcbe99288.bingsearchlib.com
 fqdn,a7da02d6ee87.bingsearchlib.com
+fqdn,a8fvkc.dnslog.cn
 fqdn,a8fvkc.dnslog.cn
 fqdn,a92c9ae8.probe001.log4j.leakix.net
 fqdn,a94d5e4b2e81.bingsearchlib.com
@@ -1068,6 +1074,7 @@ fqdn,c5921cee5a6b.bingsearchlib.com
 fqdn,c5eb13fe41b6.bingsearchlib.com
 fqdn,c5eca394e493.bingsearchlib.com
 fqdn,c6pnncggjk7jk873c9e0cg3zzcoyyyyyn.interactsh.com
+fqdn,c6ps4ipurnhssm2608l0cg37chyyykyhk.interact.sh
 fqdn,c6ps4ipurnhssm2608l0cg37chyyykyhk.interact.sh
 fqdn,c6ps4ipurnhssm2608l0cg37pdyyykbug.interact.sh
 fqdn,c6ps4rekeidcvgqlsmsgcg37qdoyyknz4.interact.sh
@@ -1162,6 +1169,7 @@ fqdn,dff5d0b8.probe001.log4j.leakix.net
 fqdn,dns.digitale-gesellschaft.ch
 fqdn,dns.dns-over-https.com
 fqdn,dns.flatuslifir.is
+fqdn,dns.hostux.net
 fqdn,dns.hostux.net
 fqdn,dns.rubyfish.cn
 fqdn,dns.twnic.tw
@@ -1366,12 +1374,14 @@ fqdn,lx-ffffac690875bb087a04b661000000005a0a69.probe001.log4j.leakix.net
 fqdn,lx-ffffac69b35dbb08ef21b66100000000a661cd.probe001.log4j.leakix.net
 fqdn,lx-ffffb03a6743bb087e51b561000000009fced7.probe001.log4j.leakix.net
 fqdn,lx-ffffb24f84ecfb2008087fb661000000008d5ca3.probe001.log4j.leakix.net
+fqdn,lx-ffffb24f84ecfb2008087fb661000000008d5ca3.probe001.log4j.leakix.net
 fqdn,lx-ffffb9b5d372bb089027b66100000000149e7d.probe001.log4j.leakix.net
 fqdn,lx-ffffb9e5e29bbb085ec4b561000000006b7a72.probe001.log4j.leakix.net
 fqdn,lx-ffffc2ce4d0f5000df3cb5610000000099989e.probe001.log4j.leakix.net
 fqdn,lx-ffffc2ce4d0f5001df3cb56100000000990dd6.probe001.log4j.leakix.net
 fqdn,m3.wtf
 fqdn,nazi.uy
+fqdn,nijat.space
 fqdn,nijat.space
 fqdn,oeig3.tk
 fqdn,paycashs.com
@@ -1465,6 +1475,7 @@ ip,121.170.193.209
 ip,121.200.53.148
 ip,121.36.91.205
 ip,121.41.109.54
+ip,121.41.109.54
 ip,122.14.209.181
 ip,122.14.222.124
 ip,123.13.153.28
@@ -1477,6 +1488,7 @@ ip,124.221.119.17
 ip,124.221.122.219
 ip,124.221.149.228
 ip,124.221.161.120
+ip,124.221.162.244
 ip,124.221.162.244
 ip,124.221.61.226
 ip,124.221.73.47
@@ -1659,6 +1671,7 @@ ip,20.67.62.14
 ip,201.167.24.92
 ip,202.191.96.155
 ip,202.61.203.229
+ip,202.61.203.229
 ip,202.90.131.38
 ip,202.90.131.39
 ip,205.185.113.59
@@ -1701,6 +1714,7 @@ ip,223.171.91.146
 ip,223.171.91.147
 ip,223.171.91.149
 ip,223.171.91.160
+ip,223.171.91.191
 ip,223.171.91.191
 ip,23.94.251.245
 ip,24.32.65.138
@@ -1920,6 +1934,7 @@ url,http://114.132.231.19/hfs.exe
 url,http://114.132.231.19:80
 url,http://121.140.99.236:1389/Exploit
 url,http://121.41.109.54:2204
+url,http://121.41.109.54:2204
 url,http://129.226.180.53/xmrig_setup/raw/master/setup_c3pool_miner.sh
 url,http://129.226.180.53/xmrig_setup/raw/master/setup_c3pool_miner.sh
 url,http://129.226.180.53/xmrig_setup/raw/master/xmrig.tar.gz
@@ -1964,6 +1979,8 @@ url,http://158.101.118.236/setup
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropista86
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropista8k
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropistah4
+url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropistah4
+url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropistam4
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropistam4
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropistam5
 url,http://158.69.33.162/as546dasd4as5d54a5s4sd/mizakotropistam6
@@ -1996,6 +2013,7 @@ url,http://164.52.212.196/1.jpg
 url,http://164.52.212.196/1.jpg
 url,http://164.52.212.196/LogBack.exe
 url,http://164.52.212.196/config.jpg
+url,http://164.52.212.196/config.jpg
 url,http://164.52.212.196/eth.jpg
 url,http://164.52.212.196/eth.jpg
 url,http://164.52.212.196/je
@@ -2008,6 +2026,7 @@ url,http://164.52.212.196:88
 url,http://164.52.212.196:88/1.jpg
 url,http://164.52.212.196:88/1.jpg
 url,http://164.52.212.196:88/11.bat
+url,http://164.52.212.196:88/11.bat
 url,http://164.52.212.196:88/Jamf
 url,http://164.52.212.196:88/Jamf.ps1
 url,http://164.52.212.196:88/Jamf.ps1
@@ -2019,6 +2038,7 @@ url,http://164.52.212.196:88/config.json
 url,http://164.52.212.196:88/config.json
 url,http://164.52.212.196:88/eth.jpg
 url,http://164.52.212.196:88/eth.jpg
+url,http://164.52.212.196:88/log
 url,http://164.52.212.196:88/log
 url,http://164.52.212.196:88/logback.exe
 url,http://164.52.212.196:88/logc
@@ -2151,6 +2171,7 @@ url,http://212.96.189.52/lshboot
 url,http://212.96.189.52/mvt/bash
 url,http://2599ddb9ef1b4a50.y.psc4fuel.com/oz7tc.class
 url,http://3.145.115.94/Main.class
+url,http://3.145.115.94/Main.class
 url,http://3.145.115.94/zambo/groenhuyzen.exe
 url,http://3.145.115.94/zambo/groenhuyzen.exe
 url,http://3.145.115.94/zambos_caldo_de_p.tx
@@ -2165,6 +2186,7 @@ url,http://32fce0c1f193.bingsearchlib.com:39356/a
 url,http://32fce0c1f193.bingsearchlib.com:39356/a
 url,http://34.221.40.237/.x
 url,http://34.221.40.237/.x
+url,http://34.221.40.237/.x/1sh
 url,http://34.221.40.237/.x/1sh
 url,http://34.221.40.237/.x/3sh
 url,http://34.221.40.237/.x/pty1
@@ -2213,6 +2235,7 @@ url,http://45.155.205.233:12344/Basic/Command/Base64/KGN1cmwgLXMgNDUuMTU1LjIwNS4
 url,http://45.155.205.233:12344/Basic/Command/Base64/KGN1cmwgLXMgNDUuMTU1LjIwNS4yMzM6NTg3NC9bdmljdGltIElQXTpbdmljdGltIHBvcnRdfHx3Z2V0IC1xIC1PLSA0NS4xNTUuMjA1LjIzMzo1ODc0L1t2aWN0aW0gSVBdOlt2aWN0aW0gcG9ydF0pfGJhc2gK
 url,http://45.155.205.233:5874
 url,http://45.155.205.233:5874/87.138.139.76:443
+url,http://45.83.193.150:1389
 url,http://45.83.193.150:1389
 url,http://4579997215e7750180a8.d.requestbin.net/exploit.class
 url,http://46.161.52.37
@@ -2269,6 +2292,7 @@ url,http://68.183.165.105/wp-content/themes/twentyseventeen/xmrig64.exe
 url,http://68.183.165.105:80/wp-content/themes/twentyseventeen/xmrig64.exe
 url,http://6c8d7dd40593.bingsearchlib.com:39356/a
 url,http://6c8d7dd40593.bingsearchlib.com:39356/a
+url,http://78.31.71.248:1389
 url,http://78.31.71.248:1389
 url,http://78.31.71.248:1389/lewrgz
 url,http://78.31.71.248:8180/ExecTemplateJDK8.class
