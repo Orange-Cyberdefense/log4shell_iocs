@@ -30,6 +30,7 @@ domain,kookoo.co.in
 domain,kryptoslogic-cve-2021-44228.com
 domain,kylintech.in
 domain,leakix.net
+domain,lennut.com
 domain,log4j-test.xyz
 domain,log4shell-iocs.md
 domain,longwang-sword.com
@@ -54,6 +55,8 @@ domain,sonicrain.com
 domain,sygateway.com
 domain,tabak.hr
 domain,testcentos7rdrd.com
+domain,tunnel.com
+domain,us-nation-ny.cf
 domain,vikingo.org
 domain,webhook.site
 domain,webs-up.com
@@ -1752,6 +1755,7 @@ fqdn,interactsh.com
 fqdn,ip65.ip-66-70-238.net
 fqdn,jj.941znf.ceye.io
 fqdn,jjug8i.xaliyun.com
+fqdn,korgn.su.lennut.com
 fqdn,kryptoslogic-cve-2021-44228.com
 fqdn,l4j.dnspwn.w0.cx
 fqdn,li466-34.members.linode.com
@@ -1846,6 +1850,7 @@ fqdn,t1.hinitial.com
 fqdn,t2.hinitial.com
 fqdn,tb8vukwsqgwossmm6zrifxhy4pafy4.burp.regala.im
 fqdn,teste.spedynet.com.br
+fqdn,tunnel.us.ngrok.com
 fqdn,u3l7ck.dnslog.cn
 fqdn,useragent.kryptoslogic-cve-2021-44228.com
 fqdn,v2.hinitial.com
@@ -24617,6 +24622,7 @@ ip,51.89.135.142
 ip,51.89.151.197
 ip,51.89.169.198
 ip,51.89.178.210
+ip,51.89.181.64
 ip,51.89.190.128
 ip,51.89.194.152
 ip,51.89.204.5
@@ -30046,6 +30052,7 @@ url,http://18.228.7.109/.log/pty3
 url,http://18.228.7.109/.log/pty4
 url,http://18.228.7.109/.log/pty5
 url,http://18.228.7.109:80
+url,http://182.54.217.2/mdepoy.txt
 url,http://185.112.83.116:8080/drv
 url,http://185.154.53.140/get
 url,http://185.154.53.140/mg
@@ -30363,6 +30370,7 @@ url,http://teste.spedynet.com.br/MD9EQE/fuck_niggers_14.hta
 url,http://teste.spedynet.com.br/PR4O/fuck
 url,http://teste.spedynet.com.br/PVGB/fuck_niggers
 url,http://teste.spedynet.com.br/XSS/fuck_niggers_46.hta
+url,http://transfer.sh
 url,http://v2.hinitial.com/qasd/bri.tar.gz
 url,http://v2.hinitial.com/temp/bri.tar.bz2.aa.rar
 url,http://v2.hinitial.com/temp/bri.tar.bz2.ab.rar
