@@ -8,6 +8,13 @@ Orange Cyberdefense blog post about Log4Shell: [link](https://orangecyberdefense
 
 ### Collections available
 
-- [OCD-Datalake-Log4Shell_IOCs-ALL.csv](./OCD-Datalake-Log4Shell_IOCs-ALL.csv): all IOCs related to Log4Shell
-- [OCD-Datalake-Log4Shell_IOCs-Exploit_attempts.csv](./OCD-Datalake-Log4Shell_IOCs-Exploit_attempts.csv): IOCs only related to exploit attempts (mostly useful on ingress traffic)
-- [OCD-Datalake-Log4Shell_Payload_hosting.csv](./OCD-Datalake-Log4Shell_Payload_hosting.csv): IOCs only related to payloads or payload hosting (mostly useful on egress traffic or for file hunting)
+- all IOCs related to Log4Shell
+  - [HTML Preview](https://datalake.cert.orangecyberdefense.com/api/v2/mrti/public/export-html/?query_body_hash=beee5d17a40d370ea4aa89f1844db1c8)
+  - [CSV Export](https://datalake.cert.orangecyberdefense.com/api/v2/mrti/public/export-csv/?query_body_hash=beee5d17a40d370ea4aa89f1844db1c8)
+- IOCs only related to exploit attempts (mostly useful on ingress traffic)
+  - [HTML Preview](https://datalake.cert.orangecyberdefense.com/api/v2/mrti/public/export-html/?query_body_hash=5c6cce54053b4cbaafa48ebf498a31cb)
+  - [CSV Export](https://datalake.cert.orangecyberdefense.com/api/v2/mrti/public/export-csv/?query_body_hash=5c6cce54053b4cbaafa48ebf498a31cb)
+- IOCs only related to payloads or payload hosting (mostly useful on egress traffic or for file hunting)
+  - [HTML Preview](https://datalake.cert.orangecyberdefense.com/api/v2/mrti/public/export-html/?query_body_hash=aefb996231fad1c380ff4972e7bc9ff3)
+  - [CSV Export](https://datalake.cert.orangecyberdefense.com/api/v2/mrti/public/export-csv/?query_body_hash=aefb996231fad1c380ff4972e7bc9ff3)
+
